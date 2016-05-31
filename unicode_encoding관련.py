@@ -2,6 +2,8 @@
 """
 Created on Tue Apr 05 21:06:25 2016
 
+@from: http://jonnung.blogspot.kr/2014/07/python2-unicode-utf8.html
+
 @author: Administrator
 """
 
