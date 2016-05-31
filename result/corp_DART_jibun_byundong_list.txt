@@ -1,0 +1,5 @@
+013	에스엔케이폴리텍	http://dart.fss.or.kr/report/viewer.do?rcpNo=20070725000148&dcmNo=1683826&eleId=59&offset=4625&length=11926&dtd=dart2.dtd	코스닥시장 상장공모	2007년 07월 19일	2007년 07월 20일	2007년 07월 24일	
+013	에스엔케이폴리텍	http://dart.fss.or.kr/report/viewer.do?rcpNo=20070725000148&dcmNo=1683826&eleId=59&offset=4625&length=11926&dtd=dart2.dtd	키움증권(주)	2,370,000	21,093,000,000	100.0	대표주관회사	
+013	에스엔케이폴리텍	http://dart.fss.or.kr/report/viewer.do?rcpNo=20070725000148&dcmNo=1683826&eleId=59&offset=4625&length=11926&dtd=dart2.dtd	계	2,370,000	21,093,000,000	100.0	-	
+013	에스엔케이폴리텍	http://dart.fss.or.kr/report/viewer.do?rcpNo=20070725000148&dcmNo=1683826&eleId=59&offset=4625&length=11926&dtd=dart2.dtd	일반청약	2,370,000	100.0	4,759	146,631,340	644,072,263,000	100.0	4,702	2,370,000	21,093,000,000	100.0	
+013	에스엔케이폴리텍	http://dart.fss.or.kr/report/viewer.do?rcpNo=20070725000148&dcmNo=1683826&eleId=59&offset=4625&length=11926&dtd=dart2.dtd	계	2,370,000	100.0	4,759	146,631,340	644,072,263,000	100.0	4,702	2,370,000	21,093,000,000	100.0	

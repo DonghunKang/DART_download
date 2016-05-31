@@ -1,0 +1,842 @@
+풍강	http://dart.fss.or.kr/report/viewer.do?rcpNo=20070517000169&dcmNo=1646662&eleId=12&offset=491&length=164646&dtd=dart2.dtd	참여기관수	484	113	597	
+풍강	http://dart.fss.or.kr/report/viewer.do?rcpNo=20070517000169&dcmNo=1646662&eleId=12&offset=491&length=164646&dtd=dart2.dtd	대상주식	1,040,000	520,000	1,560,000	
+풍강	http://dart.fss.or.kr/report/viewer.do?rcpNo=20070517000169&dcmNo=1646662&eleId=12&offset=491&length=164646&dtd=dart2.dtd	수요예측참여주식수	46,285,000	51,931,000	98,216,000	
+풍강	http://dart.fss.or.kr/report/viewer.do?rcpNo=20070517000169&dcmNo=1646662&eleId=12&offset=491&length=164646&dtd=dart2.dtd	단순경쟁률	44.50 : 1	99.87 : 1	62.96 : 1	
+풍강	http://dart.fss.or.kr/report/viewer.do?rcpNo=20070517000169&dcmNo=1646662&eleId=12&offset=491&length=164646&dtd=dart2.dtd	최고참여가격	4,100	3,900	4,100	
+풍강	http://dart.fss.or.kr/report/viewer.do?rcpNo=20070517000169&dcmNo=1646662&eleId=12&offset=491&length=164646&dtd=dart2.dtd	최저참여가격	3,300	3,300	3,300	
+풍강	http://dart.fss.or.kr/report/viewer.do?rcpNo=20070517000169&dcmNo=1646662&eleId=12&offset=491&length=164646&dtd=dart2.dtd	최빈값	3,600	3,600	3,600	
+풍강	http://dart.fss.or.kr/report/viewer.do?rcpNo=20070517000169&dcmNo=1646662&eleId=12&offset=491&length=164646&dtd=dart2.dtd	단순평균	3,636	3,575	3,604	
+풍강	http://dart.fss.or.kr/report/viewer.do?rcpNo=20070517000169&dcmNo=1646662&eleId=12&offset=491&length=164646&dtd=dart2.dtd	미확약	59	2	61	
+풍강	http://dart.fss.or.kr/report/viewer.do?rcpNo=20070517000169&dcmNo=1646662&eleId=12&offset=491&length=164646&dtd=dart2.dtd	1개월	425	111	536	
+풍강	http://dart.fss.or.kr/report/viewer.do?rcpNo=20070517000169&dcmNo=1646662&eleId=12&offset=491&length=164646&dtd=dart2.dtd	2개월	0	0	0	
+***********	*****************	****************	***************	**************	**************
+엔텔스	http://dart.fss.or.kr/report/viewer.do?rcpNo=20070604000028&dcmNo=1654862&eleId=12&offset=509&length=77109&dtd=dart2.dtd	참여기관수	443	124	567	
+엔텔스	http://dart.fss.or.kr/report/viewer.do?rcpNo=20070604000028&dcmNo=1654862&eleId=12&offset=509&length=77109&dtd=dart2.dtd	대상주식	<br/>	<br/>	567,070	
+엔텔스	http://dart.fss.or.kr/report/viewer.do?rcpNo=20070604000028&dcmNo=1654862&eleId=12&offset=509&length=77109&dtd=dart2.dtd	수요예측참여주식수	33,752,000	17,675,000	51,427,000	
+엔텔스	http://dart.fss.or.kr/report/viewer.do?rcpNo=20070604000028&dcmNo=1654862&eleId=12&offset=509&length=77109&dtd=dart2.dtd	단순경쟁률	<br/>	<br/>	90.69 : 1	
+엔텔스	http://dart.fss.or.kr/report/viewer.do?rcpNo=20070604000028&dcmNo=1654862&eleId=12&offset=509&length=77109&dtd=dart2.dtd	최고참여가격	15,000	10,000	15,000	
+엔텔스	http://dart.fss.or.kr/report/viewer.do?rcpNo=20070604000028&dcmNo=1654862&eleId=12&offset=509&length=77109&dtd=dart2.dtd	최저참여가격	7,000	9,400	7,000	
+엔텔스	http://dart.fss.or.kr/report/viewer.do?rcpNo=20070604000028&dcmNo=1654862&eleId=12&offset=509&length=77109&dtd=dart2.dtd	최빈값	9,500	10,000	9,500	
+엔텔스	http://dart.fss.or.kr/report/viewer.do?rcpNo=20070604000028&dcmNo=1654862&eleId=12&offset=509&length=77109&dtd=dart2.dtd	단순평균	9,650	9,611	9,637	
+엔텔스	http://dart.fss.or.kr/report/viewer.do?rcpNo=20070604000028&dcmNo=1654862&eleId=12&offset=509&length=77109&dtd=dart2.dtd	미확약	273	107	380	
+엔텔스	http://dart.fss.or.kr/report/viewer.do?rcpNo=20070604000028&dcmNo=1654862&eleId=12&offset=509&length=77109&dtd=dart2.dtd	1개월	141	17	158	
+엔텔스	http://dart.fss.or.kr/report/viewer.do?rcpNo=20070604000028&dcmNo=1654862&eleId=12&offset=509&length=77109&dtd=dart2.dtd	2개월	29	0	29	
+***********	*****************	****************	***************	**************	**************
+넥스트칩	http://dart.fss.or.kr/report/viewer.do?rcpNo=20070607000155&dcmNo=1656802&eleId=12&offset=493&length=131019&dtd=dart2.dtd	참여기관수	467	126	593	
+넥스트칩	http://dart.fss.or.kr/report/viewer.do?rcpNo=20070607000155&dcmNo=1656802&eleId=12&offset=493&length=131019&dtd=dart2.dtd	대상주식	<br/>	<br/>	728,000	
+넥스트칩	http://dart.fss.or.kr/report/viewer.do?rcpNo=20070607000155&dcmNo=1656802&eleId=12&offset=493&length=131019&dtd=dart2.dtd	수요예측참여주식수	29,804,000	12,544,000	42,348,000	
+넥스트칩	http://dart.fss.or.kr/report/viewer.do?rcpNo=20070607000155&dcmNo=1656802&eleId=12&offset=493&length=131019&dtd=dart2.dtd	단순경쟁률	<br/>	<br/>	58.17 : 1	
+넥스트칩	http://dart.fss.or.kr/report/viewer.do?rcpNo=20070607000155&dcmNo=1656802&eleId=12&offset=493&length=131019&dtd=dart2.dtd	최고참여가격	16,200	15,900	16,200	
+넥스트칩	http://dart.fss.or.kr/report/viewer.do?rcpNo=20070607000155&dcmNo=1656802&eleId=12&offset=493&length=131019&dtd=dart2.dtd	최저참여가격	12.000	13,500	12,000	
+넥스트칩	http://dart.fss.or.kr/report/viewer.do?rcpNo=20070607000155&dcmNo=1656802&eleId=12&offset=493&length=131019&dtd=dart2.dtd	최빈값	15,000	15,000	15,000	
+넥스트칩	http://dart.fss.or.kr/report/viewer.do?rcpNo=20070607000155&dcmNo=1656802&eleId=12&offset=493&length=131019&dtd=dart2.dtd	단순평균	15,059	14,923	15,019	
+넥스트칩	http://dart.fss.or.kr/report/viewer.do?rcpNo=20070607000155&dcmNo=1656802&eleId=12&offset=493&length=131019&dtd=dart2.dtd	미확약	286	95	381	
+넥스트칩	http://dart.fss.or.kr/report/viewer.do?rcpNo=20070607000155&dcmNo=1656802&eleId=12&offset=493&length=131019&dtd=dart2.dtd	1개월	145	31	176	
+넥스트칩	http://dart.fss.or.kr/report/viewer.do?rcpNo=20070607000155&dcmNo=1656802&eleId=12&offset=493&length=131019&dtd=dart2.dtd	2개월	36	-	36	
+***********	*****************	****************	***************	**************	**************
+컴투스	http://dart.fss.or.kr/report/viewer.do?rcpNo=20070626000024&dcmNo=1666817&eleId=12&offset=494&length=141970&dtd=dart2.dtd	주) 국내 자산운용회사의 경우 펀드별 신청건수는 각 자산운용사 명의의 1건으로 간주함.	
+***********	*****************	****************	***************	**************	**************
+메모리앤테스팅	http://dart.fss.or.kr/report/viewer.do?rcpNo=20070629000360&dcmNo=1670580&eleId=12&offset=498&length=170980&dtd=dart2.dtd	참여기관수	487	103	590	
+메모리앤테스팅	http://dart.fss.or.kr/report/viewer.do?rcpNo=20070629000360&dcmNo=1670580&eleId=12&offset=498&length=170980&dtd=dart2.dtd	대상주식	500,000	100,000	600,000	
+메모리앤테스팅	http://dart.fss.or.kr/report/viewer.do?rcpNo=20070629000360&dcmNo=1670580&eleId=12&offset=498&length=170980&dtd=dart2.dtd	수요예측참여주식수	39,969,000	21,367,000	61,336,000	
+메모리앤테스팅	http://dart.fss.or.kr/report/viewer.do?rcpNo=20070629000360&dcmNo=1670580&eleId=12&offset=498&length=170980&dtd=dart2.dtd	단순경쟁률	79.94 : 1	213.67 : 1	102.23 : 1	
+메모리앤테스팅	http://dart.fss.or.kr/report/viewer.do?rcpNo=20070629000360&dcmNo=1670580&eleId=12&offset=498&length=170980&dtd=dart2.dtd	최고참여가격	8,000	8,000	8,000	
+메모리앤테스팅	http://dart.fss.or.kr/report/viewer.do?rcpNo=20070629000360&dcmNo=1670580&eleId=12&offset=498&length=170980&dtd=dart2.dtd	최저참여가격	7,000	7,400	7,000	
+메모리앤테스팅	http://dart.fss.or.kr/report/viewer.do?rcpNo=20070629000360&dcmNo=1670580&eleId=12&offset=498&length=170980&dtd=dart2.dtd	최빈값	7,700	8,000	7,700	
+메모리앤테스팅	http://dart.fss.or.kr/report/viewer.do?rcpNo=20070629000360&dcmNo=1670580&eleId=12&offset=498&length=170980&dtd=dart2.dtd	단순평균	7,675	7,836	7,731	
+메모리앤테스팅	http://dart.fss.or.kr/report/viewer.do?rcpNo=20070629000360&dcmNo=1670580&eleId=12&offset=498&length=170980&dtd=dart2.dtd	미확약	71	4	75	
+메모리앤테스팅	http://dart.fss.or.kr/report/viewer.do?rcpNo=20070629000360&dcmNo=1670580&eleId=12&offset=498&length=170980&dtd=dart2.dtd	2주	27	0	27	
+메모리앤테스팅	http://dart.fss.or.kr/report/viewer.do?rcpNo=20070629000360&dcmNo=1670580&eleId=12&offset=498&length=170980&dtd=dart2.dtd	1개월	389	99	488	
+***********	*****************	****************	***************	**************	**************
+에코프로	http://dart.fss.or.kr/report/viewer.do?rcpNo=20070706000013&dcmNo=1673909&eleId=12&offset=512&length=49525&dtd=dart2.dtd	기관투자자 및 고수익간접투자기구	133건	97,780,763주	단순 경쟁율	
+***********	*****************	****************	***************	**************	**************
+바로비젼	http://dart.fss.or.kr/report/viewer.do?rcpNo=20070709000350&dcmNo=1675538&eleId=12&offset=507&length=167398&dtd=dart2.dtd	구분	참여자수	신청금액	비고	
+바로비젼	http://dart.fss.or.kr/report/viewer.do?rcpNo=20070709000350&dcmNo=1675538&eleId=12&offset=507&length=167398&dtd=dart2.dtd	기관투자자 및 고수익간접투자기구	115건	527,851,033,000원	-	
+***********	*****************	****************	***************	**************	**************
+아로마소프트	http://dart.fss.or.kr/report/viewer.do?rcpNo=20070713000358&dcmNo=1678913&eleId=12&offset=495&length=75750&dtd=dart2.dtd	구분	참여자수	신청주식수	비고	
+아로마소프트	http://dart.fss.or.kr/report/viewer.do?rcpNo=20070713000358&dcmNo=1678913&eleId=12&offset=495&length=75750&dtd=dart2.dtd	국/내외기관투자자	118건	104,538,934주	<br/>	
+***********	*****************	****************	***************	**************	**************
+아구스	http://dart.fss.or.kr/report/viewer.do?rcpNo=20070716000009&dcmNo=1678973&eleId=12&offset=489&length=176983&dtd=dart2.dtd	주) 국내 자산운용회사의 경우 펀드별 신청건수는 각 자산운용사 명의의 1건으로 간주함.	
+***********	*****************	****************	***************	**************	**************
+에스엔케이폴리텍	http://dart.fss.or.kr/report/viewer.do?rcpNo=20070716000189&dcmNo=1679444&eleId=12&offset=516&length=114462&dtd=dart2.dtd	기관투자자	자산운용사	32	99,908,000	단순경쟁률	
+에스엔케이폴리텍	http://dart.fss.or.kr/report/viewer.do?rcpNo=20070716000189&dcmNo=1679444&eleId=12&offset=516&length=114462&dtd=dart2.dtd	상호저축은행	73	44,555,000	
+에스엔케이폴리텍	http://dart.fss.or.kr/report/viewer.do?rcpNo=20070716000189&dcmNo=1679444&eleId=12&offset=516&length=114462&dtd=dart2.dtd	기타(증권, 보험 등)	42	17,908,000	
+에스엔케이폴리텍	http://dart.fss.or.kr/report/viewer.do?rcpNo=20070716000189&dcmNo=1679444&eleId=12&offset=516&length=114462&dtd=dart2.dtd	계	147	161,570,707	
+***********	*****************	****************	***************	**************	**************
+빅솔론	http://dart.fss.or.kr/report/viewer.do?rcpNo=20070803000187&dcmNo=1689275&eleId=12&offset=493&length=96180&dtd=dart2.dtd	구분	참여자수	신청주식수	비고	
+빅솔론	http://dart.fss.or.kr/report/viewer.do?rcpNo=20070803000187&dcmNo=1689275&eleId=12&offset=493&length=96180&dtd=dart2.dtd	국/내외기관투자자	140 건	145,240,488 주	<br/>	
+***********	*****************	****************	***************	**************	**************
+웨이브일렉트로닉스	http://dart.fss.or.kr/report/viewer.do?rcpNo=20070831000288&dcmNo=1710151&eleId=12&offset=515&length=60237&dtd=dart2.dtd	기관투자자 및 고수익간접투자기구	95 건	62,524,256 주	<br/>	
+***********	*****************	****************	***************	**************	**************
+푸른기술	http://dart.fss.or.kr/report/viewer.do?rcpNo=20070903000152&dcmNo=1710665&eleId=12&offset=493&length=90589&dtd=dart2.dtd	주) 국내 자산운용회사의 경우 펀드별 신청건수는 각 자산운용사 명의의 1건으로 간주함.	
+***********	*****************	****************	***************	**************	**************
+옴니시스템	http://dart.fss.or.kr/report/viewer.do?rcpNo=20070907000255&dcmNo=1713742&eleId=12&offset=511&length=101276&dtd=dart2.dtd	주) 국내 자산운용회사의 경우 펀드별 신청건수는 각 자산운용사 명의의 1건으로 간주함. 	
+***********	*****************	****************	***************	**************	**************
+STX팬오션	http://dart.fss.or.kr/report/viewer.do?rcpNo=20070912000009&dcmNo=1715922&eleId=12&offset=504&length=134436&dtd=dart2.dtd	구분	참여자수	신청주식수	비고	
+STX팬오션	http://dart.fss.or.kr/report/viewer.do?rcpNo=20070912000009&dcmNo=1715922&eleId=12&offset=504&length=134436&dtd=dart2.dtd	국내기관투자자	163건	2,876,020,288주	<br/>	
+STX팬오션	http://dart.fss.or.kr/report/viewer.do?rcpNo=20070912000009&dcmNo=1715922&eleId=12&offset=504&length=134436&dtd=dart2.dtd	해외기관투자자	71건	695,851,629주	<br/>	
+STX팬오션	http://dart.fss.or.kr/report/viewer.do?rcpNo=20070912000009&dcmNo=1715922&eleId=12&offset=504&length=134436&dtd=dart2.dtd	합계	234건	3,571,871,917주	<br/>	
+***********	*****************	****************	***************	**************	**************
+상보	http://dart.fss.or.kr/report/viewer.do?rcpNo=20070914000024&dcmNo=1717312&eleId=12&offset=491&length=68919&dtd=dart2.dtd	기관투자자	120	70,172,660	77.11 대 1	-	
+***********	*****************	****************	***************	**************	**************
+네오티스	http://dart.fss.or.kr/report/viewer.do?rcpNo=20070912000132&dcmNo=1716231&eleId=12&offset=512&length=82278&dtd=dart2.dtd	주) 자산운용회사의 경우 펀드별 신청건수는 각 자산운용사 명의의 1건으로 간주함	
+***********	*****************	****************	***************	**************	**************
+아이에스시테크놀러지	http://dart.fss.or.kr/report/viewer.do?rcpNo=20070911000108&dcmNo=1715481&eleId=12&offset=499&length=131007&dtd=dart2.dtd	기관투자자	자산운용사	20	18,343,332	<br/>	
+아이에스시테크놀러지	http://dart.fss.or.kr/report/viewer.do?rcpNo=20070911000108&dcmNo=1715481&eleId=12&offset=499&length=131007&dtd=dart2.dtd	증권회사	21	3,160,932	<br/>	
+아이에스시테크놀러지	http://dart.fss.or.kr/report/viewer.do?rcpNo=20070911000108&dcmNo=1715481&eleId=12&offset=499&length=131007&dtd=dart2.dtd	기타(은행, 보험 등)	60	17,749,000	<br/>	
+아이에스시테크놀러지	http://dart.fss.or.kr/report/viewer.do?rcpNo=20070911000108&dcmNo=1715481&eleId=12&offset=499&length=131007&dtd=dart2.dtd	계	101	39,253,264	<br/>	
+***********	*****************	****************	***************	**************	**************
+오디텍	http://dart.fss.or.kr/report/viewer.do?rcpNo=20070919000096&dcmNo=1719700&eleId=12&offset=492&length=144069&dtd=dart2.dtd	기관투자자	91건	51,415,819주	-	
+***********	*****************	****************	***************	**************	**************
+엘지에스	http://dart.fss.or.kr/report/viewer.do?rcpNo=20070928000416&dcmNo=1724008&eleId=12&offset=512&length=111397&dtd=dart2.dtd	기관투자자	73	39,566,115	39.97 대 1	-	
+***********	*****************	****************	***************	**************	**************
+성우전자	http://dart.fss.or.kr/report/viewer.do?rcpNo=20070921000194&dcmNo=1721659&eleId=12&offset=493&length=88338&dtd=dart2.dtd	(주1) 국내 자산운용회사의 경우 펀드별 신청건수는 각 자산운용사 명의의 1건으로 간주함. 	
+***********	*****************	****************	***************	**************	**************
+에스에너지	http://dart.fss.or.kr/report/viewer.do?rcpNo=20071001000054&dcmNo=1724284&eleId=12&offset=511&length=88949&dtd=dart2.dtd	기관투자자	112	62,334,217	104.59 대 1	-	
+***********	*****************	****************	***************	**************	**************
+디아이씨	http://dart.fss.or.kr/report/viewer.do?rcpNo=20071005000260&dcmNo=1727101&eleId=12&offset=512&length=106214&dtd=dart2.dtd	기관투자자	85건	13,349,985수	단순 경쟁율	
+***********	*****************	****************	***************	**************	**************
+다믈멀티미디어	http://dart.fss.or.kr/report/viewer.do?rcpNo=20071008000085&dcmNo=1727563&eleId=12&offset=498&length=148166&dtd=dart2.dtd	기관투자자	41건	27,092,985주	-	
+***********	*****************	****************	***************	**************	**************
+KSS해운	http://dart.fss.or.kr/report/viewer.do?rcpNo=20071012000266&dcmNo=1731669&eleId=12&offset=491&length=74948&dtd=dart2.dtd	구분	참여자수	신청금액	비고	
+KSS해운	http://dart.fss.or.kr/report/viewer.do?rcpNo=20071012000266&dcmNo=1731669&eleId=12&offset=491&length=74948&dtd=dart2.dtd	기관투자자	139건	1,249,221,330천원	-	
+***********	*****************	****************	***************	**************	**************
+이엘케이	http://dart.fss.or.kr/report/viewer.do?rcpNo=20071016000014&dcmNo=1732623&eleId=12&offset=490&length=118156&dtd=dart2.dtd	기관투자자	32	10,226,064	6.09 대 1	-	
+***********	*****************	****************	***************	**************	**************
+이엠코리아	http://dart.fss.or.kr/report/viewer.do?rcpNo=20071012000250&dcmNo=1731640&eleId=12&offset=494&length=141114&dtd=dart2.dtd	기관투자자	41건	20,568,795주	-	
+***********	*****************	****************	***************	**************	**************
+기신정기	http://dart.fss.or.kr/report/viewer.do?rcpNo=20071016000151&dcmNo=1732993&eleId=12&offset=507&length=126666&dtd=dart2.dtd	기관투자자	69	52,782,302	단순 경쟁률	
+***********	*****************	****************	***************	**************	**************
+비엠티	http://dart.fss.or.kr/report/viewer.do?rcpNo=20071022000172&dcmNo=1735870&eleId=12&offset=492&length=83467&dtd=dart2.dtd	기관투자자	33건	9,657,050 주	단순 경쟁율	
+***********	*****************	****************	***************	**************	**************
+씨모텍	http://dart.fss.or.kr/report/viewer.do?rcpNo=20071030000089&dcmNo=1740253&eleId=12&offset=492&length=78283&dtd=dart2.dtd	구  분	참여자수	신청주식수	비  고	
+씨모텍	http://dart.fss.or.kr/report/viewer.do?rcpNo=20071030000089&dcmNo=1740253&eleId=12&offset=492&length=78283&dtd=dart2.dtd	기관투자자	38건	4,841,593주	-	
+***********	*****************	****************	***************	**************	**************
+디엔에프	http://dart.fss.or.kr/report/viewer.do?rcpNo=20071102000127&dcmNo=1742948&eleId=12&offset=510&length=91287&dtd=dart2.dtd	기관투자자	27건	5,108,392주	-	
+***********	*****************	****************	***************	**************	**************
+세실	http://dart.fss.or.kr/report/viewer.do?rcpNo=20071105000312&dcmNo=1744391&eleId=12&offset=491&length=64231&dtd=dart2.dtd	주1) 국내 자산운용회사의 경우 펀드별 신청건수는 각 자산운용사 명의의 1건으로 간주함	
+***********	*****************	****************	***************	**************	**************
+이씨에스텔레콤	http://dart.fss.or.kr/report/viewer.do?rcpNo=20071204000060&dcmNo=1763287&eleId=12&offset=510&length=80849&dtd=dart2.dtd	기관투자자	자산운용사	12	3,894,000	<br/>	
+이씨에스텔레콤	http://dart.fss.or.kr/report/viewer.do?rcpNo=20071204000060&dcmNo=1763287&eleId=12&offset=510&length=80849&dtd=dart2.dtd	증권회사	2	150,000	<br/>	
+이씨에스텔레콤	http://dart.fss.or.kr/report/viewer.do?rcpNo=20071204000060&dcmNo=1763287&eleId=12&offset=510&length=80849&dtd=dart2.dtd	기타(저축은행 등)	20	4,080,000	<br/>	
+이씨에스텔레콤	http://dart.fss.or.kr/report/viewer.do?rcpNo=20071204000060&dcmNo=1763287&eleId=12&offset=510&length=80849&dtd=dart2.dtd	계	34	8,124,000	<br/>	
+***********	*****************	****************	***************	**************	**************
+서원인텍	http://dart.fss.or.kr/report/viewer.do?rcpNo=20071207000350&dcmNo=1766160&eleId=12&offset=493&length=175174&dtd=dart2.dtd	구분	참여자수	신청주식수	비고	
+서원인텍	http://dart.fss.or.kr/report/viewer.do?rcpNo=20071207000350&dcmNo=1766160&eleId=12&offset=493&length=175174&dtd=dart2.dtd	국내기관투자자	43건	29,130,400주	<br/>	
+***********	*****************	****************	***************	**************	**************
+일신랩	http://dart.fss.or.kr/report/viewer.do?rcpNo=20071211000172&dcmNo=1768163&eleId=12&offset=492&length=62690&dtd=dart2.dtd	기관투자자	자산운용사	9	 1,545,000주 	-	
+일신랩	http://dart.fss.or.kr/report/viewer.do?rcpNo=20071211000172&dcmNo=1768163&eleId=12&offset=492&length=62690&dtd=dart2.dtd	저축은행	29	 7,260,000주 	-	
+일신랩	http://dart.fss.or.kr/report/viewer.do?rcpNo=20071211000172&dcmNo=1768163&eleId=12&offset=492&length=62690&dtd=dart2.dtd	기타(캐피탈 등)	3	 775,000주 	-	
+일신랩	http://dart.fss.or.kr/report/viewer.do?rcpNo=20071211000172&dcmNo=1768163&eleId=12&offset=492&length=62690&dtd=dart2.dtd	계	41	9,580,000주	-	
+***********	*****************	****************	***************	**************	**************
+쎄믹스	http://dart.fss.or.kr/report/viewer.do?rcpNo=20071210000331&dcmNo=1767274&eleId=12&offset=492&length=73759&dtd=dart2.dtd	(주1) 국내 자산운용회사의 경우 펀드별 신청건수는 각 자산운용사 명의의 1건으로 간주함. 	
+***********	*****************	****************	***************	**************	**************
+엔케이	http://dart.fss.or.kr/report/viewer.do?rcpNo=20080111000257&dcmNo=1785355&eleId=12&offset=492&length=101410&dtd=dart2.dtd	기관투자자	94	18,724,000	-	
+***********	*****************	****************	***************	**************	**************
+명성금속	http://dart.fss.or.kr/report/viewer.do?rcpNo=20080114000133&dcmNo=1785712&eleId=12&offset=495&length=112227&dtd=dart2.dtd	국내기관투자자	61건	5,982,700주	<br/>	
+명성금속	http://dart.fss.or.kr/report/viewer.do?rcpNo=20080114000133&dcmNo=1785712&eleId=12&offset=495&length=112227&dtd=dart2.dtd	외국인 투자자	4건	92,256주	<br/>	
+명성금속	http://dart.fss.or.kr/report/viewer.do?rcpNo=20080114000133&dcmNo=1785712&eleId=12&offset=495&length=112227&dtd=dart2.dtd	합계	65건	6,074,956주	<br/>	
+***********	*****************	****************	***************	**************	**************
+코웰이홀딩스유한공사	http://dart.fss.or.kr/report/viewer.do?rcpNo=20080115000118&dcmNo=1786258&eleId=12&offset=502&length=87931&dtd=dart2.dtd	국내기관투자자	31건	 7,077,708 주	<br/>	
+코웰이홀딩스유한공사	http://dart.fss.or.kr/report/viewer.do?rcpNo=20080115000118&dcmNo=1786258&eleId=12&offset=502&length=87931&dtd=dart2.dtd	해외기관투자자	3건	 1,819,400 주	<br/>	
+코웰이홀딩스유한공사	http://dart.fss.or.kr/report/viewer.do?rcpNo=20080115000118&dcmNo=1786258&eleId=12&offset=502&length=87931&dtd=dart2.dtd	합 계	34건	 8,897,108 주	<br/>	
+***********	*****************	****************	***************	**************	**************
+제너시스템즈	http://dart.fss.or.kr/report/viewer.do?rcpNo=20080314000097&dcmNo=1830450&eleId=12&offset=496&length=141941&dtd=dart2.dtd	주) 신청주식수 중 485,000주는 의무보유 확약(15일)을 하였음	
+***********	*****************	****************	***************	**************	**************
+효성오앤비	http://dart.fss.or.kr/report/viewer.do?rcpNo=20080324000279&dcmNo=1841661&eleId=12&offset=494&length=109601&dtd=dart2.dtd	※ 자산운용회사의 경우 펀드별 신청건수는 각 자산운용사 명의의 1건으로 간주하였습니다.	
+***********	*****************	****************	***************	**************	**************
+메타바이오메드	http://dart.fss.or.kr/report/viewer.do?rcpNo=20080331001155&dcmNo=1860075&eleId=12&offset=496&length=166373&dtd=dart2.dtd	기관투자자	64건	14,305,000	주)	
+***********	*****************	****************	***************	**************	**************
+실리콘화일	http://dart.fss.or.kr/report/viewer.do?rcpNo=20080415000037&dcmNo=1904996&eleId=12&offset=494&length=55586&dtd=dart2.dtd	기관투자자	자산운용사	16	2,717,000	67.19%	
+실리콘화일	http://dart.fss.or.kr/report/viewer.do?rcpNo=20080415000037&dcmNo=1904996&eleId=12&offset=494&length=55586&dtd=dart2.dtd	증권회사	4	390,000	9.64%	
+실리콘화일	http://dart.fss.or.kr/report/viewer.do?rcpNo=20080415000037&dcmNo=1904996&eleId=12&offset=494&length=55586&dtd=dart2.dtd	기타(저축은행 등)	31	937,000	23.17%	
+실리콘화일	http://dart.fss.or.kr/report/viewer.do?rcpNo=20080415000037&dcmNo=1904996&eleId=12&offset=494&length=55586&dtd=dart2.dtd	계	51	4,044,000	100%	
+***********	*****************	****************	***************	**************	**************
+엘디티	http://dart.fss.or.kr/report/viewer.do?rcpNo=20080418000070&dcmNo=1907849&eleId=12&offset=492&length=117706&dtd=dart2.dtd	주) 신청주식수 중 910,000주는 의무보유 확약(1개월)을 하였음	
+***********	*****************	****************	***************	**************	**************
+우진비앤지	http://dart.fss.or.kr/report/viewer.do?rcpNo=20080502000207&dcmNo=1920575&eleId=12&offset=494&length=116875&dtd=dart2.dtd	기관투자자	68	25,025,000	미확약	
+우진비앤지	http://dart.fss.or.kr/report/viewer.do?rcpNo=20080502000207&dcmNo=1920575&eleId=12&offset=494&length=116875&dtd=dart2.dtd	4	3,220,000	15일 확약	
+우진비앤지	http://dart.fss.or.kr/report/viewer.do?rcpNo=20080502000207&dcmNo=1920575&eleId=12&offset=494&length=116875&dtd=dart2.dtd	9	4,112,000	1개월 확약	
+우진비앤지	http://dart.fss.or.kr/report/viewer.do?rcpNo=20080502000207&dcmNo=1920575&eleId=12&offset=494&length=116875&dtd=dart2.dtd	합계	81	32,357,000	-	
+***********	*****************	****************	***************	**************	**************
+테스	http://dart.fss.or.kr/report/viewer.do?rcpNo=20080502000597&dcmNo=1921141&eleId=12&offset=491&length=39917&dtd=dart2.dtd	기관투자자	107건	12,568,000주	<br/>	
+***********	*****************	****************	***************	**************	**************
+고영테크놀러지	http://dart.fss.or.kr/report/viewer.do?rcpNo=20080521000028&dcmNo=1948571&eleId=12&offset=496&length=117643&dtd=dart2.dtd	기관투자자	92	23,789,000	미확약	
+고영테크놀러지	http://dart.fss.or.kr/report/viewer.do?rcpNo=20080521000028&dcmNo=1948571&eleId=12&offset=496&length=117643&dtd=dart2.dtd	22	8,362,000	1개월 확약	
+고영테크놀러지	http://dart.fss.or.kr/report/viewer.do?rcpNo=20080521000028&dcmNo=1948571&eleId=12&offset=496&length=117643&dtd=dart2.dtd	합계	114	32,151,000	-	
+***********	*****************	****************	***************	**************	**************
+브리지텍	http://dart.fss.or.kr/report/viewer.do?rcpNo=20080522000135&dcmNo=1949563&eleId=12&offset=493&length=96695&dtd=dart2.dtd	주) 신청주식수 중 2,140,000주는 2개월 의무보유 확약을 390,000주는 1개월 의무보유 확약을 하였음	
+***********	*****************	****************	***************	**************	**************
+쎄트렉아이	http://dart.fss.or.kr/report/viewer.do?rcpNo=20080530000080&dcmNo=1954039&eleId=12&offset=494&length=176875&dtd=dart2.dtd	공통정정사항 	모집(예정)가액 : 33,500원~43,000원	모집가액 : 43,000원	
+쎄트렉아이	http://dart.fss.or.kr/report/viewer.do?rcpNo=20080530000080&dcmNo=1954039&eleId=12&offset=494&length=176875&dtd=dart2.dtd	<요약정보>	
+쎄트렉아이	http://dart.fss.or.kr/report/viewer.do?rcpNo=20080530000080&dcmNo=1954039&eleId=12&offset=494&length=176875&dtd=dart2.dtd	1. 요약 증권정보	아래의 본문 내용과 동일하게 수정되었습니다.	
+쎄트렉아이	http://dart.fss.or.kr/report/viewer.do?rcpNo=20080530000080&dcmNo=1954039&eleId=12&offset=494&length=176875&dtd=dart2.dtd	제1부 모집 또는 매출에 관한 사항	
+쎄트렉아이	http://dart.fss.or.kr/report/viewer.do?rcpNo=20080530000080&dcmNo=1954039&eleId=12&offset=494&length=176875&dtd=dart2.dtd	1. 모집 또는 매출주식의 내용	모집가액(확정) : -	모집가액(확정) : 43,000원	
+쎄트렉아이	http://dart.fss.or.kr/report/viewer.do?rcpNo=20080530000080&dcmNo=1954039&eleId=12&offset=494&length=176875&dtd=dart2.dtd	3. 모집의 방법	[별첨 1] 참조	[별첨 1] 참조	
+쎄트렉아이	http://dart.fss.or.kr/report/viewer.do?rcpNo=20080530000080&dcmNo=1954039&eleId=12&offset=494&length=176875&dtd=dart2.dtd	5. 모집 또는 매출의 조건 및 절차	주당 모집가액 또는 매출가액(확정가액) : -	주당 모집가액 또는 매출가액(확정가액) : 43,000원	
+쎄트렉아이	http://dart.fss.or.kr/report/viewer.do?rcpNo=20080530000080&dcmNo=1954039&eleId=12&offset=494&length=176875&dtd=dart2.dtd	5. 모집 또는 매출의 조건 및 절차	<추가>	[별첨 2] 참조	
+쎄트렉아이	http://dart.fss.or.kr/report/viewer.do?rcpNo=20080530000080&dcmNo=1954039&eleId=12&offset=494&length=176875&dtd=dart2.dtd	제1부 모집 또는 매출에 관한 사항	
+쎄트렉아이	http://dart.fss.or.kr/report/viewer.do?rcpNo=20080530000080&dcmNo=1954039&eleId=12&offset=494&length=176875&dtd=dart2.dtd	3. 기타 투자위험	[별첨 3] 참조	[별첨 3] 참조	
+쎄트렉아이	http://dart.fss.or.kr/report/viewer.do?rcpNo=20080530000080&dcmNo=1954039&eleId=12&offset=494&length=176875&dtd=dart2.dtd	3. 기타 투자위험	[별첨 4] 참조	[별첨 4] 참조	
+쎄트렉아이	http://dart.fss.or.kr/report/viewer.do?rcpNo=20080530000080&dcmNo=1954039&eleId=12&offset=494&length=176875&dtd=dart2.dtd	제1부 모집 또는 매출에 관한 사항	
+쎄트렉아이	http://dart.fss.or.kr/report/viewer.do?rcpNo=20080530000080&dcmNo=1954039&eleId=12&offset=494&length=176875&dtd=dart2.dtd	4. 종합평가 결과	[별첨 5] 참조	[별첨 5] 참조	
+쎄트렉아이	http://dart.fss.or.kr/report/viewer.do?rcpNo=20080530000080&dcmNo=1954039&eleId=12&offset=494&length=176875&dtd=dart2.dtd	4. 종합평가 결과	<br/>	<br/>	
+쎄트렉아이	http://dart.fss.or.kr/report/viewer.do?rcpNo=20080530000080&dcmNo=1954039&eleId=12&offset=494&length=176875&dtd=dart2.dtd	제1부 모집 또는 매출에 관한 사항	[별첨 6] 참조	[별첨 6] 참조	
+쎄트렉아이	http://dart.fss.or.kr/report/viewer.do?rcpNo=20080530000080&dcmNo=1954039&eleId=12&offset=494&length=176875&dtd=dart2.dtd	제2부 발행인에 관한 사항	
+쎄트렉아이	http://dart.fss.or.kr/report/viewer.do?rcpNo=20080530000080&dcmNo=1954039&eleId=12&offset=494&length=176875&dtd=dart2.dtd	나. 5%이상 주주의 주식소유 현황	[별첨 7] 참조	[별첨 7] 참조	
+쎄트렉아이	http://dart.fss.or.kr/report/viewer.do?rcpNo=20080530000080&dcmNo=1954039&eleId=12&offset=494&length=176875&dtd=dart2.dtd	다. 주주 	
+***********	*****************	****************	***************	**************	**************
+월덱스	http://dart.fss.or.kr/report/viewer.do?rcpNo=20080609000275&dcmNo=1958869&eleId=12&offset=492&length=80079&dtd=dart2.dtd	기관투자자	73	15,494,000	미확약	
+월덱스	http://dart.fss.or.kr/report/viewer.do?rcpNo=20080609000275&dcmNo=1958869&eleId=12&offset=492&length=80079&dtd=dart2.dtd	1	700,000	15일 확약	
+월덱스	http://dart.fss.or.kr/report/viewer.do?rcpNo=20080609000275&dcmNo=1958869&eleId=12&offset=492&length=80079&dtd=dart2.dtd	합계	74	16,194,000	-	
+***********	*****************	****************	***************	**************	**************
+비유와상징	http://dart.fss.or.kr/report/viewer.do?rcpNo=20080617000045&dcmNo=1964011&eleId=12&offset=494&length=114808&dtd=dart2.dtd	기관투자자	자산운용사	21	2,362,000주	-	
+비유와상징	http://dart.fss.or.kr/report/viewer.do?rcpNo=20080617000045&dcmNo=1964011&eleId=12&offset=494&length=114808&dtd=dart2.dtd	저축은행	26	329,000주	-	
+비유와상징	http://dart.fss.or.kr/report/viewer.do?rcpNo=20080617000045&dcmNo=1964011&eleId=12&offset=494&length=114808&dtd=dart2.dtd	기타(캐피탈 등)	12	 359,000주	-	
+비유와상징	http://dart.fss.or.kr/report/viewer.do?rcpNo=20080617000045&dcmNo=1964011&eleId=12&offset=494&length=114808&dtd=dart2.dtd	계	59	3,050,000주	-	
+***********	*****************	****************	***************	**************	**************
+이스트소프트	http://dart.fss.or.kr/report/viewer.do?rcpNo=20080617000142&dcmNo=1964245&eleId=12&offset=492&length=97061&dtd=dart2.dtd	기관투자자	52 건	3,242,937 주	-	
+***********	*****************	****************	***************	**************	**************
+서울옥션	http://dart.fss.or.kr/report/viewer.do?rcpNo=20080617000148&dcmNo=1964261&eleId=12&offset=493&length=63932&dtd=dart2.dtd	기관투자자	73건	 89,378,118,000원	-	
+***********	*****************	****************	***************	**************	**************
+명문제약	http://dart.fss.or.kr/report/viewer.do?rcpNo=20080630000038&dcmNo=1971428&eleId=12&offset=494&length=70289&dtd=dart2.dtd	기관투자자	61건	68,423,679,500원	-	
+***********	*****************	****************	***************	**************	**************
+삼강엠앤티	http://dart.fss.or.kr/report/viewer.do?rcpNo=20080717000057&dcmNo=1983321&eleId=12&offset=491&length=85143&dtd=dart2.dtd	기관투자자	34	12,019,700,000 	
+***********	*****************	****************	***************	**************	**************
+KJ프리텍	http://dart.fss.or.kr/report/viewer.do?rcpNo=20080905000102&dcmNo=2016403&eleId=12&offset=496&length=89692&dtd=dart2.dtd	국내 기관투자자	11건	546,000주	<br/>	
+***********	*****************	****************	***************	**************	**************
+세운메디칼	http://dart.fss.or.kr/report/viewer.do?rcpNo=20080917000018&dcmNo=2021921&eleId=12&offset=496&length=119306&dtd=dart2.dtd	기관투자자	67건	21,253,588주	35.4 대 1	
+***********	*****************	****************	***************	**************	**************
+사이버다임	http://dart.fss.or.kr/report/viewer.do?rcpNo=20080922000142&dcmNo=2024220&eleId=12&offset=491&length=75167&dtd=dart2.dtd	국내 기관투자자	21	950,000	-	
+***********	*****************	****************	***************	**************	**************
+이크레더블	http://dart.fss.or.kr/report/viewer.do?rcpNo=20081010000021&dcmNo=2033731&eleId=12&offset=494&length=128791&dtd=dart2.dtd	기관투자자	65건	14,706,322주	37.1 대 1	
+***********	*****************	****************	***************	**************	**************
+에너지솔루션	http://dart.fss.or.kr/report/viewer.do?rcpNo=20081111000135&dcmNo=2052278&eleId=12&offset=496&length=58119&dtd=dart2.dtd	기관투자자	33건	3,457,000주	-	
+***********	*****************	****************	***************	**************	**************
+아이컴포넌트	http://dart.fss.or.kr/report/viewer.do?rcpNo=20081128000179&dcmNo=2063451&eleId=12&offset=495&length=64246&dtd=dart2.dtd	기관투자자	31	1,362,000	미확약	
+아이컴포넌트	http://dart.fss.or.kr/report/viewer.do?rcpNo=20081128000179&dcmNo=2063451&eleId=12&offset=495&length=64246&dtd=dart2.dtd	-	-	15일 확약	
+아이컴포넌트	http://dart.fss.or.kr/report/viewer.do?rcpNo=20081128000179&dcmNo=2063451&eleId=12&offset=495&length=64246&dtd=dart2.dtd	-	-	1개월 확약	
+아이컴포넌트	http://dart.fss.or.kr/report/viewer.do?rcpNo=20081128000179&dcmNo=2063451&eleId=12&offset=495&length=64246&dtd=dart2.dtd	합계	31	1,362,000	-	
+***********	*****************	****************	***************	**************	**************
+엠게임	http://dart.fss.or.kr/report/viewer.do?rcpNo=20081205000073&dcmNo=2066576&eleId=12&offset=492&length=70979&dtd=dart2.dtd	기관투자자	 56건	 5,831,000주	미확약	
+***********	*****************	****************	***************	**************	**************
+메디톡스	http://dart.fss.or.kr/report/viewer.do?rcpNo=20081230000206&dcmNo=2080647&eleId=12&offset=495&length=58497&dtd=dart2.dtd	기관투자자	60	6,005,000주	미확약	
+메디톡스	http://dart.fss.or.kr/report/viewer.do?rcpNo=20081230000206&dcmNo=2080647&eleId=12&offset=495&length=58497&dtd=dart2.dtd	합계	60	6,005,000주	-	
+***********	*****************	****************	***************	**************	**************
+유비쿼스	http://dart.fss.or.kr/report/viewer.do?rcpNo=20090112000037&dcmNo=2086952&eleId=12&offset=493&length=50921&dtd=dart2.dtd	기관투자자	 64건	 9,685,000주	미확약	
+***********	*****************	****************	***************	**************	**************
+네오피델리티	http://dart.fss.or.kr/report/viewer.do?rcpNo=20090318000011&dcmNo=2155351&eleId=1&offset=678&length=102922&dtd=dart3.xsd	전문투자자	59건	12,512,765주	41.71 대 1	
+***********	*****************	****************	***************	**************	**************
+뷰웍스	http://dart.fss.or.kr/report/viewer.do?rcpNo=20090331000289&dcmNo=2180011&eleId=1&offset=677&length=91603&dtd=dart3.xsd	기관투자자	82건	27,424,000	주)	
+***********	*****************	****************	***************	**************	**************
+티플랙스	http://dart.fss.or.kr/report/viewer.do?rcpNo=20090410001825&dcmNo=2227802&eleId=1&offset=676&length=19067&dtd=dart3.xsd	구분 	참여자수 	신청주식수 	비고 	
+티플랙스	http://dart.fss.or.kr/report/viewer.do?rcpNo=20090410001825&dcmNo=2227802&eleId=1&offset=676&length=19067&dtd=dart3.xsd	전문투자자 	 98건 	 47,412,000 주 	확약주식수 : 6,350,000주 	
+***********	*****************	****************	***************	**************	**************
+우림기계	http://dart.fss.or.kr/report/viewer.do?rcpNo=20090413002186&dcmNo=2235132&eleId=1&offset=676&length=64237&dtd=dart3.xsd	기관투자자	111건	80,600,979주	41.16 대 1	
+***********	*****************	****************	***************	**************	**************
+신텍	http://dart.fss.or.kr/report/viewer.do?rcpNo=20090420000094&dcmNo=2256728&eleId=1&offset=676&length=77155&dtd=dart3.xsd	구분	참여자수	신청금액	비고	
+신텍	http://dart.fss.or.kr/report/viewer.do?rcpNo=20090420000094&dcmNo=2256728&eleId=1&offset=676&length=77155&dtd=dart3.xsd	전문투자자	124	782,516,800,000원	-	
+***********	*****************	****************	***************	**************	**************
+흥국	http://dart.fss.or.kr/report/viewer.do?rcpNo=20090427000193&dcmNo=2266061&eleId=1&offset=674&length=74456&dtd=dart3.xsd	<span style="color:#000000;">기관투</span>	106	222,976,000,000원	-	
+***********	*****************	****************	***************	**************	**************
+STX엔파코	http://dart.fss.or.kr/report/viewer.do?rcpNo=20090429001255&dcmNo=2273940&eleId=1&offset=675&length=68208&dtd=dart3.xsd	기관투자자	139	98,295,310	-	
+***********	*****************	****************	***************	**************	**************
+서울마린	http://dart.fss.or.kr/report/viewer.do?rcpNo=20090507000552&dcmNo=2287067&eleId=1&offset=677&length=26180&dtd=dart3.xsd	구분 	참여자수 	신청주식수 	비고 	
+서울마린	http://dart.fss.or.kr/report/viewer.do?rcpNo=20090507000552&dcmNo=2287067&eleId=1&offset=677&length=26180&dtd=dart3.xsd	전문투자자 	109건 	 103,915,000주 	확약주식수 : 5,487,000주 	
+***********	*****************	****************	***************	**************	**************
+해덕선기	http://dart.fss.or.kr/report/viewer.do?rcpNo=20090504000909&dcmNo=2281920&eleId=1&offset=677&length=49298&dtd=dart3.xsd	기관투자자	120건	111,994,000주	61.88	
+***********	*****************	****************	***************	**************	**************
+뉴그리드	http://dart.fss.or.kr/report/viewer.do?rcpNo=20090512001112&dcmNo=2295890&eleId=1&offset=681&length=23275&dtd=dart3.xsd	구  분 	참여자수 	신청주식수 	비고 	
+뉴그리드	http://dart.fss.or.kr/report/viewer.do?rcpNo=20090512001112&dcmNo=2295890&eleId=1&offset=681&length=23275&dtd=dart3.xsd	전문투자자 	108건 	45,512,000주 	확약주식수 : 2,143,000주 	
+***********	*****************	****************	***************	**************	**************
+이엔에프테크놀로지	http://dart.fss.or.kr/report/viewer.do?rcpNo=20090515001003&dcmNo=2308417&eleId=1&offset=678&length=78760&dtd=dart3.xsd	기관투자자	137건	172,263,000	주)	
+***********	*****************	****************	***************	**************	**************
+차이나그레이트	http://dart.fss.or.kr/report/viewer.do?rcpNo=20090515001707&dcmNo=2309919&eleId=1&offset=688&length=51883&dtd=dart3.xsd	구분	참여자수	신청금액	비고	
+차이나그레이트	http://dart.fss.or.kr/report/viewer.do?rcpNo=20090515001707&dcmNo=2309919&eleId=1&offset=688&length=51883&dtd=dart3.xsd	전문투자자	128	1,601,743,600,000원	<br/>	
+***********	*****************	****************	***************	**************	**************
+조이맥스	http://dart.fss.or.kr/report/viewer.do?rcpNo=20090521000030&dcmNo=2314866&eleId=1&offset=676&length=86277&dtd=dart3.xsd	기관투자자	153	42,121,000	-	
+***********	*****************	****************	***************	**************	**************
+어보브반도체	http://dart.fss.or.kr/report/viewer.do?rcpNo=20090525000100&dcmNo=2317403&eleId=1&offset=678&length=82883&dtd=dart3.xsd	기관투자자	124	338,145,600,000원	-	
+***********	*****************	****************	***************	**************	**************
+동일금속	http://dart.fss.or.kr/report/viewer.do?rcpNo=20090714000247&dcmNo=2358888&eleId=1&offset=665&length=69494&dtd=dart3.xsd	기관투자자	143건	115,610,500주	 70.58 대 1	
+***********	*****************	****************	***************	**************	**************
+게임빌	http://dart.fss.or.kr/report/viewer.do?rcpNo=20090716000227&dcmNo=2360786&eleId=1&offset=659&length=93147&dtd=dart3.xsd	기관투자자	117건	37,268,070주	59.16 대 1	
+***********	*****************	****************	***************	**************	**************
+에스앤더블류	http://dart.fss.or.kr/report/viewer.do?rcpNo=20090722000032&dcmNo=2363550&eleId=1&offset=665&length=78375&dtd=dart3.xsd	기관투자자	121건	49,594,000주	95.37 대 1	
+***********	*****************	****************	***************	**************	**************
+동국S&C	http://dart.fss.or.kr/report/viewer.do?rcpNo=20090814001281&dcmNo=2383993&eleId=1&offset=668&length=86635&dtd=dart3.xsd	주)	해외기관투자자 중 금액만을 제시하고 수요예측에 참여한 경우 확정공모가를 기준으로 신청주식수를 산출했습니다.	
+***********	*****************	****************	***************	**************	**************
+제넥신	http://dart.fss.or.kr/report/viewer.do?rcpNo=20090904000194&dcmNo=2402715&eleId=1&offset=662&length=73764&dtd=dart3.xsd	기관투자자	131건	47,457,000주	63.28 대 1	
+***********	*****************	****************	***************	**************	**************
+디에스케이	http://dart.fss.or.kr/report/viewer.do?rcpNo=20090910000153&dcmNo=2406219&eleId=1&offset=661&length=67034&dtd=dart3.xsd	기관투자자	126	94,880,000주	87.85:1	
+***********	*****************	****************	***************	**************	**************
+에리트베이직	http://dart.fss.or.kr/report/viewer.do?rcpNo=20090915000067&dcmNo=2408910&eleId=1&offset=665&length=70876&dtd=dart3.xsd	기관투자자	116	75,614,000주	63.01:1	
+***********	*****************	****************	***************	**************	**************
+쌍용머티리얼	http://dart.fss.or.kr/report/viewer.do?rcpNo=20090914000295&dcmNo=2408663&eleId=1&offset=660&length=112059&dtd=dart3.xsd	기관투자자	87건	22,996,500주	21.29 대 1	
+***********	*****************	****************	***************	**************	**************
+아이앤씨	http://dart.fss.or.kr/report/viewer.do?rcpNo=20090921000106&dcmNo=2412738&eleId=1&offset=668&length=68319&dtd=dart3.xsd	국내기관투자자	137	102,294,000주	
+아이앤씨	http://dart.fss.or.kr/report/viewer.do?rcpNo=20090921000106&dcmNo=2412738&eleId=1&offset=668&length=68319&dtd=dart3.xsd	해외기관투자자	6	6,835,000주	
+아이앤씨	http://dart.fss.or.kr/report/viewer.do?rcpNo=20090921000106&dcmNo=2412738&eleId=1&offset=668&length=68319&dtd=dart3.xsd	합 계	143	109,129,000주	
+***********	*****************	****************	***************	**************	**************
+네오위즈벅스	http://dart.fss.or.kr/report/viewer.do?rcpNo=20090922000145&dcmNo=2413805&eleId=1&offset=665&length=115707&dtd=dart3.xsd	기관투자자	70	15,729,000	
+***********	*****************	****************	***************	**************	**************
+동양생명보험	http://dart.fss.or.kr/report/viewer.do?rcpNo=20090928000373&dcmNo=2418236&eleId=1&offset=666&length=122443&dtd=dart3.xsd	기관투자자	141건	26,990,388주	
+***********	*****************	****************	***************	**************	**************
+한스바이오메드	http://dart.fss.or.kr/report/viewer.do?rcpNo=20090925000006&dcmNo=2415764&eleId=1&offset=666&length=85907&dtd=dart3.xsd	주1)	신청주식수 중 5,591,000주(9.47%)는 15일, 2,330,000주(3.95%)는 1개월 의무보유를 확약하였습니다.	
+***********	*****************	****************	***************	**************	**************
+진로	http://dart.fss.or.kr/report/viewer.do?rcpNo=20091005000173&dcmNo=2423218&eleId=1&offset=658&length=82426&dtd=dart3.xsd	구분	참여건수	참여수량	
+진로	http://dart.fss.or.kr/report/viewer.do?rcpNo=20091005000173&dcmNo=2423218&eleId=1&offset=658&length=82426&dtd=dart3.xsd	기관투자자	총 86건	     10,945,000 주	
+***********	*****************	****************	***************	**************	**************
+스틸플라워	http://dart.fss.or.kr/report/viewer.do?rcpNo=20091013000100&dcmNo=2429443&eleId=1&offset=661&length=58625&dtd=dart3.xsd	국내기관투자자	51	5,733,000주	
+스틸플라워	http://dart.fss.or.kr/report/viewer.do?rcpNo=20091013000100&dcmNo=2429443&eleId=1&offset=661&length=58625&dtd=dart3.xsd	해외기관투자자	3	359,000주	
+스틸플라워	http://dart.fss.or.kr/report/viewer.do?rcpNo=20091013000100&dcmNo=2429443&eleId=1&offset=661&length=58625&dtd=dart3.xsd	합 계	54	6,092,000주	
+***********	*****************	****************	***************	**************	**************
+비츠로셀	http://dart.fss.or.kr/report/viewer.do?rcpNo=20091014000080&dcmNo=2430217&eleId=1&offset=663&length=222302&dtd=dart3.xsd	기관투자자	59건	12,492,750주	6.5 대 1	
+***********	*****************	****************	***************	**************	**************
+디엠씨	http://dart.fss.or.kr/report/viewer.do?rcpNo=20091023000159&dcmNo=2436788&eleId=1&offset=662&length=65073&dtd=dart3.xsd	국내기관투자자	59	8,954,000주	
+디엠씨	http://dart.fss.or.kr/report/viewer.do?rcpNo=20091023000159&dcmNo=2436788&eleId=1&offset=662&length=65073&dtd=dart3.xsd	해외기관투자자	2	106,000주	
+디엠씨	http://dart.fss.or.kr/report/viewer.do?rcpNo=20091023000159&dcmNo=2436788&eleId=1&offset=662&length=65073&dtd=dart3.xsd	합계	61	9,060,000주	
+***********	*****************	****************	***************	**************	**************
+진매트릭스	http://dart.fss.or.kr/report/viewer.do?rcpNo=20091023000201&dcmNo=2436899&eleId=1&offset=664&length=99474&dtd=dart3.xsd	기관투자자	총 44건	3,667,000주	
+***********	*****************	****************	***************	**************	**************
+동방선기	http://dart.fss.or.kr/report/viewer.do?rcpNo=20091030000171&dcmNo=2441329&eleId=1&offset=663&length=103572&dtd=dart3.xsd	기관투자자	69건	19,621,000	15.57:1	
+***********	*****************	****************	***************	**************	**************
+SK C&C	http://dart.fss.or.kr/report/viewer.do?rcpNo=20091102000046&dcmNo=2442303&eleId=1&offset=663&length=178381&dtd=dart3.xsd	기관투자자	총 164건	                 74,890,693주	
+***********	*****************	****************	***************	**************	**************
+지케이엘	http://dart.fss.or.kr/report/viewer.do?rcpNo=20091109000055&dcmNo=2447061&eleId=1&offset=667&length=55795&dtd=dart3.xsd	국내기관투자자	125	103,954 000주	
+지케이엘	http://dart.fss.or.kr/report/viewer.do?rcpNo=20091109000055&dcmNo=2447061&eleId=1&offset=667&length=55795&dtd=dart3.xsd	해외기관투자자	  11	   2,992,000주	
+지케이엘	http://dart.fss.or.kr/report/viewer.do?rcpNo=20091109000055&dcmNo=2447061&eleId=1&offset=667&length=55795&dtd=dart3.xsd	합 계	136	106,946,000주	
+***********	*****************	****************	***************	**************	**************
+강원비앤이	http://dart.fss.or.kr/report/viewer.do?rcpNo=20091105000084&dcmNo=2445270&eleId=1&offset=666&length=120446&dtd=dart3.xsd	기관투자자	75 건	19,641,000주	20.04 대 1	
+***********	*****************	****************	***************	**************	**************
+이원컴포텍	http://dart.fss.or.kr/report/viewer.do?rcpNo=20091117000193&dcmNo=2457252&eleId=1&offset=661&length=43761&dtd=dart3.xsd	기관투자자	62	54,005,000	
+***********	*****************	****************	***************	**************	**************
+중국엔진집단	http://dart.fss.or.kr/report/viewer.do?rcpNo=20091119000142&dcmNo=2458875&eleId=1&offset=666&length=78125&dtd=dart3.xsd	기관투자자	67	15,749,000주	1.97:1	
+***********	*****************	****************	***************	**************	**************
+디오텍	http://dart.fss.or.kr/report/viewer.do?rcpNo=20091127000325&dcmNo=2463984&eleId=1&offset=662&length=69731&dtd=dart3.xsd	기관투자자	88건	34,271,200주	68.38: 1	
+***********	*****************	****************	***************	**************	**************
+현대푸드	http://dart.fss.or.kr/report/viewer.do?rcpNo=20091203000135&dcmNo=2468619&eleId=1&offset=666&length=153351&dtd=dart3.xsd	기관투자자	163건	189,209,980주	61.3  :  1	
+***********	*****************	****************	***************	**************	**************
+멜파스	http://dart.fss.or.kr/report/viewer.do?rcpNo=20091204000094&dcmNo=2469237&eleId=1&offset=662&length=50017&dtd=dart3.xsd	기관투자자	80건	6,050,000주	6.49 : 1	
+***********	*****************	****************	***************	**************	**************
+위메이드	http://dart.fss.or.kr/report/viewer.do?rcpNo=20091208000194&dcmNo=2471605&eleId=1&offset=669&length=97090&dtd=dart3.xsd	국내기관투자자	75	12,041,000	
+위메이드	http://dart.fss.or.kr/report/viewer.do?rcpNo=20091208000194&dcmNo=2471605&eleId=1&offset=669&length=97090&dtd=dart3.xsd	해외기관투자자	10	950,000	
+위메이드	http://dart.fss.or.kr/report/viewer.do?rcpNo=20091208000194&dcmNo=2471605&eleId=1&offset=669&length=97090&dtd=dart3.xsd	합 계	85	12,991,000	
+***********	*****************	****************	***************	**************	**************
+ITX시큐리티	http://dart.fss.or.kr/report/viewer.do?rcpNo=20091211000050&dcmNo=2473577&eleId=1&offset=665&length=76590&dtd=dart3.xsd	기관투자자	52	9,928,200	12.80	
+***********	*****************	****************	***************	**************	**************
+동양피엔에프	http://dart.fss.or.kr/report/viewer.do?rcpNo=20091207000069&dcmNo=2470240&eleId=1&offset=665&length=17624&dtd=dart3.xsd	구       분	참여건수	참여수량	단순경쟁률	
+동양피엔에프	http://dart.fss.or.kr/report/viewer.do?rcpNo=20091207000069&dcmNo=2470240&eleId=1&offset=665&length=17624&dtd=dart3.xsd	기관투자자	131건	69,366,000건	58 대 1	
+***********	*****************	****************	***************	**************	**************
+KPX생명과학	http://dart.fss.or.kr/report/viewer.do?rcpNo=20091208000119&dcmNo=2471379&eleId=1&offset=669&length=61343&dtd=dart3.xsd	국내기관투자자	121	132,771,000주	
+KPX생명과학	http://dart.fss.or.kr/report/viewer.do?rcpNo=20091208000119&dcmNo=2471379&eleId=1&offset=669&length=61343&dtd=dart3.xsd	해외기관투자자	4	746,000주	
+KPX생명과학	http://dart.fss.or.kr/report/viewer.do?rcpNo=20091208000119&dcmNo=2471379&eleId=1&offset=669&length=61343&dtd=dart3.xsd	합 계	125	133,517,000주	
+***********	*****************	****************	***************	**************	**************
+GSMT	http://dart.fss.or.kr/report/viewer.do?rcpNo=20091210000228&dcmNo=2473284&eleId=1&offset=668&length=79583&dtd=dart3.xsd	국내기관투자자	103	168,827,000주	
+GSMT	http://dart.fss.or.kr/report/viewer.do?rcpNo=20091210000228&dcmNo=2473284&eleId=1&offset=668&length=79583&dtd=dart3.xsd	해외기관투자자	4	713,000주	
+GSMT	http://dart.fss.or.kr/report/viewer.do?rcpNo=20091210000228&dcmNo=2473284&eleId=1&offset=668&length=79583&dtd=dart3.xsd	합 계	107	169,540,000주	
+***********	*****************	****************	***************	**************	**************
+코디에스	http://dart.fss.or.kr/report/viewer.do?rcpNo=20091218000345&dcmNo=2480272&eleId=1&offset=664&length=86054&dtd=dart3.xsd	기관투자자	126건	70,881,000주	93.74 : 1	
+***********	*****************	****************	***************	**************	**************
+승화엘엠씨	http://dart.fss.or.kr/report/viewer.do?rcpNo=20091222000053&dcmNo=2481686&eleId=1&offset=664&length=112168&dtd=dart3.xsd	국내기관투자자	108건	64,756,100주	84.22	
+승화엘엠씨	http://dart.fss.or.kr/report/viewer.do?rcpNo=20091222000053&dcmNo=2481686&eleId=1&offset=664&length=112168&dtd=dart3.xsd	해외기관투자자	5건	2,650,000주	
+***********	*****************	****************	***************	**************	**************
+우노	http://dart.fss.or.kr/report/viewer.do?rcpNo=20091231000044&dcmNo=2489116&eleId=1&offset=665&length=88726&dtd=dart3.xsd	기관투자자	69건	14,315,000주	6.86 : 1	
+***********	*****************	****************	***************	**************	**************
+아세아텍	http://dart.fss.or.kr/report/viewer.do?rcpNo=20100112000260&dcmNo=2498779&eleId=1&offset=665&length=78802&dtd=dart3.xsd	기관투자자	52	8,798,000	2.86	
+***********	*****************	****************	***************	**************	**************
+우리넷	http://dart.fss.or.kr/report/viewer.do?rcpNo=20100114000229&dcmNo=2500261&eleId=1&offset=659&length=53816&dtd=dart3.xsd	기관투자자	96건	32,345,000	48.28:1	
+***********	*****************	****************	***************	**************	**************
+스타플렉스	http://dart.fss.or.kr/report/viewer.do?rcpNo=20100113000063&dcmNo=2499013&eleId=1&offset=664&length=80348&dtd=dart3.xsd	기관투자자	124 건	 28,134,000 주	 30.92 : 1	
+***********	*****************	****************	***************	**************	**************
+에이치디시에스	http://dart.fss.or.kr/report/viewer.do?rcpNo=20100119000119&dcmNo=2502624&eleId=1&offset=666&length=75945&dtd=dart3.xsd	기관투자자	95건	24,511,900주	32.68 : 1	
+***********	*****************	****************	***************	**************	**************
+모베이스	http://dart.fss.or.kr/report/viewer.do?rcpNo=20100121000150&dcmNo=2504288&eleId=1&offset=652&length=73760&dtd=dart3.xsd	기관투자자	151건	96,101,000주	89.3 : 1	
+***********	*****************	****************	***************	**************	**************
+에스이티아이	http://dart.fss.or.kr/report/viewer.do?rcpNo=20100121000235&dcmNo=2504605&eleId=1&offset=665&length=93334&dtd=dart3.xsd	기관투자자	총 99건	17,183,000주	
+***********	*****************	****************	***************	**************	**************
+차이나하오란	http://dart.fss.or.kr/report/viewer.do?rcpNo=20100122000089&dcmNo=2504849&eleId=1&offset=656&length=81223&dtd=dart3.xsd	자산운용사	27	52,055,000	
+차이나하오란	http://dart.fss.or.kr/report/viewer.do?rcpNo=20100122000089&dcmNo=2504849&eleId=1&offset=656&length=81223&dtd=dart3.xsd	저축은행	48	32,568,000	
+차이나하오란	http://dart.fss.or.kr/report/viewer.do?rcpNo=20100122000089&dcmNo=2504849&eleId=1&offset=656&length=81223&dtd=dart3.xsd	기타 국내 기관투자자	36	37,088,000	
+차이나하오란	http://dart.fss.or.kr/report/viewer.do?rcpNo=20100122000089&dcmNo=2504849&eleId=1&offset=656&length=81223&dtd=dart3.xsd	해외기관투자자	15	38,653,000	
+차이나하오란	http://dart.fss.or.kr/report/viewer.do?rcpNo=20100122000089&dcmNo=2504849&eleId=1&offset=656&length=81223&dtd=dart3.xsd	합계	126	160,364,000	
+***********	*****************	****************	***************	**************	**************
+인포바인	http://dart.fss.or.kr/report/viewer.do?rcpNo=20100126000064&dcmNo=2506884&eleId=1&offset=660&length=68154&dtd=dart3.xsd	기관투자자	143건	30,766,000	91.16 : 1	
+***********	*****************	****************	***************	**************	**************
+이미지스	http://dart.fss.or.kr/report/viewer.do?rcpNo=20100209000021&dcmNo=2518435&eleId=1&offset=668&length=68450&dtd=dart3.xsd	기관투자자	96건	10,069,000주	7.58 : 1	
+***********	*****************	****************	***************	**************	**************
+차이나킹	http://dart.fss.or.kr/report/viewer.do?rcpNo=20100319000134&dcmNo=2562778&eleId=1&offset=660&length=97985&dtd=dart3.xsd	국내기관투자자	155	793,838,043	
+차이나킹	http://dart.fss.or.kr/report/viewer.do?rcpNo=20100319000134&dcmNo=2562778&eleId=1&offset=660&length=97985&dtd=dart3.xsd	해외기관투자자	20	123,055,952	
+차이나킹	http://dart.fss.or.kr/report/viewer.do?rcpNo=20100319000134&dcmNo=2562778&eleId=1&offset=660&length=97985&dtd=dart3.xsd	합계	175	916,893,995	
+***********	*****************	****************	***************	**************	**************
+뉴프라이드	http://dart.fss.or.kr/report/viewer.do?rcpNo=20100408000359&dcmNo=2616091&eleId=1&offset=655&length=79596&dtd=dart3.xsd	자산운용사	20	16,165,900	
+뉴프라이드	http://dart.fss.or.kr/report/viewer.do?rcpNo=20100408000359&dcmNo=2616091&eleId=1&offset=655&length=79596&dtd=dart3.xsd	저축은행	43	40,028,000	
+뉴프라이드	http://dart.fss.or.kr/report/viewer.do?rcpNo=20100408000359&dcmNo=2616091&eleId=1&offset=655&length=79596&dtd=dart3.xsd	기타 국내 기관투자자	22	18,815,000	
+뉴프라이드	http://dart.fss.or.kr/report/viewer.do?rcpNo=20100408000359&dcmNo=2616091&eleId=1&offset=655&length=79596&dtd=dart3.xsd	해외기관투자자	6	738,000	
+뉴프라이드	http://dart.fss.or.kr/report/viewer.do?rcpNo=20100408000359&dcmNo=2616091&eleId=1&offset=655&length=79596&dtd=dart3.xsd	합계	91	75,746,900	
+***********	*****************	****************	***************	**************	**************
+동아체육용품	http://dart.fss.or.kr/report/viewer.do?rcpNo=20100412000083&dcmNo=2621926&eleId=1&offset=655&length=82843&dtd=dart3.xsd	기관투자자	106 건	84,614,000 주	17.63 : 1	
+***********	*****************	****************	***************	**************	**************
+모바일리더	http://dart.fss.or.kr/report/viewer.do?rcpNo=20100511000812&dcmNo=2665897&eleId=1&offset=653&length=75306&dtd=dart3.xsd	기관투자자	150건	49,876,700주	138.55:1	
+***********	*****************	****************	***************	**************	**************
+인피니트헬스케어	http://dart.fss.or.kr/report/viewer.do?rcpNo=20100513000641&dcmNo=2671710&eleId=1&offset=656&length=86557&dtd=dart3.xsd	기관투자자	총 123건	123,207,000주	
+***********	*****************	****************	***************	**************	**************
+투비소프트	http://dart.fss.or.kr/report/viewer.do?rcpNo=20100520000097&dcmNo=2686891&eleId=1&offset=653&length=61533&dtd=dart3.xsd	주1) 	단순경쟁률 = 신청수량 / 기관투자자 배정수량	
+***********	*****************	****************	***************	**************	**************
+실리콘웍스	http://dart.fss.or.kr/report/viewer.do?rcpNo=20100524000072&dcmNo=2688143&eleId=1&offset=654&length=81015&dtd=dart3.xsd	기관투자자	171건	39,252,000주	59.36 : 1	
+***********	*****************	****************	***************	**************	**************
+솔라시아	http://dart.fss.or.kr/report/viewer.do?rcpNo=20100527000090&dcmNo=2691173&eleId=1&offset=652&length=70596&dtd=dart3.xsd	기관투자자	145건	68,257,000주	130.01 : 1	
+***********	*****************	****************	***************	**************	**************
+유비벨록스	http://dart.fss.or.kr/report/viewer.do?rcpNo=20100607000189&dcmNo=2699338&eleId=1&offset=653&length=90865&dtd=dart3.xsd	기관투자자	166건	89,299,000주	
+***********	*****************	****************	***************	**************	**************
+처음앤씨	http://dart.fss.or.kr/report/viewer.do?rcpNo=20100609000043&dcmNo=2700611&eleId=1&offset=652&length=110680&dtd=dart3.xsd	구분	참여기관수	신청주식수	
+처음앤씨	http://dart.fss.or.kr/report/viewer.do?rcpNo=20100609000043&dcmNo=2700611&eleId=1&offset=652&length=110680&dtd=dart3.xsd	국내기관투자자	142	59,866,000 주	
+처음앤씨	http://dart.fss.or.kr/report/viewer.do?rcpNo=20100609000043&dcmNo=2700611&eleId=1&offset=652&length=110680&dtd=dart3.xsd	해외기관투자자	10	3,129,000 주	
+처음앤씨	http://dart.fss.or.kr/report/viewer.do?rcpNo=20100609000043&dcmNo=2700611&eleId=1&offset=652&length=110680&dtd=dart3.xsd	합계	152	62,995,000 주	
+***********	*****************	****************	***************	**************	**************
+웅진에너지	http://dart.fss.or.kr/report/viewer.do?rcpNo=20100618000008&dcmNo=2706880&eleId=1&offset=655&length=114979&dtd=dart3.xsd	기관투자자	226 건	748,119,000 주	78.52 : 1	
+***********	*****************	****************	***************	**************	**************
+에스디시스템	http://dart.fss.or.kr/report/viewer.do?rcpNo=20100705000072&dcmNo=2718689&eleId=1&offset=654&length=108200&dtd=dart3.xsd	기관투자자	105 건	40,821,000 주	57.3 : 1	
+***********	*****************	****************	***************	**************	**************
+크루셜텍	http://dart.fss.or.kr/report/viewer.do?rcpNo=20100709000430&dcmNo=2723605&eleId=1&offset=649&length=113705&dtd=dart3.xsd	기관투자자	157건	45,342,000주	62.68 : 1	
+***********	*****************	****************	***************	**************	**************
+웨이포트	http://dart.fss.or.kr/report/viewer.do?rcpNo=20100712000031&dcmNo=2723804&eleId=1&offset=653&length=67018&dtd=dart3.xsd	기관투자자 	75 건 	299,879,300 주 	26.83 : 1 	
+***********	*****************	****************	***************	**************	**************
+우진	http://dart.fss.or.kr/report/viewer.do?rcpNo=20100709000281&dcmNo=2723113&eleId=1&offset=650&length=110701&dtd=dart3.xsd	기관투자자	201건	186,629,000주	143.34 : 1	
+***********	*****************	****************	***************	**************	**************
+인터로조	http://dart.fss.or.kr/report/viewer.do?rcpNo=20100716000075&dcmNo=2727934&eleId=1&offset=652&length=77847&dtd=dart3.xsd	기관투자자	<span>97건</span>	  32,857,860주	46.4:1	
+***********	*****************	****************	***************	**************	**************
+아이마켓코리아	http://dart.fss.or.kr/report/viewer.do?rcpNo=20100719000083&dcmNo=2728994&eleId=1&offset=655&length=70633&dtd=dart3.xsd	기관투자자	207건	477,909,000주	88.5 : 1	
+***********	*****************	****************	***************	**************	**************
+이글루시큐리티	http://dart.fss.or.kr/report/viewer.do?rcpNo=20100720000188&dcmNo=2730129&eleId=1&offset=655&length=94004&dtd=dart3.xsd	기관투자자	 92건	37,320,000주	37.3 : 1	
+***********	*****************	****************	***************	**************	**************
+엠에스오토텍	http://dart.fss.or.kr/report/viewer.do?rcpNo=20100722000136&dcmNo=2731760&eleId=1&offset=654&length=68258&dtd=dart3.xsd	구분	참여건수	참여수량	단순경쟁률	
+엠에스오토텍	http://dart.fss.or.kr/report/viewer.do?rcpNo=20100722000136&dcmNo=2731760&eleId=1&offset=654&length=68258&dtd=dart3.xsd	기관투자자	172건	245,154,889주	122.58 : 1	
+***********	*****************	****************	***************	**************	**************
+도화	http://dart.fss.or.kr/report/viewer.do?rcpNo=20100730000077&dcmNo=2737310&eleId=1&offset=656&length=101306&dtd=dart3.xsd	국내기관투자자	78	24,372,000 주	
+도화	http://dart.fss.or.kr/report/viewer.do?rcpNo=20100730000077&dcmNo=2737310&eleId=1&offset=656&length=101306&dtd=dart3.xsd	해외기관투자자	11	4,048,000 주	
+도화	http://dart.fss.or.kr/report/viewer.do?rcpNo=20100730000077&dcmNo=2737310&eleId=1&offset=656&length=101306&dtd=dart3.xsd	합계	89	28,420,000 주	
+***********	*****************	****************	***************	**************	**************
+씨젠	http://dart.fss.or.kr/report/viewer.do?rcpNo=20100830000449&dcmNo=2762794&eleId=1&offset=650&length=87041&dtd=dart3.xsd	기관투자자	80 건	14,732,000 주	38.57 : 1	
+***********	*****************	****************	***************	**************	**************
+와이솔	http://dart.fss.or.kr/report/viewer.do?rcpNo=20100830000309&dcmNo=2762463&eleId=1&offset=651&length=88674&dtd=dart3.xsd	기관투자자	83건	31,050,000	51.75	
+***********	*****************	****************	***************	**************	**************
+다원시스	http://dart.fss.or.kr/report/viewer.do?rcpNo=20100902000297&dcmNo=2767317&eleId=1&offset=652&length=80108&dtd=dart3.xsd	기관투자자	61건	23,730,000	28.94	
+***********	*****************	****************	***************	**************	**************
+성융광전투자	http://dart.fss.or.kr/report/viewer.do?rcpNo=20100903000181&dcmNo=2768192&eleId=1&offset=655&length=104810&dtd=dart3.xsd	기관투자자	85 건	209,876,500 주	14.57 : 1	
+***********	*****************	****************	***************	**************	**************
+KTcs	http://dart.fss.or.kr/report/viewer.do?rcpNo=20100906000072&dcmNo=2769095&eleId=1&offset=651&length=56530&dtd=dart3.xsd	주1) 	단순경쟁률 = 신청수량 / 기관투자자 배정수량	
+***********	*****************	****************	***************	**************	**************
+포메탈	http://dart.fss.or.kr/report/viewer.do?rcpNo=20100906000326&dcmNo=2769814&eleId=1&offset=653&length=77561&dtd=dart3.xsd	기관투자자	38 건	12,123,000주	9.6대 1	
+***********	*****************	****************	***************	**************	**************
+휠라코리아	http://dart.fss.or.kr/report/viewer.do?rcpNo=20100909000195&dcmNo=2772348&eleId=1&offset=653&length=116472&dtd=dart3.xsd	주)	단순경쟁률 = 참여수량 / 기관투자자 배정수량	
+***********	*****************	****************	***************	**************	**************
+아이씨코리아	http://dart.fss.or.kr/report/viewer.do?rcpNo=20101005000107&dcmNo=2787370&eleId=1&offset=654&length=94318&dtd=dart3.xsd	기관투자자	118건	88,931,000	98.81	
+***********	*****************	****************	***************	**************	**************
+코렌	http://dart.fss.or.kr/report/viewer.do?rcpNo=20101008000007&dcmNo=2789950&eleId=1&offset=652&length=67085&dtd=dart3.xsd	기관투자자	69 건	22,827,000 주	27.2 : 1	
+***********	*****************	****************	***************	**************	**************
+인화정공	http://dart.fss.or.kr/report/viewer.do?rcpNo=20101007000191&dcmNo=2789426&eleId=1&offset=649&length=93155&dtd=dart3.xsd	기관투자자	167	 80,254,000	86.85:1	
+***********	*****************	****************	***************	**************	**************
+누리플랜	http://dart.fss.or.kr/report/viewer.do?rcpNo=20101008000119&dcmNo=2790220&eleId=1&offset=654&length=52963&dtd=dart3.xsd	기관투자자	156건	86,568,000주	143.09 : 1	
+***********	*****************	****************	***************	**************	**************
+아이텍반도체	http://dart.fss.or.kr/report/viewer.do?rcpNo=20101011000044&dcmNo=2791652&eleId=1&offset=651&length=87865&dtd=dart3.xsd	기관투자자	149	78,574,000	121.16	
+***********	*****************	****************	***************	**************	**************
+케이엔엔	http://dart.fss.or.kr/report/viewer.do?rcpNo=20101022000056&dcmNo=2800410&eleId=1&offset=654&length=78039&dtd=dart3.xsd	기관투자자	88건	38,607,000주	42.69 : 1	
+***********	*****************	****************	***************	**************	**************
+아나패스	http://dart.fss.or.kr/report/viewer.do?rcpNo=20101021000154&dcmNo=2799880&eleId=1&offset=652&length=89475&dtd=dart3.xsd	기관투자자	204	52,824,000	140.5 : 1	
+***********	*****************	****************	***************	**************	**************
+한국전자인증	http://dart.fss.or.kr/report/viewer.do?rcpNo=20101108000007&dcmNo=2811905&eleId=1&offset=655&length=52653&dtd=dart3.xsd	주1) 	단순경쟁률 = 신청수량 / 기관투자자 배정수량	
+***********	*****************	****************	***************	**************	**************
+시그네틱스	http://dart.fss.or.kr/report/viewer.do?rcpNo=20101112000623&dcmNo=2817487&eleId=1&offset=655&length=106007&dtd=dart3.xsd	기관투자자	159건	723,153,000주	64.3 : 1	
+***********	*****************	****************	***************	**************	**************
+코라오홀딩스	http://dart.fss.or.kr/report/viewer.do?rcpNo=20101115000557&dcmNo=2819453&eleId=1&offset=651&length=134442&dtd=dart3.xsd	기관투자자	175	 879,510,000 	93.19:1	
+***********	*****************	****************	***************	**************	**************
+세우테크	http://dart.fss.or.kr/report/viewer.do?rcpNo=20101118000071&dcmNo=2824157&eleId=1&offset=652&length=36737&dtd=dart3.xsd	기관투자자	54	17,770,000주	19.74:1	
+***********	*****************	****************	***************	**************	**************
+한전산업	http://dart.fss.or.kr/report/viewer.do?rcpNo=20101206000059&dcmNo=2837017&eleId=1&offset=654&length=50740&dtd=dart3.xsd	대형 집합투자업자	27	119,270,000	15.24 : 1	
+한전산업	http://dart.fss.or.kr/report/viewer.do?rcpNo=20101206000059&dcmNo=2837017&eleId=1&offset=654&length=50740&dtd=dart3.xsd	중소형 집합투자업자	4	16,568,000	2.12 : 1	
+한전산업	http://dart.fss.or.kr/report/viewer.do?rcpNo=20101206000059&dcmNo=2837017&eleId=1&offset=654&length=50740&dtd=dart3.xsd	은행	4	16,448,000	2.10 : 1	
+한전산업	http://dart.fss.or.kr/report/viewer.do?rcpNo=20101206000059&dcmNo=2837017&eleId=1&offset=654&length=50740&dtd=dart3.xsd	증권회사	21	109,866,000	14.04 : 1	
+한전산업	http://dart.fss.or.kr/report/viewer.do?rcpNo=20101206000059&dcmNo=2837017&eleId=1&offset=654&length=50740&dtd=dart3.xsd	보험회사	1	3,636,000	0.46 : 1	
+한전산업	http://dart.fss.or.kr/report/viewer.do?rcpNo=20101206000059&dcmNo=2837017&eleId=1&offset=654&length=50740&dtd=dart3.xsd	저축은행	75	100,049,000	12.79 : 1	
+한전산업	http://dart.fss.or.kr/report/viewer.do?rcpNo=20101206000059&dcmNo=2837017&eleId=1&offset=654&length=50740&dtd=dart3.xsd	기타국내기관투자자	31	191,300,000	24.45 : 1	
+한전산업	http://dart.fss.or.kr/report/viewer.do?rcpNo=20101206000059&dcmNo=2837017&eleId=1&offset=654&length=50740&dtd=dart3.xsd	해외기관투자자	19	46,034,000	5.88 : 1	
+한전산업	http://dart.fss.or.kr/report/viewer.do?rcpNo=20101206000059&dcmNo=2837017&eleId=1&offset=654&length=50740&dtd=dart3.xsd	계	182	603,171,000	77.09 : 1	
+***********	*****************	****************	***************	**************	**************
+케이티스	http://dart.fss.or.kr/report/viewer.do?rcpNo=20101206000111&dcmNo=2837157&eleId=1&offset=654&length=135261&dtd=dart3.xsd	국내 기관투자자	102	191,025,000	73.9 : 1	
+케이티스	http://dart.fss.or.kr/report/viewer.do?rcpNo=20101206000111&dcmNo=2837157&eleId=1&offset=654&length=135261&dtd=dart3.xsd	해외 기관투자자	8	8,745,000	3.4 : 1	
+케이티스	http://dart.fss.or.kr/report/viewer.do?rcpNo=20101206000111&dcmNo=2837157&eleId=1&offset=654&length=135261&dtd=dart3.xsd	계	110	199,770,000	77.3 : 1	
+***********	*****************	****************	***************	**************	**************
+대정화금	http://dart.fss.or.kr/report/viewer.do?rcpNo=20101206000032&dcmNo=2836918&eleId=1&offset=653&length=142588&dtd=dart3.xsd	기관투자자	189건	189,828,304주	137.6 대 1	
+***********	*****************	****************	***************	**************	**************
+대구도시가스	http://dart.fss.or.kr/report/viewer.do?rcpNo=20101213000136&dcmNo=2842149&eleId=1&offset=651&length=62296&dtd=dart3.xsd	대형 집합투자업자 	29 	74,526,000 	16.56 : 1 	
+대구도시가스	http://dart.fss.or.kr/report/viewer.do?rcpNo=20101213000136&dcmNo=2842149&eleId=1&offset=651&length=62296&dtd=dart3.xsd	중소형 집합투자업자 	4 	7,145,000 	1.59 : 1 	
+대구도시가스	http://dart.fss.or.kr/report/viewer.do?rcpNo=20101213000136&dcmNo=2842149&eleId=1&offset=651&length=62296&dtd=dart3.xsd	은행 	4 	4,100,000 	0.91 : 1 	
+대구도시가스	http://dart.fss.or.kr/report/viewer.do?rcpNo=20101213000136&dcmNo=2842149&eleId=1&offset=651&length=62296&dtd=dart3.xsd	증권회사 	21 	72,320,000 	16.07 : 1 	
+대구도시가스	http://dart.fss.or.kr/report/viewer.do?rcpNo=20101213000136&dcmNo=2842149&eleId=1&offset=651&length=62296&dtd=dart3.xsd	보험회사 	1 	3,703,000 	0.82 : 1 	
+대구도시가스	http://dart.fss.or.kr/report/viewer.do?rcpNo=20101213000136&dcmNo=2842149&eleId=1&offset=651&length=62296&dtd=dart3.xsd	저축은행 	65 	66,593,000 	14.80 : 1 	
+대구도시가스	http://dart.fss.or.kr/report/viewer.do?rcpNo=20101213000136&dcmNo=2842149&eleId=1&offset=651&length=62296&dtd=dart3.xsd	기타국내기관투자자 	23 	77,610,000 	17.25 : 1 	
+대구도시가스	http://dart.fss.or.kr/report/viewer.do?rcpNo=20101213000136&dcmNo=2842149&eleId=1&offset=651&length=62296&dtd=dart3.xsd	해외기관투자자 	13 	18,440,000 	4.10 : 1 	
+대구도시가스	http://dart.fss.or.kr/report/viewer.do?rcpNo=20101213000136&dcmNo=2842149&eleId=1&offset=651&length=62296&dtd=dart3.xsd	계 	160 	324,437,000 	72.10 : 1 	
+***********	*****************	****************	***************	**************	**************
+액트	http://dart.fss.or.kr/report/viewer.do?rcpNo=20101210000336&dcmNo=2841515&eleId=1&offset=650&length=84015&dtd=dart3.xsd	주1)	단순경쟁률 = 신청수량 / 기관투자자 배정수량	
+***********	*****************	****************	***************	**************	**************
+인텍플러스	http://dart.fss.or.kr/report/viewer.do?rcpNo=20101217000223&dcmNo=2847594&eleId=1&offset=653&length=109319&dtd=dart3.xsd	주1)	단순경쟁률 = 신청수량 / 기관투자자 배정수량	
+***********	*****************	****************	***************	**************	**************
+티에스이	http://dart.fss.or.kr/report/viewer.do?rcpNo=20101221000052&dcmNo=2849244&eleId=1&offset=652&length=63273&dtd=dart3.xsd	주1)	단순경쟁률 = 신청수량 / 기관투자자 배정수량	
+***********	*****************	****************	***************	**************	**************
+씨그널정보통신	http://dart.fss.or.kr/report/viewer.do?rcpNo=20110111000280&dcmNo=2870422&eleId=1&offset=652&length=58941&dtd=dart3.xsd	주1)	단순경쟁률 = 신청수량 / 기관투자자 배정수량	
+***********	*****************	****************	***************	**************	**************
+다나와	http://dart.fss.or.kr/report/viewer.do?rcpNo=20110111000061&dcmNo=2869824&eleId=1&offset=653&length=83801&dtd=dart3.xsd	주1)	단순경쟁률 = 신청수량 / 기관투자자 배정수량	
+***********	*****************	****************	***************	**************	**************
+중국고섬	http://dart.fss.or.kr/report/viewer.do?rcpNo=20110111000310&dcmNo=2870503&eleId=1&offset=655&length=94814&dtd=dart3.xsd	기관투자자	81	80,684,000	3.36 : 1	
+***********	*****************	****************	***************	**************	**************
+블루콤	http://dart.fss.or.kr/report/viewer.do?rcpNo=20110114000049&dcmNo=2872536&eleId=1&offset=651&length=158603&dtd=dart3.xsd	국내 기관투자자	189	234,086,000	123.9 : 1	
+블루콤	http://dart.fss.or.kr/report/viewer.do?rcpNo=20110114000049&dcmNo=2872536&eleId=1&offset=651&length=158603&dtd=dart3.xsd	해외 기관투자자	21	27,575,000	14.6 : 1	
+블루콤	http://dart.fss.or.kr/report/viewer.do?rcpNo=20110114000049&dcmNo=2872536&eleId=1&offset=651&length=158603&dtd=dart3.xsd	계	210	261,661,000	138.4 : 1	
+***********	*****************	****************	***************	**************	**************
+엘비세미콘	http://dart.fss.or.kr/report/viewer.do?rcpNo=20110117000018&dcmNo=2873582&eleId=1&offset=653&length=110835&dtd=dart3.xsd	주1)	단순경쟁률 = 신청수량 / 기관투자자 배정수량	
+***********	*****************	****************	***************	**************	**************
+제이엔케이히터	http://dart.fss.or.kr/report/viewer.do?rcpNo=20110118000061&dcmNo=2874937&eleId=1&offset=657&length=116077&dtd=dart3.xsd	국내 기관투자자	193 	216,187,097 	142.23 	
+제이엔케이히터	http://dart.fss.or.kr/report/viewer.do?rcpNo=20110118000061&dcmNo=2874937&eleId=1&offset=657&length=116077&dtd=dart3.xsd	해외 기관투자자	31 	33,554,735 	22.08 	
+제이엔케이히터	http://dart.fss.or.kr/report/viewer.do?rcpNo=20110118000061&dcmNo=2874937&eleId=1&offset=657&length=116077&dtd=dart3.xsd	계	224 	249,741,832 	164.30 	
+***********	*****************	****************	***************	**************	**************
+케이아이엔엑스	http://dart.fss.or.kr/report/viewer.do?rcpNo=20110120000183&dcmNo=2876882&eleId=1&offset=657&length=64524&dtd=dart3.xsd	주1)	단순 경쟁률 = 신청수량 / 기관투자자 배정수량	
+***********	*****************	****************	***************	**************	**************
+티피씨글로벌	http://dart.fss.or.kr/report/viewer.do?rcpNo=20110119000163&dcmNo=2876063&eleId=1&offset=653&length=50887&dtd=dart3.xsd	주1)	단순경쟁률 = 신청수량 / 기관투자자 배정수량	
+***********	*****************	****************	***************	**************	**************
+나노신소재	http://dart.fss.or.kr/report/viewer.do?rcpNo=20110121000143&dcmNo=2877403&eleId=1&offset=653&length=92660&dtd=dart3.xsd	주1)	단순경쟁률 = 신청수량 / 기관투자자 배정수량	
+***********	*****************	****************	***************	**************	**************
+부스타	http://dart.fss.or.kr/report/viewer.do?rcpNo=20110131000202&dcmNo=2884447&eleId=1&offset=651&length=51873&dtd=dart3.xsd	기관투자자	175건	183,954,000주	150.29 : 1	
+***********	*****************	****************	***************	**************	**************
+일진머티리얼즈	http://dart.fss.or.kr/report/viewer.do?rcpNo=20110221000311&dcmNo=2900680&eleId=1&offset=652&length=117094&dtd=dart3.xsd	기관투자자	154 건	174,039,375주	24 : 1	
+***********	*****************	****************	***************	**************	**************
+이퓨쳐	http://dart.fss.or.kr/report/viewer.do?rcpNo=20110414001030&dcmNo=3007269&eleId=1&offset=651&length=88856&dtd=dart3.xsd	주)	단순경쟁률 = 참여수량 / 기관투자자 배정수량	
+***********	*****************	****************	***************	**************	**************
+한국종합기술	http://dart.fss.or.kr/report/viewer.do?rcpNo=20110414000951&dcmNo=3007095&eleId=1&offset=651&length=113611&dtd=dart3.xsd	기관투자자	81건	44,933,000주	23.82:1	
+***********	*****************	****************	***************	**************	**************
+골프존	http://dart.fss.or.kr/report/viewer.do?rcpNo=20110506001067&dcmNo=3034139&eleId=1&offset=653&length=92237&dtd=dart3.xsd	262	173,190,000	112.5 : 1	
+***********	*****************	****************	***************	**************	**************
+KMH	http://dart.fss.or.kr/report/viewer.do?rcpNo=20110513004484&dcmNo=3049727&eleId=1&offset=654&length=57223&dtd=dart3.xsd	56	8,101,000	3.27:1	
+***********	*****************	****************	***************	**************	**************
+세아특수강	http://dart.fss.or.kr/report/viewer.do?rcpNo=20110517000379&dcmNo=3057816&eleId=1&offset=655&length=84728&dtd=dart3.xsd	주)	단순 경쟁률 = 신청수량 / 기관투자자 배정수량	
+***********	*****************	****************	***************	**************	**************
+엘티에스	http://dart.fss.or.kr/report/viewer.do?rcpNo=20110524000081&dcmNo=3062207&eleId=1&offset=652&length=95416&dtd=dart3.xsd	기관투자자	91건	26,690,000주	56.76 : 1	
+***********	*****************	****************	***************	**************	**************
+케이티스카이라이프	http://dart.fss.or.kr/report/viewer.do?rcpNo=20110519000063&dcmNo=3059128&eleId=1&offset=657&length=106245&dtd=dart3.xsd	기관투자자	161	97,583,000	65.06 : 1	
+***********	*****************	****************	***************	**************	**************
+완리	http://dart.fss.or.kr/report/viewer.do?rcpNo=20110530000750&dcmNo=3067397&eleId=1&offset=652&length=104344&dtd=dart3.xsd	201	123,703,000	140.80 : 1	
+***********	*****************	****************	***************	**************	**************
+리켐	http://dart.fss.or.kr/report/viewer.do?rcpNo=20110530000024&dcmNo=3065911&eleId=1&offset=653&length=99859&dtd=dart3.xsd	61	17,315,000	28.9 : 1	
+***********	*****************	****************	***************	**************	**************
+넥스트아이	http://dart.fss.or.kr/report/viewer.do?rcpNo=20110531000084&dcmNo=3068515&eleId=1&offset=652&length=78830&dtd=dart3.xsd	국내 기관투자자	188개	590,756,000주	113.17:1	
+넥스트아이	http://dart.fss.or.kr/report/viewer.do?rcpNo=20110531000084&dcmNo=3068515&eleId=1&offset=652&length=78830&dtd=dart3.xsd	해외 기관투자자	28개	73,519,000주	14.09:1	
+넥스트아이	http://dart.fss.or.kr/report/viewer.do?rcpNo=20110531000084&dcmNo=3068515&eleId=1&offset=652&length=78830&dtd=dart3.xsd	합계	216개	664,275,000주	127.26:1	
+***********	*****************	****************	***************	**************	**************
+코오롱플라스틱	http://dart.fss.or.kr/report/viewer.do?rcpNo=20110607000191&dcmNo=3074396&eleId=1&offset=654&length=48308&dtd=dart3.xsd	28  	11,548,000	8.45 : 1  	
+***********	*****************	****************	***************	**************	**************
+쓰리피시스템	http://dart.fss.or.kr/report/viewer.do?rcpNo=20110607000036&dcmNo=3073936&eleId=1&offset=649&length=105973&dtd=dart3.xsd	기관투자자	127건	122,331,000주	84.95 : 1	
+***********	*****************	****************	***************	**************	**************
+탑금속	http://dart.fss.or.kr/report/viewer.do?rcpNo=20110617000288&dcmNo=3082912&eleId=1&offset=649&length=318149&dtd=dart3.xsd	대우증권 (국내+해외)	81	9,957,000	2.33:1	
+탑금속	http://dart.fss.or.kr/report/viewer.do?rcpNo=20110617000288&dcmNo=3082912&eleId=1&offset=649&length=318149&dtd=dart3.xsd	씨티그룹글로벌마켓증권 (해외)	14	2,759,643	0.65:1	
+탑금속	http://dart.fss.or.kr/report/viewer.do?rcpNo=20110617000288&dcmNo=3082912&eleId=1&offset=649&length=318149&dtd=dart3.xsd	합계	95	12,716,643	2.98:1	
+***********	*****************	****************	***************	**************	**************
+하이마트	http://dart.fss.or.kr/report/viewer.do?rcpNo=20110621000073&dcmNo=3084205&eleId=1&offset=656&length=140499&dtd=dart3.xsd	국내기관투자자	167	650,079,000	29.6	
+하이마트	http://dart.fss.or.kr/report/viewer.do?rcpNo=20110621000073&dcmNo=3084205&eleId=1&offset=656&length=140499&dtd=dart3.xsd	해외기관투자자	55	489,301,750	22.3	
+하이마트	http://dart.fss.or.kr/report/viewer.do?rcpNo=20110621000073&dcmNo=3084205&eleId=1&offset=656&length=140499&dtd=dart3.xsd	합계	222	1,139,380,750	51.9	
+***********	*****************	****************	***************	**************	**************
+한국항공우주	http://dart.fss.or.kr/report/viewer.do?rcpNo=20110624000090&dcmNo=3087106&eleId=1&offset=654&length=85539&dtd=dart3.xsd	기관투자자	67	18,917,700	
+***********	*****************	****************	***************	**************	**************
+대양전기공업	http://dart.fss.or.kr/report/viewer.do?rcpNo=20110701000134&dcmNo=3094200&eleId=1&offset=652&length=77095&dtd=dart3.xsd	105	44,517,000	87.3	
+***********	*****************	****************	***************	**************	**************
+옵티시스	http://dart.fss.or.kr/report/viewer.do?rcpNo=20110704000048&dcmNo=3095063&eleId=1&offset=651&length=130330&dtd=dart3.xsd	(주1)	단순경쟁률 = 참여수량 / 기관투자자 배정수량 (550,500주)	
+***********	*****************	****************	***************	**************	**************
+나이벡	http://dart.fss.or.kr/report/viewer.do?rcpNo=20110628000140&dcmNo=3089587&eleId=1&offset=653&length=86567&dtd=dart3.xsd	<span style="color:#000000;">267</span>	<span style="color:#000000;">152,757,000</span>	<span style="color:#000000;">1 :</span>	
+***********	*****************	****************	***************	**************	**************
+신세계인터내셔날	http://dart.fss.or.kr/report/viewer.do?rcpNo=20110711000130&dcmNo=3101077&eleId=1&offset=654&length=86760&dtd=dart3.xsd	86	49,543,000	28.3 : 1	
+***********	*****************	****************	***************	**************	**************
+상아프론테크	http://dart.fss.or.kr/report/viewer.do?rcpNo=20110706000125&dcmNo=3097256&eleId=1&offset=649&length=106542&dtd=dart3.xsd	261	1,072,656,000 	178.78 	
+***********	*****************	****************	***************	**************	**************
+삼원강재	http://dart.fss.or.kr/report/viewer.do?rcpNo=20110714000251&dcmNo=3104202&eleId=1&offset=652&length=130957&dtd=dart3.xsd	131	87,948,000	88.12 : 1	
+***********	*****************	****************	***************	**************	**************
+경봉	http://dart.fss.or.kr/report/viewer.do?rcpNo=20110720000138&dcmNo=3107505&eleId=1&offset=651&length=150938&dtd=dart3.xsd	189건	104,024,835	165.12:1	
+***********	*****************	****************	***************	**************	**************
+아이씨디	http://dart.fss.or.kr/report/viewer.do?rcpNo=20110725000102&dcmNo=3109687&eleId=1&offset=654&length=111943&dtd=dart3.xsd	기관투자자	210	355,212,000	
+***********	*****************	****************	***************	**************	**************
+제이씨케미칼	http://dart.fss.or.kr/report/viewer.do?rcpNo=20110725000105&dcmNo=3109690&eleId=1&offset=647&length=83441&dtd=dart3.xsd	기관투자자	205건	322,448,045주	154 대 1	
+***********	*****************	****************	***************	**************	**************
+화진	http://dart.fss.or.kr/report/viewer.do?rcpNo=20110909000370&dcmNo=3149973&eleId=1&offset=654&length=88589&dtd=dart3.xsd	182	132,003,000	132.00:1	
+***********	*****************	****************	***************	**************	**************
+대한과학	http://dart.fss.or.kr/report/viewer.do?rcpNo=20111004000365&dcmNo=3164332&eleId=1&offset=646&length=128239&dtd=dart3.xsd	국내기관투자자	56	41,298,000	3.0425	
+대한과학	http://dart.fss.or.kr/report/viewer.do?rcpNo=20111004000365&dcmNo=3164332&eleId=1&offset=646&length=128239&dtd=dart3.xsd	해외기관투자자	4	2,020,000	0.1488	
+대한과학	http://dart.fss.or.kr/report/viewer.do?rcpNo=20111004000365&dcmNo=3164332&eleId=1&offset=646&length=128239&dtd=dart3.xsd	합계	60	43,318,000	3.1913	
+***********	*****************	****************	***************	**************	**************
+넥솔론	http://dart.fss.or.kr/report/viewer.do?rcpNo=20110930000051&dcmNo=3161854&eleId=1&offset=652&length=102099&dtd=dart3.xsd	기관투자자	160건	93,128,000주	115 대 1	
+***********	*****************	****************	***************	**************	**************
+케이맥	http://dart.fss.or.kr/report/viewer.do?rcpNo=20111018000140&dcmNo=3174967&eleId=1&offset=655&length=114173&dtd=dart3.xsd	223건	167,032,285주	185.6 : 1	
+***********	*****************	****************	***************	**************	**************
+테라세미콘	http://dart.fss.or.kr/report/viewer.do?rcpNo=20111020000023&dcmNo=3176163&eleId=1&offset=655&length=58425&dtd=dart3.xsd	211	85,506,000	178.1 : 1	
+***********	*****************	****************	***************	**************	**************
+씨엔플러스	http://dart.fss.or.kr/report/viewer.do?rcpNo=20111025000030&dcmNo=3179178&eleId=1&offset=654&length=94313&dtd=dart3.xsd	249	        198,852,000 	203.51	
+***********	*****************	****************	***************	**************	**************
+씨큐브	http://dart.fss.or.kr/report/viewer.do?rcpNo=20111028000332&dcmNo=3182564&eleId=1&offset=653&length=117683&dtd=dart3.xsd	주1)	단순 경쟁률은 기관투자자 배정수량 대비 신청수량 기준 입니다. 	
+***********	*****************	****************	***************	**************	**************
+테크윙	http://dart.fss.or.kr/report/viewer.do?rcpNo=20111027000009&dcmNo=3180665&eleId=1&offset=653&length=91167&dtd=dart3.xsd	기관투자자	215건	1,003,100,000주	125.4:1	
+***********	*****************	****************	***************	**************	**************
+아이테스트	http://dart.fss.or.kr/report/viewer.do?rcpNo=20111107000071&dcmNo=3187191&eleId=1&offset=653&length=134535&dtd=dart3.xsd	203건	119,255,060주	177.13 : 1	
+***********	*****************	****************	***************	**************	**************
+쎄미시스코	http://dart.fss.or.kr/report/viewer.do?rcpNo=20111110000219&dcmNo=3190487&eleId=1&offset=653&length=106288&dtd=dart3.xsd	기관투자자	339	192,311,000	292.9:1	
+***********	*****************	****************	***************	**************	**************
+와이지엔터테인먼트	http://dart.fss.or.kr/report/viewer.do?rcpNo=20111115000254&dcmNo=3197950&eleId=1&offset=651&length=112099&dtd=dart3.xsd	(주1)	단순 경쟁률은 기관투자자 배정수량 대비 신청수량 기준 입니다. 	
+***********	*****************	****************	***************	**************	**************
+이엠넷	http://dart.fss.or.kr/report/viewer.do?rcpNo=20111115000081&dcmNo=3197531&eleId=1&offset=653&length=101984&dtd=dart3.xsd	기관투자자	247	114,796,000	212.59:1	
+***********	*****************	****************	***************	**************	**************
+신진에스엠	http://dart.fss.or.kr/report/viewer.do?rcpNo=20111118000085&dcmNo=3200072&eleId=1&offset=654&length=98973&dtd=dart3.xsd	국내 기관투자자	86	26,681,000	20.64	
+신진에스엠	http://dart.fss.or.kr/report/viewer.do?rcpNo=20111118000085&dcmNo=3200072&eleId=1&offset=654&length=98973&dtd=dart3.xsd	해외 기관투자자	39	21,080,000	16.31	
+신진에스엠	http://dart.fss.or.kr/report/viewer.do?rcpNo=20111118000085&dcmNo=3200072&eleId=1&offset=654&length=98973&dtd=dart3.xsd	계	125	47,761,000	36.94	
+***********	*****************	****************	***************	**************	**************
+티브이로직	http://dart.fss.or.kr/report/viewer.do?rcpNo=20111121000114&dcmNo=3201154&eleId=1&offset=653&length=121846&dtd=dart3.xsd	기관투자자	203건	80,381,000주	178.4 : 1	
+***********	*****************	****************	***************	**************	**************
+넥스트리밍	http://dart.fss.or.kr/report/viewer.do?rcpNo=20111121000299&dcmNo=3201721&eleId=1&offset=657&length=128942&dtd=dart3.xsd	주1)	단순 경쟁률은 기관투자자 배정수량 대비 신청수량 기준 입니다. 	
+***********	*****************	****************	***************	**************	**************
+씨유메디칼	http://dart.fss.or.kr/report/viewer.do?rcpNo=20111202000184&dcmNo=3211749&eleId=1&offset=652&length=100592&dtd=dart3.xsd	주) 단순경쟁률은 기관투자자 배정 수량 대비 참여수량 기준입니다.	
+***********	*****************	****************	***************	**************	**************
+인터지스	http://dart.fss.or.kr/report/viewer.do?rcpNo=20111205000067&dcmNo=3212466&eleId=1&offset=654&length=81626&dtd=dart3.xsd	168	253,353,000	134.05 : 1	
+***********	*****************	****************	***************	**************	**************
+서암기계공업	http://dart.fss.or.kr/report/viewer.do?rcpNo=20111208000087&dcmNo=3215395&eleId=1&offset=652&length=85182&dtd=dart3.xsd	74	26,800,000	36.82 : 1	
+***********	*****************	****************	***************	**************	**************
+시큐브	http://dart.fss.or.kr/report/viewer.do?rcpNo=20111212000315&dcmNo=3218290&eleId=1&offset=651&length=94596&dtd=dart3.xsd	기관투자자	142건	322,989,000주	117.71 : 1	
+***********	*****************	****************	***************	**************	**************
+GS리테일	http://dart.fss.or.kr/report/viewer.do?rcpNo=20111208000177&dcmNo=3215724&eleId=1&offset=651&length=91804&dtd=dart3.xsd	구분	참여건수	참여수량	단순경쟁률	
+GS리테일	http://dart.fss.or.kr/report/viewer.do?rcpNo=20111208000177&dcmNo=3215724&eleId=1&offset=651&length=91804&dtd=dart3.xsd	기관투자자	219 건	95,448,000주	241.6:1	
+***********	*****************	****************	***************	**************	**************
+디엔에이링크	http://dart.fss.or.kr/report/viewer.do?rcpNo=20111213000156&dcmNo=3218928&eleId=1&offset=657&length=86815&dtd=dart3.xsd	기관투자자	247건	233,940,757주	175.34 : 1	
+***********	*****************	****************	***************	**************	**************
+원익머트리얼즈	http://dart.fss.or.kr/report/viewer.do?rcpNo=20120109000043&dcmNo=3241057&eleId=1&offset=649&length=115232&dtd=dart3.xsd	기관투자자	251	248,174,000	136.84	
+***********	*****************	****************	***************	**************	**************
+동아팜텍	http://dart.fss.or.kr/report/viewer.do?rcpNo=20120112000060&dcmNo=3244246&eleId=1&offset=654&length=75700&dtd=dart3.xsd	기관투자자	129건	189,583,000주	105.32 : 1 	
+***********	*****************	****************	***************	**************	**************
+남화토건	http://dart.fss.or.kr/report/viewer.do?rcpNo=20120201000067&dcmNo=3254196&eleId=1&offset=651&length=86814&dtd=dart3.xsd	262	75,366,000	251.22:1	
+***********	*****************	****************	***************	**************	**************
+사람인에이치알	http://dart.fss.or.kr/report/viewer.do?rcpNo=20120209000186&dcmNo=3260312&eleId=1&offset=648&length=139510&dtd=dart3.xsd	기관투자자	147	155,736,400	15.82:1	
+***********	*****************	****************	***************	**************	**************
+휴비스	http://dart.fss.or.kr/report/viewer.do?rcpNo=20120309000021&dcmNo=3287881&eleId=1&offset=665&length=105735&dtd=dart3.xsd	구분	참여건수	참여수량	단순경쟁률	
+휴비스	http://dart.fss.or.kr/report/viewer.do?rcpNo=20120309000021&dcmNo=3287881&eleId=1&offset=665&length=105735&dtd=dart3.xsd	기관투자자	323 건	158,273,000주	312.2 :1	
+***********	*****************	****************	***************	**************	**************
+빛샘전자	http://dart.fss.or.kr/report/viewer.do?rcpNo=20120322000141&dcmNo=3304755&eleId=1&offset=668&length=109594&dtd=dart3.xsd	기관투자자	325 건	422,102,000 주	234.5 :1	
+***********	*****************	****************	***************	**************	**************
+코오롱머티리얼	http://dart.fss.or.kr/report/viewer.do?rcpNo=20120412002210&dcmNo=3373491&eleId=1&offset=664&length=115725&dtd=dart3.xsd	주1)	단순경쟁률 = 총 참여주식수 / 기관투자자 배정대상주식수	
+***********	*****************	****************	***************	**************	**************
+SBI모기지	http://dart.fss.or.kr/report/viewer.do?rcpNo=20120420000286&dcmNo=3383725&eleId=1&offset=660&length=97334&dtd=dart3.xsd	428	308,523,000	383.26 : 1	
+***********	*****************	****************	***************	**************	**************
+비아트론	http://dart.fss.or.kr/report/viewer.do?rcpNo=20120615000291&dcmNo=3449657&eleId=1&offset=661&length=120716&dtd=dart3.xsd	기관투자자	400	670,934,000	185:1	
+***********	*****************	****************	***************	**************	**************
+사조씨푸드	http://dart.fss.or.kr/report/viewer.do?rcpNo=20120626000248&dcmNo=3455999&eleId=1&offset=664&length=96867&dtd=dart3.xsd	419	208,948,000	370.05	
+***********	*****************	****************	***************	**************	**************
+디지탈옵틱	http://dart.fss.or.kr/report/viewer.do?rcpNo=20120706000125&dcmNo=3465387&eleId=1&offset=666&length=96169&dtd=dart3.xsd	365	146,222,000	                      338.48 : 1	
+***********	*****************	****************	***************	**************	**************
+네이블커뮤니케이션즈	http://dart.fss.or.kr/report/viewer.do?rcpNo=20120712000072&dcmNo=3469412&eleId=1&offset=660&length=112420&dtd=dart3.xsd	87	13,656,000	22.2:1	
+***********	*****************	****************	***************	**************	**************
+엠씨넥스	http://dart.fss.or.kr/report/viewer.do?rcpNo=20120713000223&dcmNo=3470822&eleId=1&offset=665&length=120192&dtd=dart3.xsd	기관투자자	152건	85,079,000주	56.05	
+***********	*****************	****************	***************	**************	**************
+AJ렌터카	http://dart.fss.or.kr/report/viewer.do?rcpNo=20120720000212&dcmNo=3474853&eleId=1&offset=662&length=116222&dtd=dart3.xsd	기관투자자	366건	295,083,000주	302.65:1	
+***********	*****************	****************	***************	**************	**************
+나노스	http://dart.fss.or.kr/report/viewer.do?rcpNo=20120912000048&dcmNo=3515228&eleId=1&offset=665&length=63006&dtd=dart3.xsd	기관투자자	95건	23,449,000주	46.53:1	
+***********	*****************	****************	***************	**************	**************
+모다정보통신	http://dart.fss.or.kr/report/viewer.do?rcpNo=20120917000056&dcmNo=3517955&eleId=1&offset=662&length=92734&dtd=dart3.xsd	주1)	단순경쟁률 : 신청수량 / 기관투자자 배정수량	
+***********	*****************	****************	***************	**************	**************
+코이즈	http://dart.fss.or.kr/report/viewer.do?rcpNo=20121022000251&dcmNo=3542233&eleId=1&offset=659&length=105663&dtd=dart3.xsd	451	704,558,000	                    398.06 : 1	
+***********	*****************	****************	***************	**************	**************
+아바텍	http://dart.fss.or.kr/report/viewer.do?rcpNo=20121029000307&dcmNo=3546978&eleId=1&offset=666&length=173548&dtd=dart3.xsd	기관투자자 	228건 	209,461,362주 	19.05 :1 	
+***********	*****************	****************	***************	**************	**************
+씨제이헬로비전	http://dart.fss.or.kr/report/viewer.do?rcpNo=20121102000042&dcmNo=3550155&eleId=1&offset=663&length=87028&dtd=dart3.xsd	291	312,914,281	                   208.80 : 1	
+***********	*****************	****************	***************	**************	**************
+와이엠씨	http://dart.fss.or.kr/report/viewer.do?rcpNo=20121105000019&dcmNo=3550972&eleId=1&offset=663&length=70169&dtd=dart3.xsd	410	265,856,000	379.79 : 1	
+***********	*****************	****************	***************	**************	**************
+맥스로텍	http://dart.fss.or.kr/report/viewer.do?rcpNo=20121106000047&dcmNo=3551920&eleId=1&offset=666&length=125819&dtd=dart3.xsd	기관투자자	95건	66,199,000주	19.29 : 1	
+***********	*****************	****************	***************	**************	**************
+지엠비코리아	http://dart.fss.or.kr/report/viewer.do?rcpNo=20121112000062&dcmNo=3555887&eleId=1&offset=662&length=103140&dtd=dart3.xsd	306	774,394,000	                  258.3 : 1	
+***********	*****************	****************	***************	**************	**************
+디젠스	http://dart.fss.or.kr/report/viewer.do?rcpNo=20121112000311&dcmNo=3556527&eleId=1&offset=665&length=74730&dtd=dart3.xsd	366	412,103,000	282.22 : 1	
+***********	*****************	****************	***************	**************	**************
+우리로광통신	http://dart.fss.or.kr/report/viewer.do?rcpNo=20121126000103&dcmNo=3568908&eleId=1&offset=669&length=85170&dtd=dart3.xsd	267	753,726,000 주	176.39 : 1	
+***********	*****************	****************	***************	**************	**************
+SBI액시즈	http://dart.fss.or.kr/report/viewer.do?rcpNo=20121214000118&dcmNo=3586021&eleId=1&offset=667&length=74726&dtd=dart3.xsd	기관투자자	276건	154,995,000주	215.27:1	
+***********	*****************	****************	***************	**************	**************
+CS엘쏠라	http://dart.fss.or.kr/report/viewer.do?rcpNo=20130115000134&dcmNo=3609175&eleId=1&offset=662&length=89703&dtd=dart3.xsd	346	233,958,000 	313.32	
+***********	*****************	****************	***************	**************	**************
+포티스	http://dart.fss.or.kr/report/viewer.do?rcpNo=20130118000011&dcmNo=3611785&eleId=1&offset=663&length=90533&dtd=dart3.xsd	447	230,089,000	405.80 : 1	
+***********	*****************	****************	***************	**************	**************
+우리이앤엘	http://dart.fss.or.kr/report/viewer.do?rcpNo=20130125000183&dcmNo=3616590&eleId=1&offset=663&length=71993&dtd=dart3.xsd	346	406,045,000	308.1:1	
+***********	*****************	****************	***************	**************	**************
+아이원스	http://dart.fss.or.kr/report/viewer.do?rcpNo=20130129000368&dcmNo=3619680&eleId=1&offset=661&length=71438&dtd=dart3.xsd	501	790,312,000	411.6 : 1	
+***********	*****************	****************	***************	**************	**************
+제로투세븐	http://dart.fss.or.kr/report/viewer.do?rcpNo=20130220000086&dcmNo=3637916&eleId=1&offset=662&length=179262&dtd=dart3.xsd	347	230,369,000	274.25:1	
+***********	*****************	****************	***************	**************	**************
+코렌텍	http://dart.fss.or.kr/report/viewer.do?rcpNo=20130222000101&dcmNo=3640462&eleId=1&offset=661&length=65427&dtd=dart3.xsd	기관투자자	131건	77,265,000주	47.03:1	
+***********	*****************	****************	***************	**************	**************
+윈팩	http://dart.fss.or.kr/report/viewer.do?rcpNo=20130322000684&dcmNo=3678896&eleId=1&offset=664&length=117312&dtd=dart3.xsd	431 건 	332,046,000 주 	402.48 : 1	
+***********	*****************	****************	***************	**************	**************
+세호로보트	http://dart.fss.or.kr/report/viewer.do?rcpNo=20130416000109&dcmNo=3758460&eleId=1&offset=660&length=113222&dtd=dart3.xsd	108 건 	69,744,903 주 	29.43 : 1	
+***********	*****************	****************	***************	**************	**************
+삼목강업	http://dart.fss.or.kr/report/viewer.do?rcpNo=20130426000092&dcmNo=3768126&eleId=1&offset=669&length=167035&dtd=dart3.xsd	339	255,064,000	260.27 : 1	
+***********	*****************	****************	***************	**************	**************
+레고켐바이오	http://dart.fss.or.kr/report/viewer.do?rcpNo=20130502000981&dcmNo=3775318&eleId=1&offset=662&length=92221&dtd=dart3.xsd	256	273,526,000	113.97 : 1	
+***********	*****************	****************	***************	**************	**************
+엑세스바이오	http://dart.fss.or.kr/report/viewer.do?rcpNo=20130705000369&dcmNo=3848201&eleId=1&offset=664&length=102495&dtd=dart3.xsd	201	205,141,440	169.7:1	
+***********	*****************	****************	***************	**************	**************
+나스미디어	http://dart.fss.or.kr/report/viewer.do?rcpNo=20130712000290&dcmNo=3854048&eleId=1&offset=663&length=120979&dtd=dart3.xsd	국내기관투자자	156	469,729,000	77.2	
+나스미디어	http://dart.fss.or.kr/report/viewer.do?rcpNo=20130712000290&dcmNo=3854048&eleId=1&offset=663&length=120979&dtd=dart3.xsd	해외기관투자자	127	522,780,000	85.9	
+나스미디어	http://dart.fss.or.kr/report/viewer.do?rcpNo=20130712000290&dcmNo=3854048&eleId=1&offset=663&length=120979&dtd=dart3.xsd	합계	283	992,509,000	163.1	
+***********	*****************	****************	***************	**************	**************
+KG ETS	http://dart.fss.or.kr/report/viewer.do?rcpNo=20130722000030&dcmNo=3858856&eleId=1&offset=664&length=76610&dtd=dart3.xsd	432	717,149,000	407.93 : 1	
+***********	*****************	****************	***************	**************	**************
+파이오링크	http://dart.fss.or.kr/report/viewer.do?rcpNo=20130903000223&dcmNo=3898335&eleId=1&offset=663&length=124456&dtd=dart3.xsd	523	196,517,000	502.70 : 1	
+***********	*****************	****************	***************	**************	**************
+금호엔티	http://dart.fss.or.kr/report/viewer.do?rcpNo=20130917000039&dcmNo=3907690&eleId=1&offset=665&length=80106&dtd=dart3.xsd	450	386,089,000	428.99 : 1	
+***********	*****************	****************	***************	**************	**************
+아미코젠	http://dart.fss.or.kr/report/viewer.do?rcpNo=20130925000085&dcmNo=3911011&eleId=1&offset=662&length=73712&dtd=dart3.xsd	457건	394,796,000주	426.5:1	
+***********	*****************	****************	***************	**************	**************
+지엔씨에너지	http://dart.fss.or.kr/report/viewer.do?rcpNo=20131004000192&dcmNo=3919438&eleId=1&offset=660&length=111295&dtd=dart3.xsd	265	183,342,600	190.98:1	
+***********	*****************	****************	***************	**************	**************
+엘티씨	http://dart.fss.or.kr/report/viewer.do?rcpNo=20131007000223&dcmNo=3920515&eleId=1&offset=662&length=67712&dtd=dart3.xsd	343건	168,899,000주	291.8:1	
+***********	*****************	****************	***************	**************	**************
+파수닷컴	http://dart.fss.or.kr/report/viewer.do?rcpNo=20131018000088&dcmNo=3930252&eleId=1&offset=665&length=186191&dtd=dart3.xsd	국내기관투자자	221	712,342,000	58.1 : 1	
+파수닷컴	http://dart.fss.or.kr/report/viewer.do?rcpNo=20131018000088&dcmNo=3930252&eleId=1&offset=665&length=186191&dtd=dart3.xsd	해외기관투자자	236	230,949,705	
+파수닷컴	http://dart.fss.or.kr/report/viewer.do?rcpNo=20131018000088&dcmNo=3930252&eleId=1&offset=665&length=186191&dtd=dart3.xsd	합계	457	943,291,705	
+***********	*****************	****************	***************	**************	**************
+테스나	http://dart.fss.or.kr/report/viewer.do?rcpNo=20131018000165&dcmNo=3930508&eleId=1&offset=662&length=92239&dtd=dart3.xsd	506건	182,560,000주	478.41:1	
+***********	*****************	****************	***************	**************	**************
+현대로템	http://dart.fss.or.kr/report/viewer.do?rcpNo=20131025000128&dcmNo=3935314&eleId=1&offset=661&length=95064&dtd=dart3.xsd	299	380,584,000	193.68 : 1	
+***********	*****************	****************	***************	**************	**************
+(주)내츄럴엔도텍	http://dart.fss.or.kr/report/viewer.do?rcpNo=20131029000003&dcmNo=3937591&eleId=1&offset=665&length=83477&dtd=dart3.xsd	153	50,170,000	63.51 : 1	
+***********	*****************	****************	***************	**************	**************
+해성옵틱스	http://dart.fss.or.kr/report/viewer.do?rcpNo=20131101000091&dcmNo=3941398&eleId=1&offset=662&length=151627&dtd=dart3.xsd	325	199,986,000	267.51 : 1	
+***********	*****************	****************	***************	**************	**************
+에이씨티	http://dart.fss.or.kr/report/viewer.do?rcpNo=20131104000098&dcmNo=3942744&eleId=1&offset=666&length=137490&dtd=dart3.xsd	484	352,210,000	469.61 : 1	
+***********	*****************	****************	***************	**************	**************
+램테크놀러지	http://dart.fss.or.kr/report/viewer.do?rcpNo=20131108000120&dcmNo=3947130&eleId=1&offset=664&length=104176&dtd=dart3.xsd	383	737,655,000	346.45 : 1	
+***********	*****************	****************	***************	**************	**************
+라이온켐텍	http://dart.fss.or.kr/report/viewer.do?rcpNo=20131112000132&dcmNo=3949674&eleId=1&offset=662&length=87156&dtd=dart3.xsd	365	235,479,000	311.29 : 1	
+***********	*****************	****************	***************	**************	**************
+신송홀딩스	http://dart.fss.or.kr/report/viewer.do?rcpNo=20131122000234&dcmNo=3961011&eleId=1&offset=668&length=93140&dtd=dart3.xsd	319	1,088,553,000	208.59 : 1	
+***********	*****************	****************	***************	**************	**************
+디엠티	http://dart.fss.or.kr/report/viewer.do?rcpNo=20131122000157&dcmNo=3960727&eleId=1&offset=660&length=109253&dtd=dart3.xsd	322건	620,764,000주	283.13 : 1	
+***********	*****************	****************	***************	**************	**************
+엔브이에이치코리아	http://dart.fss.or.kr/report/viewer.do?rcpNo=20131125000202&dcmNo=3962037&eleId=1&offset=661&length=93083&dtd=dart3.xsd	443	468,214,000	390.18:1	
+***********	*****************	****************	***************	**************	**************
+현대공업	http://dart.fss.or.kr/report/viewer.do?rcpNo=20131129001988&dcmNo=3971710&eleId=1&offset=665&length=110229&dtd=dart3.xsd	146	136,130,000	46.64	
+***********	*****************	****************	***************	**************	**************
+알티캐스트	http://dart.fss.or.kr/report/viewer.do?rcpNo=20131206000117&dcmNo=3976731&eleId=1&offset=661&length=90601&dtd=dart3.xsd	384	162,727,000	352.22:1	
+***********	*****************	****************	***************	**************	**************
+기가레인	http://dart.fss.or.kr/report/viewer.do?rcpNo=20131213000269&dcmNo=3983653&eleId=1&offset=665&length=88207&dtd=dart3.xsd	331	185,932,000	309.89:1	
+***********	*****************	****************	***************	**************	**************
+인트로메딕	http://dart.fss.or.kr/report/viewer.do?rcpNo=20131213000097&dcmNo=3982970&eleId=1&offset=660&length=105631&dtd=dart3.xsd	152건	50,159,000주	66.88:1	
+***********	*****************	****************	***************	**************	**************
+이지웰페어	http://dart.fss.or.kr/report/viewer.do?rcpNo=20140117000209&dcmNo=4014550&eleId=1&offset=666&length=132539&dtd=dart3.xsd	445	   1,557,552,000 	 412.05 : 1 	
+***********	*****************	****************	***************	**************	**************
+솔루에타	http://dart.fss.or.kr/report/viewer.do?rcpNo=20140121000129&dcmNo=4016707&eleId=1&offset=668&length=189356&dtd=dart3.xsd	국내기관투자자	232	899,759,000	505.3 : 1	
+솔루에타	http://dart.fss.or.kr/report/viewer.do?rcpNo=20140121000129&dcmNo=4016707&eleId=1&offset=668&length=189356&dtd=dart3.xsd	해외기관투자자	355	1,507,741,093	
+솔루에타	http://dart.fss.or.kr/report/viewer.do?rcpNo=20140121000129&dcmNo=4016707&eleId=1&offset=668&length=189356&dtd=dart3.xsd	합계	587	2,407,500,093	
+***********	*****************	****************	***************	**************	**************
+한국정보인증	http://dart.fss.or.kr/report/viewer.do?rcpNo=20140214000617&dcmNo=4037619&eleId=1&offset=666&length=78214&dtd=dart3.xsd	국내기관투자자	183	74,155,000	319.4 : 1	
+한국정보인증	http://dart.fss.or.kr/report/viewer.do?rcpNo=20140214000617&dcmNo=4037619&eleId=1&offset=666&length=78214&dtd=dart3.xsd	해외기관투자자	189	92,413,000	
+한국정보인증	http://dart.fss.or.kr/report/viewer.do?rcpNo=20140214000617&dcmNo=4037619&eleId=1&offset=666&length=78214&dtd=dart3.xsd	합계	372	166,568,000	
+***********	*****************	****************	***************	**************	**************
+인터파크INT	http://dart.fss.or.kr/report/viewer.do?rcpNo=20140430001689&dcmNo=4185570&eleId=1&offset=663&length=91517&dtd=dart3.xsd	
+	218	406,516,579	
+	
+인터파크INT	http://dart.fss.or.kr/report/viewer.do?rcpNo=20140430001689&dcmNo=4185570&eleId=1&offset=663&length=91517&dtd=dart3.xsd	
+	512	839,509,254	
+인터파크INT	http://dart.fss.or.kr/report/viewer.do?rcpNo=20140430001689&dcmNo=4185570&eleId=1&offset=663&length=91517&dtd=dart3.xsd	
+	730	1,246,025,833	
+***********	*****************	****************	***************	**************	**************
+오이솔루션	http://dart.fss.or.kr/report/viewer.do?rcpNo=20140513002179&dcmNo=4204435&eleId=1&offset=667&length=102435&dtd=dart3.xsd	626	1,189,446,000	594.72:1	
+***********	*****************	****************	***************	**************	**************
+BGF리테일	http://dart.fss.or.kr/report/viewer.do?rcpNo=20140627000229&dcmNo=4256745&eleId=1&offset=664&length=118841&dtd=dart3.xsd	638	475,577,000	601.54	
+***********	*****************	****************	***************	**************	**************
+트루윈	http://dart.fss.or.kr/report/viewer.do?rcpNo=20140715000219&dcmNo=4273129&eleId=1&offset=660&length=144940&dtd=dart3.xsd	496	 820,695,000 	444.10 : 1	
+***********	*****************	****************	***************	**************	**************
+화인베스틸	http://dart.fss.or.kr/report/viewer.do?rcpNo=20140718000169&dcmNo=4275881&eleId=1&offset=661&length=160846&dtd=dart3.xsd	606	659,447,000	578.20 : 1	
+***********	*****************	****************	***************	**************	**************
+윈하이텍	http://dart.fss.or.kr/report/viewer.do?rcpNo=20140721000248&dcmNo=4277387&eleId=1&offset=659&length=144952&dtd=dart3.xsd	688	950,054,000	650.72 : 1	
+***********	*****************	****************	***************	**************	**************
+창해에탄올	http://dart.fss.or.kr/report/viewer.do?rcpNo=20140718000136&dcmNo=4275782&eleId=1&offset=663&length=110738&dtd=dart3.xsd	참여건수(건)	신청수량(주)	단순 경쟁률	
+창해에탄올	http://dart.fss.or.kr/report/viewer.do?rcpNo=20140718000136&dcmNo=4275782&eleId=1&offset=663&length=110738&dtd=dart3.xsd	339	174,267,000	264.04:1	
+***********	*****************	****************	***************	**************	**************
+덕신하우징	http://dart.fss.or.kr/report/viewer.do?rcpNo=20140728000039&dcmNo=4282311&eleId=1&offset=665&length=92072&dtd=dart3.xsd	711	880,629,000	598.86 : 1	
+***********	*****************	****************	***************	**************	**************
+파버나인	http://dart.fss.or.kr/report/viewer.do?rcpNo=20140725000077&dcmNo=4280865&eleId=1&offset=660&length=108291&dtd=dart3.xsd	515	530,383,000	441.99 : 1	
+***********	*****************	****************	***************	**************	**************
+쿠쿠전자	http://dart.fss.or.kr/report/viewer.do?rcpNo=20140731000103&dcmNo=4285979&eleId=1&offset=659&length=84475&dtd=dart3.xsd	참여건수(건)	신청수량(주)	단순 경쟁률	
+쿠쿠전자	http://dart.fss.or.kr/report/viewer.do?rcpNo=20140731000103&dcmNo=4285979&eleId=1&offset=659&length=84475&dtd=dart3.xsd	623	153,382,000	608.66 : 1	
+***********	*****************	****************	***************	**************	**************
+신화콘텍	http://dart.fss.or.kr/report/viewer.do?rcpNo=20140922000324&dcmNo=4336052&eleId=1&offset=667&length=180058&dtd=dart3.xsd	739	1,407,580,000	651.66 : 1	
+***********	*****************	****************	***************	**************	**************
+감마누	http://dart.fss.or.kr/report/viewer.do?rcpNo=20140926000126&dcmNo=4340029&eleId=1&offset=672&length=91916&dtd=dart3.xsd	참여건수(건)	신청수량(주)	단순경쟁률	
+감마누	http://dart.fss.or.kr/report/viewer.do?rcpNo=20140926000126&dcmNo=4340029&eleId=1&offset=672&length=91916&dtd=dart3.xsd	
+	
+	
+	
+***********	*****************	****************	***************	**************	**************
+데브시스터즈	http://dart.fss.or.kr/report/viewer.do?rcpNo=20141015000142&dcmNo=4355833&eleId=1&offset=662&length=79892&dtd=dart3.xsd	43건	16,643,000주	17.07:1	
+***********	*****************	****************	***************	**************	**************
+신한제2호SPAC	http://dart.fss.or.kr/report/viewer.do?rcpNo=20141023000212&dcmNo=4362556&eleId=1&offset=662&length=189264&dtd=dart3.xsd	
+	215	243,294,299	
+	
+신한제2호SPAC	http://dart.fss.or.kr/report/viewer.do?rcpNo=20141023000212&dcmNo=4362556&eleId=1&offset=662&length=189264&dtd=dart3.xsd	
+	127	123,175,200	
+신한제2호SPAC	http://dart.fss.or.kr/report/viewer.do?rcpNo=20141023000212&dcmNo=4362556&eleId=1&offset=662&length=189264&dtd=dart3.xsd	
+	342	366,469,499	
+***********	*****************	****************	***************	**************	**************
+영우디에스피	http://dart.fss.or.kr/report/viewer.do?rcpNo=20141027000577&dcmNo=4364894&eleId=1&offset=665&length=125124&dtd=dart3.xsd	603	 201,659,000 	591.09 : 1	
+***********	*****************	****************	***************	**************	**************
+슈피겐코리아	http://dart.fss.or.kr/report/viewer.do?rcpNo=20141031002235&dcmNo=4370522&eleId=1&offset=663&length=109678&dtd=dart3.xsd	국내외 기관투자자	1,075	2,384,362,876	651.5:1	
+***********	*****************	****************	***************	**************	**************
+테고사이언스	http://dart.fss.or.kr/report/viewer.do?rcpNo=20141107000323&dcmNo=4376737&eleId=1&offset=669&length=89716&dtd=dart3.xsd	97	63,412,000	55.28 : 1	
+***********	*****************	****************	***************	**************	**************
+디에이테크놀로지	http://dart.fss.or.kr/report/viewer.do?rcpNo=20141110000220&dcmNo=4377852&eleId=1&offset=689&length=147431&dtd=dart3.xsd	260	 172,125,000 	224.12 : 1	
+***********	*****************	****************	***************	**************	**************
+우리은행	http://dart.fss.or.kr/report/viewer.do?rcpNo=20141112000364&dcmNo=4381197&eleId=1&offset=663&length=116726&dtd=dart3.xsd	243	167,767,000	162.88:1	
+***********	*****************	****************	***************	**************	**************
+파티게임즈	http://dart.fss.or.kr/report/viewer.do?rcpNo=20141117000213&dcmNo=4387588&eleId=1&offset=666&length=146156&dtd=dart3.xsd	국내기관투자자	181	        215,560,790 	<span style='font-family:"바탕", Batang;color:#1600FF;font-weight:bold;'>109.3 : 1</span>	
+파티게임즈	http://dart.fss.or.kr/report/viewer.do?rcpNo=20141117000213&dcmNo=4387588&eleId=1&offset=666&length=146156&dtd=dart3.xsd	해외기관투자자	101	        171,218,900 	
+파티게임즈	http://dart.fss.or.kr/report/viewer.do?rcpNo=20141117000213&dcmNo=4387588&eleId=1&offset=666&length=146156&dtd=dart3.xsd	합계	282	386,779,690 	
+***********	*****************	****************	***************	**************	**************
+텔콘	http://dart.fss.or.kr/report/viewer.do?rcpNo=20141120000209&dcmNo=4390252&eleId=1&offset=666&length=148419&dtd=dart3.xsd	260	207,591,000	185.35 : 1	
+***********	*****************	****************	***************	**************	**************
+씨에스윈드	http://dart.fss.or.kr/report/viewer.do?rcpNo=20141121000026&dcmNo=4391158&eleId=1&offset=665&length=101101&dtd=dart3.xsd	266	321,072,000 주	219.91	
+***********	*****************	****************	***************	**************	**************
+대창스틸	http://dart.fss.or.kr/report/viewer.do?rcpNo=20141201000044&dcmNo=4401018&eleId=1&offset=665&length=85295&dtd=dart3.xsd	479	272,524,000	409.20	
+***********	*****************	****************	***************	**************	**************
+SKC코오롱PI	http://dart.fss.or.kr/report/viewer.do?rcpNo=20141201000428&dcmNo=4401902&eleId=1&offset=667&length=123609&dtd=dart3.xsd	국내기관투자자	227 	170,098,000 	356.75 : 1	
+SKC코오롱PI	http://dart.fss.or.kr/report/viewer.do?rcpNo=20141201000428&dcmNo=4401902&eleId=1&offset=667&length=123609&dtd=dart3.xsd	해외기관투자자	233 	184,373,514 	
+SKC코오롱PI	http://dart.fss.or.kr/report/viewer.do?rcpNo=20141201000428&dcmNo=4401902&eleId=1&offset=667&length=123609&dtd=dart3.xsd	합계	460 	354,471,514 	
+***********	*****************	****************	***************	**************	**************
+비씨월드제약	http://dart.fss.or.kr/report/viewer.do?rcpNo=20141205000127&dcmNo=4406863&eleId=1&offset=662&length=120036&dtd=dart3.xsd	516	568,934,000	474.11	
+***********	*****************	****************	***************	**************	**************
+에이디테크놀로지	http://dart.fss.or.kr/report/viewer.do?rcpNo=20141205000055&dcmNo=4406644&eleId=1&offset=663&length=141598&dtd=dart3.xsd	644건	895,972,000주	559.02:1	
+***********	*****************	****************	***************	**************	**************
+녹십자엠에스	http://dart.fss.or.kr/report/viewer.do?rcpNo=20141205000433&dcmNo=4407881&eleId=1&offset=661&length=171490&dtd=dart3.xsd	국내외 기관투자자	849	8,028,770,786	465:1	
+***********	*****************	****************	***************	**************	**************
+디티앤씨	http://dart.fss.or.kr/report/viewer.do?rcpNo=20141212000537&dcmNo=4415024&eleId=1&offset=670&length=167863&dtd=dart3.xsd	318	334,206,000	214.69 : 1	
+***********	*****************	****************	***************	**************	**************
+제일모직	http://dart.fss.or.kr/report/viewer.do?rcpNo=20141212000406&dcmNo=4414599&eleId=1&offset=659&length=139242&dtd=dart3.xsd	106	133,491,690	74.59	
+***********	*****************	****************	***************	**************	**************
+뉴	http://dart.fss.or.kr/report/viewer.do?rcpNo=20141211000329&dcmNo=4412944&eleId=1&offset=666&length=123202&dtd=dart3.xsd	
+	
+	
+	
+뉴	http://dart.fss.or.kr/report/viewer.do?rcpNo=20141211000329&dcmNo=4412944&eleId=1&offset=666&length=123202&dtd=dart3.xsd	
+	
+	
+	
+***********	*****************	****************	***************	**************	**************
+아스트	http://dart.fss.or.kr/report/viewer.do?rcpNo=20141210000386&dcmNo=4411705&eleId=1&offset=663&length=131865&dtd=dart3.xsd	46	10,781,260	11.54 : 1	
+***********	*****************	****************	***************	**************	**************
+오킨스전자	http://dart.fss.or.kr/report/viewer.do?rcpNo=20141211000230&dcmNo=4412680&eleId=1&offset=659&length=102095&dtd=dart3.xsd	국내기관투자자	50 	81,478,000 	50.03 : 1	
+오킨스전자	http://dart.fss.or.kr/report/viewer.do?rcpNo=20141211000230&dcmNo=4412680&eleId=1&offset=659&length=102095&dtd=dart3.xsd	해외기관투자자	35 	92,810,582 	
+오킨스전자	http://dart.fss.or.kr/report/viewer.do?rcpNo=20141211000230&dcmNo=4412680&eleId=1&offset=659&length=102095&dtd=dart3.xsd	합계	85 	174,288,582 	
+***********	*****************	****************	***************	**************	**************
+하이셈	http://dart.fss.or.kr/report/viewer.do?rcpNo=20141217000273&dcmNo=4419830&eleId=1&offset=663&length=128863&dtd=dart3.xsd	112	 64,557,000 	29.25	
+***********	*****************	****************	***************	**************	**************

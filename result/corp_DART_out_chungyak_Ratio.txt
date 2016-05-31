@@ -1,0 +1,875 @@
+네오피델리티	http://dart.fss.or.kr/report/viewer.do?rcpNo=20090318000009&dcmNo=2155348&eleId=67&offset=681867&length=239580&dtd=dart3.xsd	자산총계	17,280	11,716	6,332	6,232	4,015	
+네오피델리티	http://dart.fss.or.kr/report/viewer.do?rcpNo=20090318000009&dcmNo=2155348&eleId=67&offset=681867&length=239580&dtd=dart3.xsd	부채총계	7,766	5,054	2,403	2,415	2,608	
+네오피델리티	http://dart.fss.or.kr/report/viewer.do?rcpNo=20090318000009&dcmNo=2155348&eleId=67&offset=681867&length=239580&dtd=dart3.xsd	자본총계	9,514	6,662	3,929	3,817	1,407	
+네오피델리티	http://dart.fss.or.kr/report/viewer.do?rcpNo=20090318000009&dcmNo=2155348&eleId=67&offset=681867&length=239580&dtd=dart3.xsd	자 산 총 계	17,280	11,716	6,332	
+네오피델리티	http://dart.fss.or.kr/report/viewer.do?rcpNo=20090318000009&dcmNo=2155348&eleId=67&offset=681867&length=239580&dtd=dart3.xsd	부 채 총 계	7,766	5,054	2,403	
+네오피델리티	http://dart.fss.or.kr/report/viewer.do?rcpNo=20090318000009&dcmNo=2155348&eleId=67&offset=681867&length=239580&dtd=dart3.xsd	자 본 총 계	9,514	6,662	3,929	
+네오피델리티	http://dart.fss.or.kr/report/viewer.do?rcpNo=20090318000009&dcmNo=2155348&eleId=67&offset=681867&length=239580&dtd=dart3.xsd	부채와자본총계	17,280	11,716	6,332	
+네오피델리티	http://dart.fss.or.kr/report/viewer.do?rcpNo=20090318000009&dcmNo=2155348&eleId=67&offset=681867&length=239580&dtd=dart3.xsd	    제품매출액	35,853	22,394	4,522	
+네오피델리티	http://dart.fss.or.kr/report/viewer.do?rcpNo=20090318000009&dcmNo=2155348&eleId=67&offset=681867&length=239580&dtd=dart3.xsd	    상품매출액	45	43	163	
+네오피델리티	http://dart.fss.or.kr/report/viewer.do?rcpNo=20090318000009&dcmNo=2155348&eleId=67&offset=681867&length=239580&dtd=dart3.xsd	    기타매출액	-	3	0	
+네오피델리티	http://dart.fss.or.kr/report/viewer.do?rcpNo=20090318000009&dcmNo=2155348&eleId=67&offset=681867&length=239580&dtd=dart3.xsd	    당기순이익	2,980	2,608	112	
+네오피델리티	http://dart.fss.or.kr/report/viewer.do?rcpNo=20090318000009&dcmNo=2155348&eleId=67&offset=681867&length=239580&dtd=dart3.xsd	   당기순이익	2,980	2,608	112	
+코오롱생명과학	http://dart.fss.or.kr/report/viewer.do?rcpNo=20090320000101&dcmNo=2158883&eleId=67&offset=1483757&length=141352&dtd=dart3.xsd	자산총계	55,055	37,866	29,262	15,021	1,693	
+코오롱생명과학	http://dart.fss.or.kr/report/viewer.do?rcpNo=20090320000101&dcmNo=2158883&eleId=67&offset=1483757&length=141352&dtd=dart3.xsd	부채총계	30,771	21,150	17,158	14,452	665	
+코오롱생명과학	http://dart.fss.or.kr/report/viewer.do?rcpNo=20090320000101&dcmNo=2158883&eleId=67&offset=1483757&length=141352&dtd=dart3.xsd	자본총계	24,284	16,716	12,104	569	1,028	
+코오롱생명과학	http://dart.fss.or.kr/report/viewer.do?rcpNo=20090320000101&dcmNo=2158883&eleId=67&offset=1483757&length=141352&dtd=dart3.xsd	부 채 와  자 본 총 계	55,054,825,973	 37,865,730,595	29,262,265,204	
+코오롱생명과학	http://dart.fss.or.kr/report/viewer.do?rcpNo=20090320000101&dcmNo=2158883&eleId=67&offset=1483757&length=141352&dtd=dart3.xsd	Ⅰ. 매출액	70,247,078,901	57,441,040,263	48,656,870,324	
+코오롱생명과학	http://dart.fss.or.kr/report/viewer.do?rcpNo=20090320000101&dcmNo=2158883&eleId=67&offset=1483757&length=141352&dtd=dart3.xsd	1. 상품매출액	5,671,032,325	 3,736,710,562	2,228,384,128	
+코오롱생명과학	http://dart.fss.or.kr/report/viewer.do?rcpNo=20090320000101&dcmNo=2158883&eleId=67&offset=1483757&length=141352&dtd=dart3.xsd	2. 제품매출액	64,065,616,976	 53,370,327,701	45,978,615,196	
+코오롱생명과학	http://dart.fss.or.kr/report/viewer.do?rcpNo=20090320000101&dcmNo=2158883&eleId=67&offset=1483757&length=141352&dtd=dart3.xsd	Ⅴ. 영업이익	8,172,402,124	 4,159,164,188	3,762,782,951	
+코오롱생명과학	http://dart.fss.or.kr/report/viewer.do?rcpNo=20090320000101&dcmNo=2158883&eleId=67&offset=1483757&length=141352&dtd=dart3.xsd	X. 당기순이익	7,588,481,948	 3,450,947,572	2,143,875,628	
+코오롱생명과학	http://dart.fss.or.kr/report/viewer.do?rcpNo=20090320000101&dcmNo=2158883&eleId=67&offset=1483757&length=141352&dtd=dart3.xsd	2. 당기순이익	7,588,481,948	 3,450,947,572	2,143,875,628	
+코오롱생명과학	http://dart.fss.or.kr/report/viewer.do?rcpNo=20090320000101&dcmNo=2158883&eleId=67&offset=1483757&length=141352&dtd=dart3.xsd	1.당기순이익	7,588,481,948	 3,450,947,572	2,143,875,628	
+코오롱생명과학	http://dart.fss.or.kr/report/viewer.do?rcpNo=20090320000101&dcmNo=2158883&eleId=67&offset=1483757&length=141352&dtd=dart3.xsd	 1. 매출액	26,875	21,604	24,249 	
+코오롱생명과학	http://dart.fss.or.kr/report/viewer.do?rcpNo=20090320000101&dcmNo=2158883&eleId=67&offset=1483757&length=141352&dtd=dart3.xsd	    외부매출액	26,875	21,604	24,249 	
+코오롱생명과학	http://dart.fss.or.kr/report/viewer.do?rcpNo=20090320000101&dcmNo=2158883&eleId=67&offset=1483757&length=141352&dtd=dart3.xsd	 1. 매출액	42,971	35,503	24,065 	
+코오롱생명과학	http://dart.fss.or.kr/report/viewer.do?rcpNo=20090320000101&dcmNo=2158883&eleId=67&offset=1483757&length=141352&dtd=dart3.xsd	    외부매출액	42,971	35,503	24,065 	
+코오롱생명과학	http://dart.fss.or.kr/report/viewer.do?rcpNo=20090320000101&dcmNo=2158883&eleId=67&offset=1483757&length=141352&dtd=dart3.xsd	 1. 매출액	401	334	343	
+코오롱생명과학	http://dart.fss.or.kr/report/viewer.do?rcpNo=20090320000101&dcmNo=2158883&eleId=67&offset=1483757&length=141352&dtd=dart3.xsd	    외부매출액	401	334	343	
+뷰웍스	http://dart.fss.or.kr/report/viewer.do?rcpNo=20090331000274&dcmNo=2179931&eleId=67&offset=864348&length=116844&dtd=dart3.xsd	자산총계	22,457,794	14,904,259	10,677,177	4,753,087	2,954,398	
+뷰웍스	http://dart.fss.or.kr/report/viewer.do?rcpNo=20090331000274&dcmNo=2179931&eleId=67&offset=864348&length=116844&dtd=dart3.xsd	부채총계	2,336,085	1,087,567	1,534,576	1,395,876	1,580,513	
+뷰웍스	http://dart.fss.or.kr/report/viewer.do?rcpNo=20090331000274&dcmNo=2179931&eleId=67&offset=864348&length=116844&dtd=dart3.xsd	자본총계	20,121,709	13,816,692	9,142,601	3,357,210	1,373,884	
+뷰웍스	http://dart.fss.or.kr/report/viewer.do?rcpNo=20090331000274&dcmNo=2179931&eleId=67&offset=864348&length=116844&dtd=dart3.xsd	자 산 총 계	22,457,793,854	14,904,258,859	10,677,176,600	
+뷰웍스	http://dart.fss.or.kr/report/viewer.do?rcpNo=20090331000274&dcmNo=2179931&eleId=67&offset=864348&length=116844&dtd=dart3.xsd	부 채 총 계	2,336,085,113	1,087,567,264	1,534,575,642	
+뷰웍스	http://dart.fss.or.kr/report/viewer.do?rcpNo=20090331000274&dcmNo=2179931&eleId=67&offset=864348&length=116844&dtd=dart3.xsd	자 본 총 계 	20,121,708,741	13,816,691,595	9,142,600,958	
+뷰웍스	http://dart.fss.or.kr/report/viewer.do?rcpNo=20090331000274&dcmNo=2179931&eleId=67&offset=864348&length=116844&dtd=dart3.xsd	부채와자본총계	22,457,793,854	14,904,258,859	10,677,176,600	
+뷰웍스	http://dart.fss.or.kr/report/viewer.do?rcpNo=20090331000274&dcmNo=2179931&eleId=67&offset=864348&length=116844&dtd=dart3.xsd	I. 매출액	21,282,881,126	16,725,175,796	10,066,308,461	
+뷰웍스	http://dart.fss.or.kr/report/viewer.do?rcpNo=20090331000274&dcmNo=2179931&eleId=67&offset=864348&length=116844&dtd=dart3.xsd	 1. 제품매출액	20,984,699,069	16,183,263,642	9,318,536,661	
+뷰웍스	http://dart.fss.or.kr/report/viewer.do?rcpNo=20090331000274&dcmNo=2179931&eleId=67&offset=864348&length=116844&dtd=dart3.xsd	 2. 용역매출액	298,182,057	541,912,154	747,771,800	
+뷰웍스	http://dart.fss.or.kr/report/viewer.do?rcpNo=20090331000274&dcmNo=2179931&eleId=67&offset=864348&length=116844&dtd=dart3.xsd	V. 영업이익	6,281,671,064	5,111,772,136	3,036,498,365	
+뷰웍스	http://dart.fss.or.kr/report/viewer.do?rcpNo=20090331000274&dcmNo=2179931&eleId=67&offset=864348&length=116844&dtd=dart3.xsd	X. 당기순이익 	6,176,766,361	4,539,463,279	2,822,736,530	
+뷰웍스	http://dart.fss.or.kr/report/viewer.do?rcpNo=20090331000274&dcmNo=2179931&eleId=67&offset=864348&length=116844&dtd=dart3.xsd	 2.당기순이익	6,176,766,361	4,539,463,279	2,822,736,530	
+뷰웍스	http://dart.fss.or.kr/report/viewer.do?rcpNo=20090331000274&dcmNo=2179931&eleId=67&offset=864348&length=116844&dtd=dart3.xsd	 1. 당기순이익	6,176,766,361	4,539,463,279	2,822,736,530	
+에스앤에스텍	http://dart.fss.or.kr/report/viewer.do?rcpNo=20090330000513&dcmNo=2174240&eleId=67&offset=622446&length=254706&dtd=dart3.xsd	자산총계	57,876,593	53,485,049 	51,525,837 	57,450,148 	50,220,432 	
+에스앤에스텍	http://dart.fss.or.kr/report/viewer.do?rcpNo=20090330000513&dcmNo=2174240&eleId=67&offset=622446&length=254706&dtd=dart3.xsd	부채총계	27,910,824	27,302,947 	28,843,719 	37,024,863 	37,355,265 	
+에스앤에스텍	http://dart.fss.or.kr/report/viewer.do?rcpNo=20090330000513&dcmNo=2174240&eleId=67&offset=622446&length=254706&dtd=dart3.xsd	자본총계	29,965,769	26,182,102 	22,682,118 	20,425,285 	12,865,167 	
+에스앤에스텍	http://dart.fss.or.kr/report/viewer.do?rcpNo=20090330000513&dcmNo=2174240&eleId=67&offset=622446&length=254706&dtd=dart3.xsd	부 채 와 자 본 총 계	57,876,593,608 	53,485,049,289 	51,525,837,321 	
+에스앤에스텍	http://dart.fss.or.kr/report/viewer.do?rcpNo=20090330000513&dcmNo=2174240&eleId=67&offset=622446&length=254706&dtd=dart3.xsd	Ⅰ.매출액	38,000,100,519 	28,199,742,683	20,345,036,232	
+에스앤에스텍	http://dart.fss.or.kr/report/viewer.do?rcpNo=20090330000513&dcmNo=2174240&eleId=67&offset=622446&length=254706&dtd=dart3.xsd	Ⅴ.영업이익	5,614,215,426 	3,647,550,180	330,653,192	
+에스앤에스텍	http://dart.fss.or.kr/report/viewer.do?rcpNo=20090330000513&dcmNo=2174240&eleId=67&offset=622446&length=254706&dtd=dart3.xsd	XI.당기순이익	3,855,591,919	3,499,983,894	156,833,081	
+에스앤에스텍	http://dart.fss.or.kr/report/viewer.do?rcpNo=20090330000513&dcmNo=2174240&eleId=67&offset=622446&length=254706&dtd=dart3.xsd	2.당기순이익	 3,855,591,919 	3,499,983,894 	     156,833,081 	
+에스앤에스텍	http://dart.fss.or.kr/report/viewer.do?rcpNo=20090330000513&dcmNo=2174240&eleId=67&offset=622446&length=254706&dtd=dart3.xsd	1.당기순이익	3,855,591,919 	3,499,983,894	156,833,081	
+에이테크솔루션	http://dart.fss.or.kr/report/viewer.do?rcpNo=20090330000533&dcmNo=2174347&eleId=67&offset=679429&length=356484&dtd=dart3.xsd	자산총계	77,827	57,713	56,805	61,923	62,222	
+에이테크솔루션	http://dart.fss.or.kr/report/viewer.do?rcpNo=20090330000533&dcmNo=2174347&eleId=67&offset=679429&length=356484&dtd=dart3.xsd	부채총계	56,926	46,066	50,015	56,241	54,059	
+에이테크솔루션	http://dart.fss.or.kr/report/viewer.do?rcpNo=20090330000533&dcmNo=2174347&eleId=67&offset=679429&length=356484&dtd=dart3.xsd	자본총계	20,901	11,648	6,790	5,682	8,163	
+에이테크솔루션	http://dart.fss.or.kr/report/viewer.do?rcpNo=20090330000533&dcmNo=2174347&eleId=67&offset=679429&length=356484&dtd=dart3.xsd	부채와 자본 총계	77,827,021,321	57,713,662,065	56,805,679,260	
+에이테크솔루션	http://dart.fss.or.kr/report/viewer.do?rcpNo=20090330000533&dcmNo=2174347&eleId=67&offset=679429&length=356484&dtd=dart3.xsd	1. 국내매출액	72,265,998,930	67,431,237,721	58,933,440,797	
+에이테크솔루션	http://dart.fss.or.kr/report/viewer.do?rcpNo=20090330000533&dcmNo=2174347&eleId=67&offset=679429&length=356484&dtd=dart3.xsd	2. 수출매출액	44,358,209,645	34,500,376,284	32,847,677,059	
+에이테크솔루션	http://dart.fss.or.kr/report/viewer.do?rcpNo=20090330000533&dcmNo=2174347&eleId=67&offset=679429&length=356484&dtd=dart3.xsd	Ⅹ. 당기순이익(손실)	7,907,058,312	4,348,616,245	1,032,650,330	
+에이테크솔루션	http://dart.fss.or.kr/report/viewer.do?rcpNo=20090330000533&dcmNo=2174347&eleId=67&offset=679429&length=356484&dtd=dart3.xsd	3. 당기순이익(손실)	7,907,058,312	4,348,616,245	1,032,650,330	
+에이테크솔루션	http://dart.fss.or.kr/report/viewer.do?rcpNo=20090330000533&dcmNo=2174347&eleId=67&offset=679429&length=356484&dtd=dart3.xsd	1. 당기순이익(손실)	7,907,058,312	4,348,616,245	1,032,650,330	
+에이테크솔루션	http://dart.fss.or.kr/report/viewer.do?rcpNo=20090330000533&dcmNo=2174347&eleId=67&offset=679429&length=356484&dtd=dart3.xsd	자산총계	85,862,225	62,789,777	62,322,227	66,649,695	70,414,476	
+에이테크솔루션	http://dart.fss.or.kr/report/viewer.do?rcpNo=20090330000533&dcmNo=2174347&eleId=67&offset=679429&length=356484&dtd=dart3.xsd	부채총계	64,813,450	51,041,354	55,118,307	60,504,629	61,206,064	
+에이테크솔루션	http://dart.fss.or.kr/report/viewer.do?rcpNo=20090330000533&dcmNo=2174347&eleId=67&offset=679429&length=356484&dtd=dart3.xsd	자본총계	21,048,775	11,748,423	7,203,920	6,145,065	9,208,412	
+에이테크솔루션	http://dart.fss.or.kr/report/viewer.do?rcpNo=20090330000533&dcmNo=2174347&eleId=67&offset=679429&length=356484&dtd=dart3.xsd	연결총당기순이익	7,965,641	4,290,026	978,708	△2,558,508	1,894,388	
+에이테크솔루션	http://dart.fss.or.kr/report/viewer.do?rcpNo=20090330000533&dcmNo=2174347&eleId=67&offset=679429&length=356484&dtd=dart3.xsd	부채와자본총계	13,902,821	10,083,235	
+에이테크솔루션	http://dart.fss.or.kr/report/viewer.do?rcpNo=20090330000533&dcmNo=2174347&eleId=67&offset=679429&length=356484&dtd=dart3.xsd	Ⅴ.영업이익	8,891,592,207	 4,219,003,209	2,580,681,015	
+에이테크솔루션	http://dart.fss.or.kr/report/viewer.do?rcpNo=20090330000533&dcmNo=2174347&eleId=67&offset=679429&length=356484&dtd=dart3.xsd	Ⅹ.당기순이익	7,965,641,434	 4,290,026,575	978,708,596	
+엔에스브이	http://dart.fss.or.kr/report/viewer.do?rcpNo=20090402001385&dcmNo=2202454&eleId=67&offset=717525&length=253005&dtd=dart3.xsd	자산총계	26,528	21,734	15,540	12,507	8,901	
+엔에스브이	http://dart.fss.or.kr/report/viewer.do?rcpNo=20090402001385&dcmNo=2202454&eleId=67&offset=717525&length=253005&dtd=dart3.xsd	부채총계	15,524	13,251	9,652	8,262	7,115	
+엔에스브이	http://dart.fss.or.kr/report/viewer.do?rcpNo=20090402001385&dcmNo=2202454&eleId=67&offset=717525&length=253005&dtd=dart3.xsd	자본총계	11,004	8,484	5,888	4,245	1,786	
+엔에스브이	http://dart.fss.or.kr/report/viewer.do?rcpNo=20090402001385&dcmNo=2202454&eleId=67&offset=717525&length=253005&dtd=dart3.xsd	부 채 와 자 본 총 계	26,528,067,469	21,734,106,407	15,539,684,603	
+엔에스브이	http://dart.fss.or.kr/report/viewer.do?rcpNo=20090402001385&dcmNo=2202454&eleId=67&offset=717525&length=253005&dtd=dart3.xsd	Ⅰ.매출액	27,308,701,862	25,475,712,504	15,804,850,764	
+엔에스브이	http://dart.fss.or.kr/report/viewer.do?rcpNo=20090402001385&dcmNo=2202454&eleId=67&offset=717525&length=253005&dtd=dart3.xsd	1. 제품매출액	16,006,153,318	15,423,925,705	11,349,431,360	
+엔에스브이	http://dart.fss.or.kr/report/viewer.do?rcpNo=20090402001385&dcmNo=2202454&eleId=67&offset=717525&length=253005&dtd=dart3.xsd	2. 수출매출액	11,268,799,994	9,970,580,149	4,448,854,504	
+엔에스브이	http://dart.fss.or.kr/report/viewer.do?rcpNo=20090402001385&dcmNo=2202454&eleId=67&offset=717525&length=253005&dtd=dart3.xsd	3. 부산물매출액	33,748,550	81,206,650	6,564,900	
+엔에스브이	http://dart.fss.or.kr/report/viewer.do?rcpNo=20090402001385&dcmNo=2202454&eleId=67&offset=717525&length=253005&dtd=dart3.xsd	Ⅴ.영업이익	4,713,296,798	3,861,731,333	1,685,048,530	
+엔에스브이	http://dart.fss.or.kr/report/viewer.do?rcpNo=20090402001385&dcmNo=2202454&eleId=67&offset=717525&length=253005&dtd=dart3.xsd	Ⅹ.당기순이익	2,520,679,687	2,595,980,790	959,998,714	
+엔에스브이	http://dart.fss.or.kr/report/viewer.do?rcpNo=20090402001385&dcmNo=2202454&eleId=67&offset=717525&length=253005&dtd=dart3.xsd	  2. 당기순이익	2,520,679,687	<br/>	2,595,980,790	<br/>	959,998,714	<br/>	
+엔에스브이	http://dart.fss.or.kr/report/viewer.do?rcpNo=20090402001385&dcmNo=2202454&eleId=67&offset=717525&length=253005&dtd=dart3.xsd	1. 당기순이익	2,520,679,687	2,595,980,790	959,998,714	
+엔에스브이	http://dart.fss.or.kr/report/viewer.do?rcpNo=20090402001385&dcmNo=2202454&eleId=67&offset=717525&length=253005&dtd=dart3.xsd	(1) 당기순이익	2,520,679,687	2,595,980,790원	
+엔에스브이	http://dart.fss.or.kr/report/viewer.do?rcpNo=20090402001385&dcmNo=2202454&eleId=67&offset=717525&length=253005&dtd=dart3.xsd	(2) 당기순이익	<br/>	<br/>	<br/>	<br/>	
+에스티오	http://dart.fss.or.kr/report/viewer.do?rcpNo=20090403000472&dcmNo=2204056&eleId=67&offset=928957&length=118915&dtd=dart3.xsd	자산총계	42,102,194	29,722,142	15,548,461	4,442,900	1,182,584	
+에스티오	http://dart.fss.or.kr/report/viewer.do?rcpNo=20090403000472&dcmNo=2204056&eleId=67&offset=928957&length=118915&dtd=dart3.xsd	부채총계	21,846,663	14,577,131	8,615,647	2,914,803	1,068,665	
+에스티오	http://dart.fss.or.kr/report/viewer.do?rcpNo=20090403000472&dcmNo=2204056&eleId=67&offset=928957&length=118915&dtd=dart3.xsd	자본총계	20,255,531	15,145,011	6,932,814	1,528,097	113,919	
+에스티오	http://dart.fss.or.kr/report/viewer.do?rcpNo=20090403000472&dcmNo=2204056&eleId=67&offset=928957&length=118915&dtd=dart3.xsd	자산총계	42,102,194,044 	29,722,142,108 	15,548,460,877 	
+에스티오	http://dart.fss.or.kr/report/viewer.do?rcpNo=20090403000472&dcmNo=2204056&eleId=67&offset=928957&length=118915&dtd=dart3.xsd	부채총계	21,846,663,442 	14,577,131,468 	8,615,646,946 	
+에스티오	http://dart.fss.or.kr/report/viewer.do?rcpNo=20090403000472&dcmNo=2204056&eleId=67&offset=928957&length=118915&dtd=dart3.xsd	자본총계	20,255,530,602 	15,145,010,640 	6,932,813,931 	
+에스티오	http://dart.fss.or.kr/report/viewer.do?rcpNo=20090403000472&dcmNo=2204056&eleId=67&offset=928957&length=118915&dtd=dart3.xsd	부채와자본총계	42,102,194,044 	29,722,142,108 	15,548,460,877 	
+에스티오	http://dart.fss.or.kr/report/viewer.do?rcpNo=20090403000472&dcmNo=2204056&eleId=67&offset=928957&length=118915&dtd=dart3.xsd	I.매출액	69,341,599,479	52,496,484,652	31,759,033,926	
+에스티오	http://dart.fss.or.kr/report/viewer.do?rcpNo=20090403000472&dcmNo=2204056&eleId=67&offset=928957&length=118915&dtd=dart3.xsd	1.제품매출액	66,700,629,467	49,333,572,556	29,714,551,541	
+에스티오	http://dart.fss.or.kr/report/viewer.do?rcpNo=20090403000472&dcmNo=2204056&eleId=67&offset=928957&length=118915&dtd=dart3.xsd	2.수수료매출액	1,933,998,935	2,640,440,613	1,993,509,658	
+에스티오	http://dart.fss.or.kr/report/viewer.do?rcpNo=20090403000472&dcmNo=2204056&eleId=67&offset=928957&length=118915&dtd=dart3.xsd	3.기타매출액	706,971,077	522,471,483	50,972,727	
+에스티오	http://dart.fss.or.kr/report/viewer.do?rcpNo=20090403000472&dcmNo=2204056&eleId=67&offset=928957&length=118915&dtd=dart3.xsd	Ⅴ.영업이익	7,727,142,296	8,628,638,103	5,959,762,409	
+에스티오	http://dart.fss.or.kr/report/viewer.do?rcpNo=20090403000472&dcmNo=2204056&eleId=67&offset=928957&length=118915&dtd=dart3.xsd	X.당기순이익	5,119,746,715	6,908,845,465	4,453,945,512	
+에스티오	http://dart.fss.or.kr/report/viewer.do?rcpNo=20090403000472&dcmNo=2204056&eleId=67&offset=928957&length=118915&dtd=dart3.xsd	3.당기순이익	5,119,746,715	6,908,845,465	4,453,945,512	
+에스티오	http://dart.fss.or.kr/report/viewer.do?rcpNo=20090403000472&dcmNo=2204056&eleId=67&offset=928957&length=118915&dtd=dart3.xsd	1.당기순이익	5,119,746,715 	6,908,845,465 	4,453,945,512 	
+에스티오	http://dart.fss.or.kr/report/viewer.do?rcpNo=20090403000472&dcmNo=2204056&eleId=67&offset=928957&length=118915&dtd=dart3.xsd	 당기순이익	-	-	<br/>	4,453,945,512	4,453,945,512	
+에스티오	http://dart.fss.or.kr/report/viewer.do?rcpNo=20090403000472&dcmNo=2204056&eleId=67&offset=928957&length=118915&dtd=dart3.xsd	 당기순이익	- 	- 	- 	6,908,845,465	6,908,845,465	
+에스티오	http://dart.fss.or.kr/report/viewer.do?rcpNo=20090403000472&dcmNo=2204056&eleId=67&offset=928957&length=118915&dtd=dart3.xsd	 당기순이익	- 	- 	<br/>	5,119,746,715	5,119,746,715	
+티플랙스	http://dart.fss.or.kr/report/viewer.do?rcpNo=20090410001798&dcmNo=2227708&eleId=67&offset=692520&length=232601&dtd=dart3.xsd	자산총계	43,994	36,237	25,226	14,707	10,889	
+티플랙스	http://dart.fss.or.kr/report/viewer.do?rcpNo=20090410001798&dcmNo=2227708&eleId=67&offset=692520&length=232601&dtd=dart3.xsd	부채총계	23,521	19,352	16,563	 8,419	 6,216	
+티플랙스	http://dart.fss.or.kr/report/viewer.do?rcpNo=20090410001798&dcmNo=2227708&eleId=67&offset=692520&length=232601&dtd=dart3.xsd	자본총계	20,473	16,885	 8,663	 6,288	 4,673	
+티플랙스	http://dart.fss.or.kr/report/viewer.do?rcpNo=20090410001798&dcmNo=2227708&eleId=67&offset=692520&length=232601&dtd=dart3.xsd	부채와자본총계	43,994,291,878	36,237,114,378	25,226,046,066	14,706,508,077	
+티플랙스	http://dart.fss.or.kr/report/viewer.do?rcpNo=20090410001798&dcmNo=2227708&eleId=67&offset=692520&length=232601&dtd=dart3.xsd	I. 매출액	58,869,426,039	53,910,821,902	33,198,143,323	22,265,242,219	
+티플랙스	http://dart.fss.or.kr/report/viewer.do?rcpNo=20090410001798&dcmNo=2227708&eleId=67&offset=692520&length=232601&dtd=dart3.xsd	1. 상품매출액	1,973,174,615	3,439,007,187	2,244,468,883	1,025,236,894	
+티플랙스	http://dart.fss.or.kr/report/viewer.do?rcpNo=20090410001798&dcmNo=2227708&eleId=67&offset=692520&length=232601&dtd=dart3.xsd	2. 제품매출액	56,896,251,424	50,471,814,715	30,953,674,440	21,240,005,325	
+티플랙스	http://dart.fss.or.kr/report/viewer.do?rcpNo=20090410001798&dcmNo=2227708&eleId=67&offset=692520&length=232601&dtd=dart3.xsd	V. 영업이익	5,461,503,662	5,320,375,547	3,684,990,116	2,351,594,849	
+티플랙스	http://dart.fss.or.kr/report/viewer.do?rcpNo=20090410001798&dcmNo=2227708&eleId=67&offset=692520&length=232601&dtd=dart3.xsd	VIII. 당기순이익	3,565,968,940	5,219,950,231	2,461,608,918	1,684,546,408	
+티플랙스	http://dart.fss.or.kr/report/viewer.do?rcpNo=20090410001798&dcmNo=2227708&eleId=67&offset=692520&length=232601&dtd=dart3.xsd	2.당기순이익	3,565,968,940	 5,219,950,231	2,461,608,918	1,684,546,408	
+티플랙스	http://dart.fss.or.kr/report/viewer.do?rcpNo=20090410001798&dcmNo=2227708&eleId=67&offset=692520&length=232601&dtd=dart3.xsd	1. 당기순이익	3,565,968,940	5,219,950,231	2,461,608,918	1,684,546,408	
+네프로아이티	http://dart.fss.or.kr/report/viewer.do?rcpNo=20090410000132&dcmNo=2223121&eleId=70&offset=901597&length=272796&dtd=dart3.xsd	자산총계	2,149,548,248 	 2,215,391,842 	 1,054,535,661 	 498,956,984 	 383,056,782 	 150,661,942 	
+네프로아이티	http://dart.fss.or.kr/report/viewer.do?rcpNo=20090410000132&dcmNo=2223121&eleId=70&offset=901597&length=272796&dtd=dart3.xsd	부채총계	1,355,292,810	 1,447,909,115 	 497,075,951 	 96,254,818 	 81,715,994 	 260,717,590 	
+네프로아이티	http://dart.fss.or.kr/report/viewer.do?rcpNo=20090410000132&dcmNo=2223121&eleId=70&offset=901597&length=272796&dtd=dart3.xsd	자본총계	794,255,438 	 767,482,727 	 557,459,710 	 402,702,166 	 301,340,788 	 -110,055,648 	
+네프로아이티	http://dart.fss.or.kr/report/viewer.do?rcpNo=20090410000132&dcmNo=2223121&eleId=70&offset=901597&length=272796&dtd=dart3.xsd	자산총계	29,962,338 	 22,158,349 	 8,404,649 	 4,149,925 	 3,648,731 	1,642,215 	
+네프로아이티	http://dart.fss.or.kr/report/viewer.do?rcpNo=20090410000132&dcmNo=2223121&eleId=70&offset=901597&length=272796&dtd=dart3.xsd	부채총계	18,891,290 	 14,481,987 	 3,961,695 	 800,571 	 778,369 	2,841,822 	
+네프로아이티	http://dart.fss.or.kr/report/viewer.do?rcpNo=20090410000132&dcmNo=2223121&eleId=70&offset=901597&length=272796&dtd=dart3.xsd	자본총계	11,071,047 	 7,676,362 	 4,442,954 	 3,349,354 	 2,870,361 	  -1,199,607	
+네프로아이티	http://dart.fss.or.kr/report/viewer.do?rcpNo=20090410000132&dcmNo=2223121&eleId=70&offset=901597&length=272796&dtd=dart3.xsd	자산총계	2,149,548,248	2,215,391,842	1,054,535,661	498,956,984	
+네프로아이티	http://dart.fss.or.kr/report/viewer.do?rcpNo=20090410000132&dcmNo=2223121&eleId=70&offset=901597&length=272796&dtd=dart3.xsd	 부채와자본총계 	2,149,548,248 	 2,215,391,842 	 1,054,535,661 	 498,956,984 	
+네프로아이티	http://dart.fss.or.kr/report/viewer.do?rcpNo=20090410000132&dcmNo=2223121&eleId=70&offset=901597&length=272796&dtd=dart3.xsd	 자산총계 	29,962,338 	 22,158,349 	 8,404,649 	 4,149,925 	
+네프로아이티	http://dart.fss.or.kr/report/viewer.do?rcpNo=20090410000132&dcmNo=2223121&eleId=70&offset=901597&length=272796&dtd=dart3.xsd	 부  채 총 계 	18,891,290 	 14,481,987 	 3,961,695 	 800,571 	
+네프로아이티	http://dart.fss.or.kr/report/viewer.do?rcpNo=20090410000132&dcmNo=2223121&eleId=70&offset=901597&length=272796&dtd=dart3.xsd	 자 본 총 계 	11,071,047 	 7,676,362 	 4,442,954 	 3,349,354 	
+네프로아이티	http://dart.fss.or.kr/report/viewer.do?rcpNo=20090410000132&dcmNo=2223121&eleId=70&offset=901597&length=272796&dtd=dart3.xsd	 부채와자본총계	29,962,338 	 22,158,349 	 8,404,649 	 4,149,925 	
+네프로아이티	http://dart.fss.or.kr/report/viewer.do?rcpNo=20090410000132&dcmNo=2223121&eleId=70&offset=901597&length=272796&dtd=dart3.xsd	 Ⅴ. 영업이익 	123,263,845	 259,686,377 	 90,559,598 	 49,946,235 	
+네프로아이티	http://dart.fss.or.kr/report/viewer.do?rcpNo=20090410000132&dcmNo=2223121&eleId=70&offset=901597&length=272796&dtd=dart3.xsd	 XIII. 당기순이익 	26,772,711	 185,249,909 	 58,757,544 	 101,361,378 	
+네프로아이티	http://dart.fss.or.kr/report/viewer.do?rcpNo=20090410000132&dcmNo=2223121&eleId=70&offset=901597&length=272796&dtd=dart3.xsd	 Ⅴ. 영업이익 	1,393,991 	 2,129,896 	 732,645 	 447,933 	
+네프로아이티	http://dart.fss.or.kr/report/viewer.do?rcpNo=20090410000132&dcmNo=2223121&eleId=70&offset=901597&length=272796&dtd=dart3.xsd	 XIII. 당기순이익 	302,773 	 1,519,383 	 475,360 	 909,039 	
+네프로아이티	http://dart.fss.or.kr/report/viewer.do?rcpNo=20090410000132&dcmNo=2223121&eleId=70&offset=901597&length=272796&dtd=dart3.xsd	  1. 당기순이익 	26,772,711	 185,249,909 	 58,757,544 	 101,361,378 	
+네프로아이티	http://dart.fss.or.kr/report/viewer.do?rcpNo=20090410000132&dcmNo=2223121&eleId=70&offset=901597&length=272796&dtd=dart3.xsd	  1. 당기순이익 	302,773 	 1,519,383 	 475,360 	 909,039 	
+네프로아이티	http://dart.fss.or.kr/report/viewer.do?rcpNo=20090410000132&dcmNo=2223121&eleId=70&offset=901597&length=272796&dtd=dart3.xsd	 1. 매출액	759,916	770,290	107,258	-	
+네프로아이티	http://dart.fss.or.kr/report/viewer.do?rcpNo=20090410000132&dcmNo=2223121&eleId=70&offset=901597&length=272796&dtd=dart3.xsd	    외부매출액	759,916	770,290	107,258	-	
+네프로아이티	http://dart.fss.or.kr/report/viewer.do?rcpNo=20090410000132&dcmNo=2223121&eleId=70&offset=901597&length=272796&dtd=dart3.xsd	 1. 매출액	404,062	436,438	542,033	376,562	
+네프로아이티	http://dart.fss.or.kr/report/viewer.do?rcpNo=20090410000132&dcmNo=2223121&eleId=70&offset=901597&length=272796&dtd=dart3.xsd	    외부매출액	404,062	436,438	542,033	376,562	
+네프로아이티	http://dart.fss.or.kr/report/viewer.do?rcpNo=20090410000132&dcmNo=2223121&eleId=70&offset=901597&length=272796&dtd=dart3.xsd	 1. 매출액	      8,593,890 	 6,317,765 	867,739 	-	
+네프로아이티	http://dart.fss.or.kr/report/viewer.do?rcpNo=20090410000132&dcmNo=2223121&eleId=70&offset=901597&length=272796&dtd=dart3.xsd	    외부매출액	8,593,890 	6,317,765 	867,739 	-	
+네프로아이티	http://dart.fss.or.kr/report/viewer.do?rcpNo=20090410000132&dcmNo=2223121&eleId=70&offset=901597&length=272796&dtd=dart3.xsd	 1. 매출액	4,569,537 	3,579,577 	4,385,155 	3,377,121 	
+네프로아이티	http://dart.fss.or.kr/report/viewer.do?rcpNo=20090410000132&dcmNo=2223121&eleId=70&offset=901597&length=272796&dtd=dart3.xsd	    외부매출액	4,569,537 	3,579,577 	4,385,155 	3,377,121 	
+네프로아이티	http://dart.fss.or.kr/report/viewer.do?rcpNo=20090410000132&dcmNo=2223121&eleId=70&offset=901597&length=272796&dtd=dart3.xsd	 자산총계	609,012	매출총이익	295,015	
+네프로아이티	http://dart.fss.or.kr/report/viewer.do?rcpNo=20090410000132&dcmNo=2223121&eleId=70&offset=901597&length=272796&dtd=dart3.xsd	 부채총계	250,500	영업외 수익	2,860	
+네프로아이티	http://dart.fss.or.kr/report/viewer.do?rcpNo=20090410000132&dcmNo=2223121&eleId=70&offset=901597&length=272796&dtd=dart3.xsd	 자본총계	358,512	법인세 비용	-28,351	
+네프로아이티	http://dart.fss.or.kr/report/viewer.do?rcpNo=20090410000132&dcmNo=2223121&eleId=70&offset=901597&length=272796&dtd=dart3.xsd	부채와 자본 총계	609,012	당기순이익	22,013	
+네프로아이티	http://dart.fss.or.kr/report/viewer.do?rcpNo=20090410000132&dcmNo=2223121&eleId=70&offset=901597&length=272796&dtd=dart3.xsd	 자산총계	191,898	매출총이익	157,800	
+네프로아이티	http://dart.fss.or.kr/report/viewer.do?rcpNo=20090410000132&dcmNo=2223121&eleId=70&offset=901597&length=272796&dtd=dart3.xsd	 부채총계	196,031	영업외 수익	65	
+네프로아이티	http://dart.fss.or.kr/report/viewer.do?rcpNo=20090410000132&dcmNo=2223121&eleId=70&offset=901597&length=272796&dtd=dart3.xsd	 자본총계	-4,133	법인세 비용	1	
+네프로아이티	http://dart.fss.or.kr/report/viewer.do?rcpNo=20090410000132&dcmNo=2223121&eleId=70&offset=901597&length=272796&dtd=dart3.xsd	부채와 자본 총계	191,898	당기순이익	8,467	
+네프로아이티	http://dart.fss.or.kr/report/viewer.do?rcpNo=20090410000132&dcmNo=2223121&eleId=70&offset=901597&length=272796&dtd=dart3.xsd	 자산총계	1,054,535	매출총이익	585,471	
+네프로아이티	http://dart.fss.or.kr/report/viewer.do?rcpNo=20090410000132&dcmNo=2223121&eleId=70&offset=901597&length=272796&dtd=dart3.xsd	 부채총계	497,075	영업외 수익	4,172	
+네프로아이티	http://dart.fss.or.kr/report/viewer.do?rcpNo=20090410000132&dcmNo=2223121&eleId=70&offset=901597&length=272796&dtd=dart3.xsd	 자본총계	557,459	법인세 비용	34,831	
+네프로아이티	http://dart.fss.or.kr/report/viewer.do?rcpNo=20090410000132&dcmNo=2223121&eleId=70&offset=901597&length=272796&dtd=dart3.xsd	부채와 자본 총계	1,054,535	당기순이익	58,757	
+우림기계	http://dart.fss.or.kr/report/viewer.do?rcpNo=20090413002172&dcmNo=2235105&eleId=67&offset=791199&length=133741&dtd=dart3.xsd	자산총계	46,527	29,327	19,210	8,399	5,290	
+우림기계	http://dart.fss.or.kr/report/viewer.do?rcpNo=20090413002172&dcmNo=2235105&eleId=67&offset=791199&length=133741&dtd=dart3.xsd	부채총계	18,067	12,844	10,874	3,768	2,290	
+우림기계	http://dart.fss.or.kr/report/viewer.do?rcpNo=20090413002172&dcmNo=2235105&eleId=67&offset=791199&length=133741&dtd=dart3.xsd	자본총계	28,460	16,483	8,336	4,631	3,000	
+우림기계	http://dart.fss.or.kr/report/viewer.do?rcpNo=20090413002172&dcmNo=2235105&eleId=67&offset=791199&length=133741&dtd=dart3.xsd	    당기순이익	10,970,404,482	6,156,617,290	3,828,809,965	
+우림기계	http://dart.fss.or.kr/report/viewer.do?rcpNo=20090413002172&dcmNo=2235105&eleId=67&offset=791199&length=133741&dtd=dart3.xsd	1. 당기순이익	10,970,404,482 	6,156,617,290 	3,828,809,965 	
+우림기계	http://dart.fss.or.kr/report/viewer.do?rcpNo=20090413002172&dcmNo=2235105&eleId=67&offset=791199&length=133741&dtd=dart3.xsd	   당기순이익	　	　	　	　	6,156,617,290 	6,156,617,290 	
+우림기계	http://dart.fss.or.kr/report/viewer.do?rcpNo=20090413002172&dcmNo=2235105&eleId=67&offset=791199&length=133741&dtd=dart3.xsd	   당기순이익	　	　	　	　	10,970,404,482 	10,970,404,482 	
+신텍	http://dart.fss.or.kr/report/viewer.do?rcpNo=20090420000084&dcmNo=2256701&eleId=67&offset=1158744&length=155307&dtd=dart3.xsd	자산총계	74,688,620	43,002,590	11,768,882	5,597,916	6,421,547	
+신텍	http://dart.fss.or.kr/report/viewer.do?rcpNo=20090420000084&dcmNo=2256701&eleId=67&offset=1158744&length=155307&dtd=dart3.xsd	부채총계	52,378,469	24,688,401	7,494,920	2,897,874	5,142,908	
+신텍	http://dart.fss.or.kr/report/viewer.do?rcpNo=20090420000084&dcmNo=2256701&eleId=67&offset=1158744&length=155307&dtd=dart3.xsd	자본총계	22,310,151	18,314,189	4,273,962	2,700,042	1,278,639	
+신텍	http://dart.fss.or.kr/report/viewer.do?rcpNo=20090420000084&dcmNo=2256701&eleId=67&offset=1158744&length=155307&dtd=dart3.xsd	Ⅰ.매출액	83,464,096,450	50,281,730,089	21,342,316,101	
+신텍	http://dart.fss.or.kr/report/viewer.do?rcpNo=20090420000084&dcmNo=2256701&eleId=67&offset=1158744&length=155307&dtd=dart3.xsd	3. 기타매출액	619,982	-	-	
+신텍	http://dart.fss.or.kr/report/viewer.do?rcpNo=20090420000084&dcmNo=2256701&eleId=67&offset=1158744&length=155307&dtd=dart3.xsd	Ⅴ.영업이익	12,297,194,732	5,376,666,588	1,954,819,256	
+신텍	http://dart.fss.or.kr/report/viewer.do?rcpNo=20090420000084&dcmNo=2256701&eleId=67&offset=1158744&length=155307&dtd=dart3.xsd	Ⅹ.당기순이익	4,045,962,401	3,989,626,910	1,563,301,547	
+신텍	http://dart.fss.or.kr/report/viewer.do?rcpNo=20090420000084&dcmNo=2256701&eleId=67&offset=1158744&length=155307&dtd=dart3.xsd	3. 당기순이익	4,045,962,401	3,989,626,910	1,563,301,547	
+신텍	http://dart.fss.or.kr/report/viewer.do?rcpNo=20090420000084&dcmNo=2256701&eleId=67&offset=1158744&length=155307&dtd=dart3.xsd	1. 당기순이익	4,045,962,401	3,989,626,910	1,563,301,547 	
+신텍	http://dart.fss.or.kr/report/viewer.do?rcpNo=20090420000084&dcmNo=2256701&eleId=67&offset=1158744&length=155307&dtd=dart3.xsd	자산총계	29,053,664	11,768,882	매출총이익	1,563,474	3,211,892	
+신텍	http://dart.fss.or.kr/report/viewer.do?rcpNo=20090420000084&dcmNo=2256701&eleId=67&offset=1158744&length=155307&dtd=dart3.xsd	부채총계	24,088,760	7,494,920	영업외수익	164,237	168,375	
+신텍	http://dart.fss.or.kr/report/viewer.do?rcpNo=20090420000084&dcmNo=2256701&eleId=67&offset=1158744&length=155307&dtd=dart3.xsd	자본총계	4,964,904	4,273,962	법인세등	-	264,671	
+신텍	http://dart.fss.or.kr/report/viewer.do?rcpNo=20090420000084&dcmNo=2256701&eleId=67&offset=1158744&length=155307&dtd=dart3.xsd	부채와자본총계	29,053,664	11,768,882	당기순이익	830,942	1,573,920	
+신텍	http://dart.fss.or.kr/report/viewer.do?rcpNo=20090420000084&dcmNo=2256701&eleId=67&offset=1158744&length=155307&dtd=dart3.xsd	자산총계	6,418,068	5,738,005	매출총이익	569,817	1,153,727	
+신텍	http://dart.fss.or.kr/report/viewer.do?rcpNo=20090420000084&dcmNo=2256701&eleId=67&offset=1158744&length=155307&dtd=dart3.xsd	부채총계	5,099,654	4,775,574	영업외수익	3,669	9,830	
+신텍	http://dart.fss.or.kr/report/viewer.do?rcpNo=20090420000084&dcmNo=2256701&eleId=67&offset=1158744&length=155307&dtd=dart3.xsd	자본총계	1,318,414	962,431	법인세등	54,260	95,204	
+신텍	http://dart.fss.or.kr/report/viewer.do?rcpNo=20090420000084&dcmNo=2256701&eleId=67&offset=1158744&length=155307&dtd=dart3.xsd	부채와자본총계	6,418,068	5,738,005	당기순이익	355,983	642,173	
+신텍	http://dart.fss.or.kr/report/viewer.do?rcpNo=20090420000084&dcmNo=2256701&eleId=67&offset=1158744&length=155307&dtd=dart3.xsd	  부 채  와  자 본 총 계	35,134,773,402	
+흥국	http://dart.fss.or.kr/report/viewer.do?rcpNo=20090427000190&dcmNo=2266056&eleId=67&offset=903291&length=157799&dtd=dart3.xsd	자산총계	26,356,772	24,889,576	18,323,434	15,863,706	13,731,170	
+흥국	http://dart.fss.or.kr/report/viewer.do?rcpNo=20090427000190&dcmNo=2266056&eleId=67&offset=903291&length=157799&dtd=dart3.xsd	부채총계	8,752,803	9,317,036	9,406,762	9,586,400	10,237,507	
+흥국	http://dart.fss.or.kr/report/viewer.do?rcpNo=20090427000190&dcmNo=2266056&eleId=67&offset=903291&length=157799&dtd=dart3.xsd	자본총계	17,603,969	15,572,539	8,916,672	6,277,306	3,493,663	
+흥국	http://dart.fss.or.kr/report/viewer.do?rcpNo=20090427000190&dcmNo=2266056&eleId=67&offset=903291&length=157799&dtd=dart3.xsd	자산총계	<br/>	26,356,772	<br/>	24,889,576	<br/>	18,323,434	
+흥국	http://dart.fss.or.kr/report/viewer.do?rcpNo=20090427000190&dcmNo=2266056&eleId=67&offset=903291&length=157799&dtd=dart3.xsd	부채총계	<br/>	8,752,803	<br/>	9,317,036	<br/>	9,406,762	
+흥국	http://dart.fss.or.kr/report/viewer.do?rcpNo=20090427000190&dcmNo=2266056&eleId=67&offset=903291&length=157799&dtd=dart3.xsd	  자본총계	<br/>	17,603,969	<br/>	15,572,539	<br/>	8,916,672	
+흥국	http://dart.fss.or.kr/report/viewer.do?rcpNo=20090427000190&dcmNo=2266056&eleId=67&offset=903291&length=157799&dtd=dart3.xsd	  부채와자본총계	<br/>	26,356,772	<br/>	24,889,575	<br/>	18,323,434	
+흥국	http://dart.fss.or.kr/report/viewer.do?rcpNo=20090427000190&dcmNo=2266056&eleId=67&offset=903291&length=157799&dtd=dart3.xsd	I. 매출액	<br/>	48,416,188	<br/>	46,410,803	<br/>	42,500,738	
+흥국	http://dart.fss.or.kr/report/viewer.do?rcpNo=20090427000190&dcmNo=2266056&eleId=67&offset=903291&length=157799&dtd=dart3.xsd	V. 영업이익	<br/>	4,429,182	<br/>	6,776,781	<br/>	5,238,083	
+흥국	http://dart.fss.or.kr/report/viewer.do?rcpNo=20090427000190&dcmNo=2266056&eleId=67&offset=903291&length=157799&dtd=dart3.xsd	ⅩⅢ. 당기순이익	<br/>	2,691,793	<br/>	4,512,598	<br/>	3,048,343	
+흥국	http://dart.fss.or.kr/report/viewer.do?rcpNo=20090427000190&dcmNo=2266056&eleId=67&offset=903291&length=157799&dtd=dart3.xsd	2.당기순이익	2,691,793	<br/>	4,512,598	<br/>	3,048,343	<br/>	
+흥국	http://dart.fss.or.kr/report/viewer.do?rcpNo=20090427000190&dcmNo=2266056&eleId=67&offset=903291&length=157799&dtd=dart3.xsd	1. 당기순이익	2,691,793	<br/>	4,512,598	<br/>	3,048,343	<br/>	
+STX엔파코	http://dart.fss.or.kr/report/viewer.do?rcpNo=20090429001234&dcmNo=2273867&eleId=67&offset=972347&length=272743&dtd=dart3.xsd	자산총계	693,674	342,042	263,748	226,935	248,078	
+STX엔파코	http://dart.fss.or.kr/report/viewer.do?rcpNo=20090429001234&dcmNo=2273867&eleId=67&offset=972347&length=272743&dtd=dart3.xsd	부채총계	409,676	185,412	145,175	129,396	183,394	
+STX엔파코	http://dart.fss.or.kr/report/viewer.do?rcpNo=20090429001234&dcmNo=2273867&eleId=67&offset=972347&length=272743&dtd=dart3.xsd	자본총계	283,998	156,630	118,573	97,539	64,684	
+STX엔파코	http://dart.fss.or.kr/report/viewer.do?rcpNo=20090429001234&dcmNo=2273867&eleId=67&offset=972347&length=272743&dtd=dart3.xsd	부 채 와 자 본 총 계	693,674	342,042	263,748	
+STX엔파코	http://dart.fss.or.kr/report/viewer.do?rcpNo=20090429001234&dcmNo=2273867&eleId=67&offset=972347&length=272743&dtd=dart3.xsd	Ⅰ. 매출액	1,021,415	702,076	464,070	
+STX엔파코	http://dart.fss.or.kr/report/viewer.do?rcpNo=20090429001234&dcmNo=2273867&eleId=67&offset=972347&length=272743&dtd=dart3.xsd	Ⅴ. 영업이익	84,498	63,064	20,412	
+STX엔파코	http://dart.fss.or.kr/report/viewer.do?rcpNo=20090429001234&dcmNo=2273867&eleId=67&offset=972347&length=272743&dtd=dart3.xsd	Ⅹ. 당기순이익	51,176	37,498	8,367	
+STX엔파코	http://dart.fss.or.kr/report/viewer.do?rcpNo=20090429001234&dcmNo=2273867&eleId=67&offset=972347&length=272743&dtd=dart3.xsd	  4.당기순이익	51,176	37,498	8,367	
+STX엔파코	http://dart.fss.or.kr/report/viewer.do?rcpNo=20090429001234&dcmNo=2273867&eleId=67&offset=972347&length=272743&dtd=dart3.xsd	 1. 당기순이익	51,176	37,498	8,367	
+STX엔파코	http://dart.fss.or.kr/report/viewer.do?rcpNo=20090429001234&dcmNo=2273867&eleId=67&offset=972347&length=272743&dtd=dart3.xsd	제품매출액	801,961,094	554,405,380 	
+STX엔파코	http://dart.fss.or.kr/report/viewer.do?rcpNo=20090429001234&dcmNo=2273867&eleId=67&offset=972347&length=272743&dtd=dart3.xsd	상품매출액	219,453,588	 147,670,950 	
+STX엔파코	http://dart.fss.or.kr/report/viewer.do?rcpNo=20090429001234&dcmNo=2273867&eleId=67&offset=972347&length=272743&dtd=dart3.xsd	배당성향(배당금/당기순이익)	15%	20%	
+STX엔파코	http://dart.fss.or.kr/report/viewer.do?rcpNo=20090429001234&dcmNo=2273867&eleId=67&offset=972347&length=272743&dtd=dart3.xsd	자본총계	97,539	64,684	9,687	57,594	9,938	45,549	18,218	
+STX엔파코	http://dart.fss.or.kr/report/viewer.do?rcpNo=20090429001234&dcmNo=2273867&eleId=67&offset=972347&length=272743&dtd=dart3.xsd	부채총계	129,396	183,394	49,170	161,559	44,699	151,528	39,770	
+서울마린	http://dart.fss.or.kr/report/viewer.do?rcpNo=20090507000550&dcmNo=2287062&eleId=67&offset=741376&length=239989&dtd=dart3.xsd	자산총계	65,718	23,055	13,614	9,231	5,216	
+서울마린	http://dart.fss.or.kr/report/viewer.do?rcpNo=20090507000550&dcmNo=2287062&eleId=67&offset=741376&length=239989&dtd=dart3.xsd	부채총계	50,225	11,179	7,234	5,300	2,567	
+서울마린	http://dart.fss.or.kr/report/viewer.do?rcpNo=20090507000550&dcmNo=2287062&eleId=67&offset=741376&length=239989&dtd=dart3.xsd	자본총계	15,493	11,876	6,380	3,931	2,649	
+서울마린	http://dart.fss.or.kr/report/viewer.do?rcpNo=20090507000550&dcmNo=2287062&eleId=67&offset=741376&length=239989&dtd=dart3.xsd	부 채 와 자 본 총 계	65,717,890,038	23,054,881,300	13,613,707,605	9,231,048,118 	
+서울마린	http://dart.fss.or.kr/report/viewer.do?rcpNo=20090507000550&dcmNo=2287062&eleId=67&offset=741376&length=239989&dtd=dart3.xsd	I. 매출액	84,921,453,277	50,324,187,555 	35,030,152,158 	18,430,281,596 	
+서울마린	http://dart.fss.or.kr/report/viewer.do?rcpNo=20090507000550&dcmNo=2287062&eleId=67&offset=741376&length=239989&dtd=dart3.xsd	　1. 상품매출액	63,097,876,958	31,741,223,226 	25,773,125,931 	15,078,392,721 	
+서울마린	http://dart.fss.or.kr/report/viewer.do?rcpNo=20090507000550&dcmNo=2287062&eleId=67&offset=741376&length=239989&dtd=dart3.xsd	　3. 전력매출액	698,033,140	98,062,956 	-	41,916,151 	
+서울마린	http://dart.fss.or.kr/report/viewer.do?rcpNo=20090507000550&dcmNo=2287062&eleId=67&offset=741376&length=239989&dtd=dart3.xsd	　4. 용역매출액	533,959,539	102,746,742 	293,119,726 	3,000,000 	
+서울마린	http://dart.fss.or.kr/report/viewer.do?rcpNo=20090507000550&dcmNo=2287062&eleId=67&offset=741376&length=239989&dtd=dart3.xsd	V. 영업이익	5,636,688,504	5,489,391,205 	5,389,369,232 	2,394,732,731 	
+서울마린	http://dart.fss.or.kr/report/viewer.do?rcpNo=20090507000550&dcmNo=2287062&eleId=67&offset=741376&length=239989&dtd=dart3.xsd	X. 당기순이익	4,142,517,564	3,545,538,782 	2,900,746,502 	1,311,776,022 	
+서울마린	http://dart.fss.or.kr/report/viewer.do?rcpNo=20090507000550&dcmNo=2287062&eleId=67&offset=741376&length=239989&dtd=dart3.xsd	 5. 당기순이익	4,142,517,564	3,545,538,782 	2,900,746,502 	
+서울마린	http://dart.fss.or.kr/report/viewer.do?rcpNo=20090507000550&dcmNo=2287062&eleId=67&offset=741376&length=239989&dtd=dart3.xsd	　1. 당기순이익	4,142,517,564	3,545,538,782 	2,900,746,502 	1,311,776,022 	
+서울마린	http://dart.fss.or.kr/report/viewer.do?rcpNo=20090507000550&dcmNo=2287062&eleId=67&offset=741376&length=239989&dtd=dart3.xsd	자산총계	79,257	36,594 	26,763 	
+서울마린	http://dart.fss.or.kr/report/viewer.do?rcpNo=20090507000550&dcmNo=2287062&eleId=67&offset=741376&length=239989&dtd=dart3.xsd	부채총계	63,767	24,712 	20,761 	
+서울마린	http://dart.fss.or.kr/report/viewer.do?rcpNo=20090507000550&dcmNo=2287062&eleId=67&offset=741376&length=239989&dtd=dart3.xsd	자 본 총 계	15,490	11,882 	6,002 	
+서울마린	http://dart.fss.or.kr/report/viewer.do?rcpNo=20090507000550&dcmNo=2287062&eleId=67&offset=741376&length=239989&dtd=dart3.xsd	연결당기순이익	4,133	3,543 	2,524 	
+서울마린	http://dart.fss.or.kr/report/viewer.do?rcpNo=20090507000550&dcmNo=2287062&eleId=67&offset=741376&length=239989&dtd=dart3.xsd	1. 상품매출액	63,097,876,958	<br/>	31,741,223,226	<br/>	
+서울마린	http://dart.fss.or.kr/report/viewer.do?rcpNo=20090507000550&dcmNo=2287062&eleId=67&offset=741376&length=239989&dtd=dart3.xsd	3. 전력매출액	2,598,850,021	<br/>	1,882,075,517	<br/>	
+서울마린	http://dart.fss.or.kr/report/viewer.do?rcpNo=20090507000550&dcmNo=2287062&eleId=67&offset=741376&length=239989&dtd=dart3.xsd	4. 용역매출액	533,959,539	<br/>	102,746,742	<br/>	
+서울마린	http://dart.fss.or.kr/report/viewer.do?rcpNo=20090507000550&dcmNo=2287062&eleId=67&offset=741376&length=239989&dtd=dart3.xsd	V. 영업이익(주석23)	<br/>	5,985,845,403	<br/>	5,480,007,226	
+서울마린	http://dart.fss.or.kr/report/viewer.do?rcpNo=20090507000550&dcmNo=2287062&eleId=67&offset=741376&length=239989&dtd=dart3.xsd	X. 연결당기순이익	<br/>	4,132,533,448	<br/>	3,542,577,893	
+서울마린	http://dart.fss.or.kr/report/viewer.do?rcpNo=20090507000550&dcmNo=2287062&eleId=67&offset=741376&length=239989&dtd=dart3.xsd	연결당기순이익	-	-	-	-	3,545,538,782	(2,960,889)	3,542,577,893	
+서울마린	http://dart.fss.or.kr/report/viewer.do?rcpNo=20090507000550&dcmNo=2287062&eleId=67&offset=741376&length=239989&dtd=dart3.xsd	연결당기순이익	-	-	-	-	4,134,100,292	(1,566,844)	4,132,533,448	
+서울마린	http://dart.fss.or.kr/report/viewer.do?rcpNo=20090507000550&dcmNo=2287062&eleId=67&offset=741376&length=239989&dtd=dart3.xsd	1. 연결당기순이익	4,132,533,448	<br/>	3,542,577,893	<br/>	
+한국정밀기계	http://dart.fss.or.kr/report/viewer.do?rcpNo=20090410000981&dcmNo=2225385&eleId=65&offset=638090&length=276600&dtd=dart3.xsd	자산총계	171,632	104,414	48,498	36,263	29,885	
+한국정밀기계	http://dart.fss.or.kr/report/viewer.do?rcpNo=20090410000981&dcmNo=2225385&eleId=65&offset=638090&length=276600&dtd=dart3.xsd	부채총계	116,467	68,321	29,963	22,519	19,832	
+한국정밀기계	http://dart.fss.or.kr/report/viewer.do?rcpNo=20090410000981&dcmNo=2225385&eleId=65&offset=638090&length=276600&dtd=dart3.xsd	자본총계	55,165	36,092	18,535	13,744	10,053	
+한국정밀기계	http://dart.fss.or.kr/report/viewer.do?rcpNo=20090410000981&dcmNo=2225385&eleId=65&offset=638090&length=276600&dtd=dart3.xsd	자 산 총 계	171,632,733,671 	104,414,659,377 	48,497,585,182 	
+한국정밀기계	http://dart.fss.or.kr/report/viewer.do?rcpNo=20090410000981&dcmNo=2225385&eleId=65&offset=638090&length=276600&dtd=dart3.xsd	부 채 총 계	116,467,114,585 	68,321,819,535 	29,962,738,384 	
+한국정밀기계	http://dart.fss.or.kr/report/viewer.do?rcpNo=20090410000981&dcmNo=2225385&eleId=65&offset=638090&length=276600&dtd=dart3.xsd	자본총계	55,165,619,086 	36,092,839,842 	18,534,846,798 	
+한국정밀기계	http://dart.fss.or.kr/report/viewer.do?rcpNo=20090410000981&dcmNo=2225385&eleId=65&offset=638090&length=276600&dtd=dart3.xsd	부채와자본총계	171,632,733,671 	104,414,659,377 	48,497,585,182 	
+한국정밀기계	http://dart.fss.or.kr/report/viewer.do?rcpNo=20090410000981&dcmNo=2225385&eleId=65&offset=638090&length=276600&dtd=dart3.xsd	Ⅰ.매출액	132,770,107,836 	76,192,319,040 	45,586,208,617 	
+한국정밀기계	http://dart.fss.or.kr/report/viewer.do?rcpNo=20090410000981&dcmNo=2225385&eleId=65&offset=638090&length=276600&dtd=dart3.xsd	Ⅴ.영업이익	30,339,241,358 	15,843,739,962 	4,449,438,462 	
+한국정밀기계	http://dart.fss.or.kr/report/viewer.do?rcpNo=20090410000981&dcmNo=2225385&eleId=65&offset=638090&length=276600&dtd=dart3.xsd	Ⅹ.당기순이익	23,071,470,748 	14,395,232,402 	       3,642,427,937 	
+한국정밀기계	http://dart.fss.or.kr/report/viewer.do?rcpNo=20090410000981&dcmNo=2225385&eleId=65&offset=638090&length=276600&dtd=dart3.xsd	   2.당기순이익	23,071,470,748 	14,395,232,402 	3,642,427,937 	
+한국정밀기계	http://dart.fss.or.kr/report/viewer.do?rcpNo=20090410000981&dcmNo=2225385&eleId=65&offset=638090&length=276600&dtd=dart3.xsd	   당기순이익	-	-	-	-	14,395,232,402	14,395,232,402 	
+한국정밀기계	http://dart.fss.or.kr/report/viewer.do?rcpNo=20090410000981&dcmNo=2225385&eleId=65&offset=638090&length=276600&dtd=dart3.xsd	  당기순이익	-	-	-	-	23,071,470,748	23,071,470,748 	
+한국정밀기계	http://dart.fss.or.kr/report/viewer.do?rcpNo=20090410000981&dcmNo=2225385&eleId=65&offset=638090&length=276600&dtd=dart3.xsd	  1.당기순이익	23,071,470,748 	14,395,232,402 	3,642,427,937 	
+한국정밀기계	http://dart.fss.or.kr/report/viewer.do?rcpNo=20090410000981&dcmNo=2225385&eleId=65&offset=638090&length=276600&dtd=dart3.xsd	①  당기순이익	23,071,470,748원	
+한국정밀기계	http://dart.fss.or.kr/report/viewer.do?rcpNo=20090410000981&dcmNo=2225385&eleId=65&offset=638090&length=276600&dtd=dart3.xsd	①  당기순이익	14,395,232,402원	
+해덕선기	http://dart.fss.or.kr/report/viewer.do?rcpNo=20090504000898&dcmNo=2281891&eleId=67&offset=637990&length=119989&dtd=dart3.xsd	자산총계	85,406,584,591	58,519,119,826	48,688,051,582	39,617,241,163	20,408,339,640	
+해덕선기	http://dart.fss.or.kr/report/viewer.do?rcpNo=20090504000898&dcmNo=2281891&eleId=67&offset=637990&length=119989&dtd=dart3.xsd	부채총계	53,191,639,491	36,257,174,169	38,728,110,094	33,540,858,080	16,344,862,444	
+해덕선기	http://dart.fss.or.kr/report/viewer.do?rcpNo=20090504000898&dcmNo=2281891&eleId=67&offset=637990&length=119989&dtd=dart3.xsd	자본총계	32,214,945,100	22,261,945,657	9,959,941,488	6,076,383,083	4,063,477,196	
+해덕선기	http://dart.fss.or.kr/report/viewer.do?rcpNo=20090504000898&dcmNo=2281891&eleId=67&offset=637990&length=119989&dtd=dart3.xsd	I. 매출액 	<br/>	67,025,997,721	<br/>	46,296,235,940	
+해덕선기	http://dart.fss.or.kr/report/viewer.do?rcpNo=20090504000898&dcmNo=2281891&eleId=67&offset=637990&length=119989&dtd=dart3.xsd	1. 국내매출액	63,350,844,570	<br/>	46,002,181,260	<br/>	
+해덕선기	http://dart.fss.or.kr/report/viewer.do?rcpNo=20090504000898&dcmNo=2281891&eleId=67&offset=637990&length=119989&dtd=dart3.xsd	2. 수출매출액	3,675,153,151	<br/>	294,054,680	<br/>	
+해덕선기	http://dart.fss.or.kr/report/viewer.do?rcpNo=20090504000898&dcmNo=2281891&eleId=67&offset=637990&length=119989&dtd=dart3.xsd	V. 영업이익	<br/>	10,445,094,652	<br/>	6,000,627,325	
+해덕선기	http://dart.fss.or.kr/report/viewer.do?rcpNo=20090504000898&dcmNo=2281891&eleId=67&offset=637990&length=119989&dtd=dart3.xsd	X. 당기순이익	<br/>	9,052,999,443	<br/>	6,462,004,169	
+해덕선기	http://dart.fss.or.kr/report/viewer.do?rcpNo=20090504000898&dcmNo=2281891&eleId=67&offset=637990&length=119989&dtd=dart3.xsd	2. 당기순이익	9,052,999,443	<br/>	6,462,004,169	<br/>	
+해덕선기	http://dart.fss.or.kr/report/viewer.do?rcpNo=20090504000898&dcmNo=2281891&eleId=67&offset=637990&length=119989&dtd=dart3.xsd	1. 당기순이익	9,052,999,443	<br/>	6,462,004,169	<br/>	
+해덕선기	http://dart.fss.or.kr/report/viewer.do?rcpNo=20090504000898&dcmNo=2281891&eleId=67&offset=637990&length=119989&dtd=dart3.xsd	3. 당기순이익	-	-	6,462,004,169	6,462,004,169	
+해덕선기	http://dart.fss.or.kr/report/viewer.do?rcpNo=20090504000898&dcmNo=2281891&eleId=67&offset=637990&length=119989&dtd=dart3.xsd	2. 당기순이익	-	-	9,052,999,443	9,052,999,443	
+중국원양자원	http://dart.fss.or.kr/report/viewer.do?rcpNo=20090512001389&dcmNo=2296247&eleId=70&offset=1888513&length=325785&dtd=dart3.xsd	자 산 총 계	677,158	415,242	140,862	68,001	
+중국원양자원	http://dart.fss.or.kr/report/viewer.do?rcpNo=20090512001389&dcmNo=2296247&eleId=70&offset=1888513&length=325785&dtd=dart3.xsd	부 채 총 계	264,302	216,972	22,961	16,707	
+중국원양자원	http://dart.fss.or.kr/report/viewer.do?rcpNo=20090512001389&dcmNo=2296247&eleId=70&offset=1888513&length=325785&dtd=dart3.xsd	자 본 총 계	412,856	198,270	117,901	51,294	
+중국원양자원	http://dart.fss.or.kr/report/viewer.do?rcpNo=20090512001389&dcmNo=2296247&eleId=70&offset=1888513&length=325785&dtd=dart3.xsd	자 산 총 계	109,868,829	49,937,025	16,845,694	8,883,693	
+중국원양자원	http://dart.fss.or.kr/report/viewer.do?rcpNo=20090512001389&dcmNo=2296247&eleId=70&offset=1888513&length=325785&dtd=dart3.xsd	부 채 총 계	42,883,054	26,093,075	2,745,964	2,182,655	
+중국원양자원	http://dart.fss.or.kr/report/viewer.do?rcpNo=20090512001389&dcmNo=2296247&eleId=70&offset=1888513&length=325785&dtd=dart3.xsd	자 본 총 계	66,985,776	23,843,950	14,099,730	6,701,039	
+중국원양자원	http://dart.fss.or.kr/report/viewer.do?rcpNo=20090512001389&dcmNo=2296247&eleId=70&offset=1888513&length=325785&dtd=dart3.xsd	자 산 총 계	597,031	357,926	141,520	70,742	
+중국원양자원	http://dart.fss.or.kr/report/viewer.do?rcpNo=20090512001389&dcmNo=2296247&eleId=70&offset=1888513&length=325785&dtd=dart3.xsd	부 채 총 계	14,890	25,679	23,069	17,381	
+중국원양자원	http://dart.fss.or.kr/report/viewer.do?rcpNo=20090512001389&dcmNo=2296247&eleId=70&offset=1888513&length=325785&dtd=dart3.xsd	자 본 총 계	582,141	332,247	118,451	53,361	
+중국원양자원	http://dart.fss.or.kr/report/viewer.do?rcpNo=20090512001389&dcmNo=2296247&eleId=70&offset=1888513&length=325785&dtd=dart3.xsd	자 산 총 계	109,907,434	45,975,561	16,836,621	8,879,508	
+중국원양자원	http://dart.fss.or.kr/report/viewer.do?rcpNo=20090512001389&dcmNo=2296247&eleId=70&offset=1888513&length=325785&dtd=dart3.xsd	부 채 총 계	2,741,067	3,298,425	2,744,485	2,181,626	
+중국원양자원	http://dart.fss.or.kr/report/viewer.do?rcpNo=20090512001389&dcmNo=2296247&eleId=70&offset=1888513&length=325785&dtd=dart3.xsd	자 본 총 계	107,166,366	42,677,135	14,092,136	6,697,882	
+중국원양자원	http://dart.fss.or.kr/report/viewer.do?rcpNo=20090512001389&dcmNo=2296247&eleId=70&offset=1888513&length=325785&dtd=dart3.xsd	부 채 와 자 본 총 계	597,030,983	357,925,734	141,519,885	
+중국원양자원	http://dart.fss.or.kr/report/viewer.do?rcpNo=20090512001389&dcmNo=2296247&eleId=70&offset=1888513&length=325785&dtd=dart3.xsd	부 채 와 자 본 총 계	109,907,433,660	45,975,560,550	16,836,620,699	
+중국원양자원	http://dart.fss.or.kr/report/viewer.do?rcpNo=20090512001389&dcmNo=2296247&eleId=70&offset=1888513&length=325785&dtd=dart3.xsd	Ⅰ. 매출액	397,703,222	301,203,045	225,869,583	
+중국원양자원	http://dart.fss.or.kr/report/viewer.do?rcpNo=20090512001389&dcmNo=2296247&eleId=70&offset=1888513&length=325785&dtd=dart3.xsd	Ⅴ. 영업이익	228,079,086	143,662,504	89,505,722	
+중국원양자원	http://dart.fss.or.kr/report/viewer.do?rcpNo=20090512001389&dcmNo=2296247&eleId=70&offset=1888513&length=325785&dtd=dart3.xsd	Ⅹ. 당기순이익(손실)	233,739,179	144,885,584	88,090,095	
+중국원양자원	http://dart.fss.or.kr/report/viewer.do?rcpNo=20090512001389&dcmNo=2296247&eleId=70&offset=1888513&length=325785&dtd=dart3.xsd	Ⅰ. 매출액	63,254,697,459	36,785,927,886	27,070,469,523	
+중국원양자원	http://dart.fss.or.kr/report/viewer.do?rcpNo=20090512001389&dcmNo=2296247&eleId=70&offset=1888513&length=325785&dtd=dart3.xsd	Ⅴ. 영업이익	36,275,978,627	17,545,501,583	10,727,260,818	
+중국원양자원	http://dart.fss.or.kr/report/viewer.do?rcpNo=20090512001389&dcmNo=2296247&eleId=70&offset=1888513&length=325785&dtd=dart3.xsd	Ⅹ. 당기순이익(손실)	37,176,216,419	17,694,876,379	10,557,597,911	
+중국원양자원	http://dart.fss.or.kr/report/viewer.do?rcpNo=20090512001389&dcmNo=2296247&eleId=70&offset=1888513&length=325785&dtd=dart3.xsd	 당기순이익	-	-	-	88,090,095	88,090,095	
+중국원양자원	http://dart.fss.or.kr/report/viewer.do?rcpNo=20090512001389&dcmNo=2296247&eleId=70&offset=1888513&length=325785&dtd=dart3.xsd	 당기순이익	-	-	-	144,885,584	144,885,584	
+중국원양자원	http://dart.fss.or.kr/report/viewer.do?rcpNo=20090512001389&dcmNo=2296247&eleId=70&offset=1888513&length=325785&dtd=dart3.xsd	 당기순이익	-	-	-	233,739,179	233,739,179	
+중국원양자원	http://dart.fss.or.kr/report/viewer.do?rcpNo=20090512001389&dcmNo=2296247&eleId=70&offset=1888513&length=325785&dtd=dart3.xsd	 당기순이익	-	-	-	10,557,597,911	10,557,597,911	
+중국원양자원	http://dart.fss.or.kr/report/viewer.do?rcpNo=20090512001389&dcmNo=2296247&eleId=70&offset=1888513&length=325785&dtd=dart3.xsd	 당기순이익	-	-	-	17,694,876,379	17,694,876,379	
+중국원양자원	http://dart.fss.or.kr/report/viewer.do?rcpNo=20090512001389&dcmNo=2296247&eleId=70&offset=1888513&length=325785&dtd=dart3.xsd	 당기순이익	-	-	-	37,176,216,419	37,176,216,419	
+중국원양자원	http://dart.fss.or.kr/report/viewer.do?rcpNo=20090512001389&dcmNo=2296247&eleId=70&offset=1888513&length=325785&dtd=dart3.xsd	1. 당기순이익	233,739,179	144,885,584	88,090,095	
+중국원양자원	http://dart.fss.or.kr/report/viewer.do?rcpNo=20090512001389&dcmNo=2296247&eleId=70&offset=1888513&length=325785&dtd=dart3.xsd	1. 당기순이익	37,176,216,419	17,694,876,374	10,557,597,886	
+중국원양자원	http://dart.fss.or.kr/report/viewer.do?rcpNo=20090512001389&dcmNo=2296247&eleId=70&offset=1888513&length=325785&dtd=dart3.xsd	자 산 총 계	677,158	415,242	140,862	68,001	
+중국원양자원	http://dart.fss.or.kr/report/viewer.do?rcpNo=20090512001389&dcmNo=2296247&eleId=70&offset=1888513&length=325785&dtd=dart3.xsd	부 채 총 계	264,302	216,972	22,961	16,707	
+중국원양자원	http://dart.fss.or.kr/report/viewer.do?rcpNo=20090512001389&dcmNo=2296247&eleId=70&offset=1888513&length=325785&dtd=dart3.xsd	자 본 총 계	412,855	198,270	117,901	51,294	
+중국원양자원	http://dart.fss.or.kr/report/viewer.do?rcpNo=20090512001389&dcmNo=2296247&eleId=70&offset=1888513&length=325785&dtd=dart3.xsd	총당기순이익	186,446	120,024	85,857	27,496	
+중국원양자원	http://dart.fss.or.kr/report/viewer.do?rcpNo=20090512001389&dcmNo=2296247&eleId=70&offset=1888513&length=325785&dtd=dart3.xsd	연결당기순이익	186,446	109,622	79,847	25,572	
+중국원양자원	http://dart.fss.or.kr/report/viewer.do?rcpNo=20090512001389&dcmNo=2296247&eleId=70&offset=1888513&length=325785&dtd=dart3.xsd	자 산 총 계	109,868,829	49,937,025	16,845,694	8,883,693	
+중국원양자원	http://dart.fss.or.kr/report/viewer.do?rcpNo=20090512001389&dcmNo=2296247&eleId=70&offset=1888513&length=325785&dtd=dart3.xsd	부 채 총 계	42,883,054	26,093,075	2,745,964	2,182,655	
+중국원양자원	http://dart.fss.or.kr/report/viewer.do?rcpNo=20090512001389&dcmNo=2296247&eleId=70&offset=1888513&length=325785&dtd=dart3.xsd	자 본 총 계	66,985,776	23,843,950	14,099,730	6,701,039	
+중국원양자원	http://dart.fss.or.kr/report/viewer.do?rcpNo=20090512001389&dcmNo=2296247&eleId=70&offset=1888513&length=325785&dtd=dart3.xsd	총당기순이익	26,411,881	14,294,812	10,568,141	3,621,279	
+중국원양자원	http://dart.fss.or.kr/report/viewer.do?rcpNo=20090512001389&dcmNo=2296247&eleId=70&offset=1888513&length=325785&dtd=dart3.xsd	연결당기순이익	26,411,881	13,055,974	9,828,386	3,367,795	
+중국원양자원	http://dart.fss.or.kr/report/viewer.do?rcpNo=20090512001389&dcmNo=2296247&eleId=70&offset=1888513&length=325785&dtd=dart3.xsd	부 채 와 자 본 총 계	        677,157,653	415,242,185	140,862,059	
+중국원양자원	http://dart.fss.or.kr/report/viewer.do?rcpNo=20090512001389&dcmNo=2296247&eleId=70&offset=1888513&length=325785&dtd=dart3.xsd	부 채 와 자 본 총 계	109,868,829,200	49,937,025,168	16,845,693,636	
+중국원양자원	http://dart.fss.or.kr/report/viewer.do?rcpNo=20090512001389&dcmNo=2296247&eleId=70&offset=1888513&length=325785&dtd=dart3.xsd	Ⅰ. 매출액	445,243,209	308,921,083	220,143,812	
+중국원양자원	http://dart.fss.or.kr/report/viewer.do?rcpNo=20090512001389&dcmNo=2296247&eleId=70&offset=1888513&length=325785&dtd=dart3.xsd	Ⅴ. 영업이익	246,347,668	137,341,298	87,236,762	
+중국원양자원	http://dart.fss.or.kr/report/viewer.do?rcpNo=20090512001389&dcmNo=2296247&eleId=70&offset=1888513&length=325785&dtd=dart3.xsd	Ⅹ. 총당기순이익	186,445,584	120,023,613	85,857,021	
+중국원양자원	http://dart.fss.or.kr/report/viewer.do?rcpNo=20090512001389&dcmNo=2296247&eleId=70&offset=1888513&length=325785&dtd=dart3.xsd	    연결당기순이익	186,445,584	109,621,950	79,847,149	
+중국원양자원	http://dart.fss.or.kr/report/viewer.do?rcpNo=20090512001389&dcmNo=2296247&eleId=70&offset=1888513&length=325785&dtd=dart3.xsd	Ⅰ. 매출액	63,073,152,987	36,792,500,985	27,097,501,819	
+중국원양자원	http://dart.fss.or.kr/report/viewer.do?rcpNo=20090512001389&dcmNo=2296247&eleId=70&offset=1888513&length=325785&dtd=dart3.xsd	Ⅴ. 영업이익	34,897,610,649	16,357,348,592	10,737,973,035	
+중국원양자원	http://dart.fss.or.kr/report/viewer.do?rcpNo=20090512001389&dcmNo=2296247&eleId=70&offset=1888513&length=325785&dtd=dart3.xsd	Ⅹ. 총당기순이익	26,411,881,431	14,294,812,308	10,568,140,715	
+중국원양자원	http://dart.fss.or.kr/report/viewer.do?rcpNo=20090512001389&dcmNo=2296247&eleId=70&offset=1888513&length=325785&dtd=dart3.xsd	    연결당기순이익	26,411,881,431	13,055,974,245	9,828,385,570	
+중국원양자원	http://dart.fss.or.kr/report/viewer.do?rcpNo=20090512001389&dcmNo=2296247&eleId=70&offset=1888513&length=325785&dtd=dart3.xsd	1.당기순이익	186,445,584	120,023,613	85,857,021	
+중국원양자원	http://dart.fss.or.kr/report/viewer.do?rcpNo=20090512001389&dcmNo=2296247&eleId=70&offset=1888513&length=325785&dtd=dart3.xsd	1.당기순이익	26,411,881,431	14,294,812,308	10,568,140,715	
+뉴그리드	http://dart.fss.or.kr/report/viewer.do?rcpNo=20090512000997&dcmNo=2295754&eleId=67&offset=681645&length=214582&dtd=dart3.xsd	자산총계	22,244	20,857	14,332	6,876	3,500	
+뉴그리드	http://dart.fss.or.kr/report/viewer.do?rcpNo=20090512000997&dcmNo=2295754&eleId=67&offset=681645&length=214582&dtd=dart3.xsd	부채총계	3,808	5,213	3,344	3,126	2,280	
+뉴그리드	http://dart.fss.or.kr/report/viewer.do?rcpNo=20090512000997&dcmNo=2295754&eleId=67&offset=681645&length=214582&dtd=dart3.xsd	자본총계	18,436	15,644	10,988	3,750	1,220	
+뉴그리드	http://dart.fss.or.kr/report/viewer.do?rcpNo=20090512000997&dcmNo=2295754&eleId=67&offset=681645&length=214582&dtd=dart3.xsd	1.제품매출액	10,515,295,835	13,531,269,360	8,335,915,536	5,267,094,858	
+뉴그리드	http://dart.fss.or.kr/report/viewer.do?rcpNo=20090512000997&dcmNo=2295754&eleId=67&offset=681645&length=214582&dtd=dart3.xsd	2.기타매출액	2,078,543,385	1,162,412,613	1,198,710,313	596,531,641	
+뉴그리드	http://dart.fss.or.kr/report/viewer.do?rcpNo=20090512000997&dcmNo=2295754&eleId=67&offset=681645&length=214582&dtd=dart3.xsd	X.당기순이익	2,792,083,388	4,268,383,150	2,228,495,184	1,130,903,003	
+뉴그리드	http://dart.fss.or.kr/report/viewer.do?rcpNo=20090512000997&dcmNo=2295754&eleId=67&offset=681645&length=214582&dtd=dart3.xsd	3.당기순이익	2,792,083,388	4,268,383,150	2,228,495,184	1,130,903,003	
+뉴그리드	http://dart.fss.or.kr/report/viewer.do?rcpNo=20090512000997&dcmNo=2295754&eleId=67&offset=681645&length=214582&dtd=dart3.xsd	1.당기순이익	2,792,083,388	4,268,383,150	2,228,495,184	1,130,903,003	
+뉴그리드	http://dart.fss.or.kr/report/viewer.do?rcpNo=20090512000997&dcmNo=2295754&eleId=67&offset=681645&length=214582&dtd=dart3.xsd	  당기순이익	2,792,083,388원	4,268,383,150원	
+뉴그리드	http://dart.fss.or.kr/report/viewer.do?rcpNo=20090512000997&dcmNo=2295754&eleId=67&offset=681645&length=214582&dtd=dart3.xsd	(1) 당기순이익	2,792,083	4,268,383	
+이엔에프테크놀로지	http://dart.fss.or.kr/report/viewer.do?rcpNo=20090515000992&dcmNo=2308394&eleId=67&offset=827427&length=148453&dtd=dart3.xsd	자산총계	   51,597 	   31,196 	   23,298 	   20,498 	   11,268 	
+이엔에프테크놀로지	http://dart.fss.or.kr/report/viewer.do?rcpNo=20090515000992&dcmNo=2308394&eleId=67&offset=827427&length=148453&dtd=dart3.xsd	부채총계	   23,043 	     9,864 	     7,851 	   10,379 	     7,933 	
+이엔에프테크놀로지	http://dart.fss.or.kr/report/viewer.do?rcpNo=20090515000992&dcmNo=2308394&eleId=67&offset=827427&length=148453&dtd=dart3.xsd	자본총계	   28,555 	   21,333 	   15,447 	   10,119 	     3,334 	
+이엔에프테크놀로지	http://dart.fss.or.kr/report/viewer.do?rcpNo=20090515000992&dcmNo=2308394&eleId=67&offset=827427&length=148453&dtd=dart3.xsd	I. 매출액	71,666,337,063	53,402,521,907	47,525,498,286	
+이엔에프테크놀로지	http://dart.fss.or.kr/report/viewer.do?rcpNo=20090515000992&dcmNo=2308394&eleId=67&offset=827427&length=148453&dtd=dart3.xsd	V. 영업이익	10,789,654,175	7,101,002,922	7,165,738,843	
+이엔에프테크놀로지	http://dart.fss.or.kr/report/viewer.do?rcpNo=20090515000992&dcmNo=2308394&eleId=67&offset=827427&length=148453&dtd=dart3.xsd	X. 당기순이익	7,221,918,974	5,885,779,120	5,328,012,375	
+이엔에프테크놀로지	http://dart.fss.or.kr/report/viewer.do?rcpNo=20090515000992&dcmNo=2308394&eleId=67&offset=827427&length=148453&dtd=dart3.xsd	 3.당기순이익	7,221,918,974	5,885,779,120	5,328,012,375	
+이엔에프테크놀로지	http://dart.fss.or.kr/report/viewer.do?rcpNo=20090515000992&dcmNo=2308394&eleId=67&offset=827427&length=148453&dtd=dart3.xsd	1. 당기순이익	7,221,918,974	5,885,779,120	5,328,012,375	
+차이나그레이트	http://dart.fss.or.kr/report/viewer.do?rcpNo=20090515001679&dcmNo=2309862&eleId=70&offset=1158105&length=331345&dtd=dart3.xsd	자산총계	696,296,192	452,551,168	364,090,178	211,557,473	
+차이나그레이트	http://dart.fss.or.kr/report/viewer.do?rcpNo=20090515001679&dcmNo=2309862&eleId=70&offset=1158105&length=331345&dtd=dart3.xsd	부채총계	365,494,698	211,982,094	248,621,761	83,955,522	
+차이나그레이트	http://dart.fss.or.kr/report/viewer.do?rcpNo=20090515001679&dcmNo=2309862&eleId=70&offset=1158105&length=331345&dtd=dart3.xsd	자본총계	330,801,494	240,569,074	115,468,417	127,601,951	
+차이나그레이트	http://dart.fss.or.kr/report/viewer.do?rcpNo=20090515001679&dcmNo=2309862&eleId=70&offset=1158105&length=331345&dtd=dart3.xsd	부채와자본총계	696,296,192	452,551,168	364,090,178	211,557,473	
+차이나그레이트	http://dart.fss.or.kr/report/viewer.do?rcpNo=20090515001679&dcmNo=2309862&eleId=70&offset=1158105&length=331345&dtd=dart3.xsd	자산총계	128,181,166	83,310,145	67,025,361	38,945,615	
+차이나그레이트	http://dart.fss.or.kr/report/viewer.do?rcpNo=20090515001679&dcmNo=2309862&eleId=70&offset=1158105&length=331345&dtd=dart3.xsd	부채총계	67,283,919	39,023,784	45,768,780	15,455,372	
+차이나그레이트	http://dart.fss.or.kr/report/viewer.do?rcpNo=20090515001679&dcmNo=2309862&eleId=70&offset=1158105&length=331345&dtd=dart3.xsd	자본총계	60,897,247	44,286,361	21,256,581	23,490,243	
+차이나그레이트	http://dart.fss.or.kr/report/viewer.do?rcpNo=20090515001679&dcmNo=2309862&eleId=70&offset=1158105&length=331345&dtd=dart3.xsd	부채와자본총계	128,181,166	83,310,145	67,025,361	38,945,615	
+차이나그레이트	http://dart.fss.or.kr/report/viewer.do?rcpNo=20090515001679&dcmNo=2309862&eleId=70&offset=1158105&length=331345&dtd=dart3.xsd	자산총계	26,528,634	32,706,162	33,521,529	27,013,490	
+차이나그레이트	http://dart.fss.or.kr/report/viewer.do?rcpNo=20090515001679&dcmNo=2309862&eleId=70&offset=1158105&length=331345&dtd=dart3.xsd	부채총계	21,815,401	28,291,500	27,841,500	20,367,879	
+차이나그레이트	http://dart.fss.or.kr/report/viewer.do?rcpNo=20090515001679&dcmNo=2309862&eleId=70&offset=1158105&length=331345&dtd=dart3.xsd	자본총계	4,713,233	4,414,662	5,680,029	6,645,611	
+차이나그레이트	http://dart.fss.or.kr/report/viewer.do?rcpNo=20090515001679&dcmNo=2309862&eleId=70&offset=1158105&length=331345&dtd=dart3.xsd	부채와자본총계	26,528,634	32,706,162	33,521,529	27,013,490	
+차이나그레이트	http://dart.fss.or.kr/report/viewer.do?rcpNo=20090515001679&dcmNo=2309862&eleId=70&offset=1158105&length=331345&dtd=dart3.xsd	자산총계	4,883,656	6,020,877	6,170,978	4,972,913	
+차이나그레이트	http://dart.fss.or.kr/report/viewer.do?rcpNo=20090515001679&dcmNo=2309862&eleId=70&offset=1158105&length=331345&dtd=dart3.xsd	부채총계	4,015,997	5,208,182	5,125,342	3,749,523	
+차이나그레이트	http://dart.fss.or.kr/report/viewer.do?rcpNo=20090515001679&dcmNo=2309862&eleId=70&offset=1158105&length=331345&dtd=dart3.xsd	자본총계	867,659	812,695	1,045,637	1,223,391	
+차이나그레이트	http://dart.fss.or.kr/report/viewer.do?rcpNo=20090515001679&dcmNo=2309862&eleId=70&offset=1158105&length=331345&dtd=dart3.xsd	부채와자본총계	4,883,656	6,020,877	6,170,978	4,972,913	
+차이나그레이트	http://dart.fss.or.kr/report/viewer.do?rcpNo=20090515001679&dcmNo=2309862&eleId=70&offset=1158105&length=331345&dtd=dart3.xsd	자산총계	48,707,181	49,379,020	30,434,692	25,703,048	
+차이나그레이트	http://dart.fss.or.kr/report/viewer.do?rcpNo=20090515001679&dcmNo=2309862&eleId=70&offset=1158105&length=331345&dtd=dart3.xsd	부채총계	45,345,994	45,845,994	25,878,523	26,185,464	
+차이나그레이트	http://dart.fss.or.kr/report/viewer.do?rcpNo=20090515001679&dcmNo=2309862&eleId=70&offset=1158105&length=331345&dtd=dart3.xsd	자본총계	3,361,187	3,533,026	4,556,169	-482,416	
+차이나그레이트	http://dart.fss.or.kr/report/viewer.do?rcpNo=20090515001679&dcmNo=2309862&eleId=70&offset=1158105&length=331345&dtd=dart3.xsd	부채와자본총계	48,707,181	49,379,020	30,434,692	25,703,048	
+차이나그레이트	http://dart.fss.or.kr/report/viewer.do?rcpNo=20090515001679&dcmNo=2309862&eleId=70&offset=1158105&length=331345&dtd=dart3.xsd	자산총계	8,966,505	9,090,184	5,602,722	4,731,674	
+차이나그레이트	http://dart.fss.or.kr/report/viewer.do?rcpNo=20090515001679&dcmNo=2309862&eleId=70&offset=1158105&length=331345&dtd=dart3.xsd	부채총계	8,347,744	8,439,789	4,763,977	4,820,482	
+차이나그레이트	http://dart.fss.or.kr/report/viewer.do?rcpNo=20090515001679&dcmNo=2309862&eleId=70&offset=1158105&length=331345&dtd=dart3.xsd	자본총계	618,761	650,395	838,745	-88,808	
+차이나그레이트	http://dart.fss.or.kr/report/viewer.do?rcpNo=20090515001679&dcmNo=2309862&eleId=70&offset=1158105&length=331345&dtd=dart3.xsd	부채와자본총계	8,966,505	9,090,184	5,602,722	4,731,674	
+차이나그레이트	http://dart.fss.or.kr/report/viewer.do?rcpNo=20090515001679&dcmNo=2309862&eleId=70&offset=1158105&length=331345&dtd=dart3.xsd	자산총계	      6,490,153 	9,007,044	5,816,562	5,132,808	
+차이나그레이트	http://dart.fss.or.kr/report/viewer.do?rcpNo=20090515001679&dcmNo=2309862&eleId=70&offset=1158105&length=331345&dtd=dart3.xsd	부채총계	        270,159 	2,734,680	2,145,743	4,884,225	
+차이나그레이트	http://dart.fss.or.kr/report/viewer.do?rcpNo=20090515001679&dcmNo=2309862&eleId=70&offset=1158105&length=331345&dtd=dart3.xsd	자본총계	      6,219,994 	6,272,364	3,670,819	248,583	
+차이나그레이트	http://dart.fss.or.kr/report/viewer.do?rcpNo=20090515001679&dcmNo=2309862&eleId=70&offset=1158105&length=331345&dtd=dart3.xsd	부채와자본총계	      6,490,153 	9,007,044	5,816,562	5,132,808	
+차이나그레이트	http://dart.fss.or.kr/report/viewer.do?rcpNo=20090515001679&dcmNo=2309862&eleId=70&offset=1158105&length=331345&dtd=dart3.xsd	자산총계	1,194,772	1,658,107	1,070,771	944,899	
+차이나그레이트	http://dart.fss.or.kr/report/viewer.do?rcpNo=20090515001679&dcmNo=2309862&eleId=70&offset=1158105&length=331345&dtd=dart3.xsd	부채총계	49,734	503,427	395,010	899,137	
+차이나그레이트	http://dart.fss.or.kr/report/viewer.do?rcpNo=20090515001679&dcmNo=2309862&eleId=70&offset=1158105&length=331345&dtd=dart3.xsd	자본총계	1,145,039	1,154,679	675,761	45,762	
+차이나그레이트	http://dart.fss.or.kr/report/viewer.do?rcpNo=20090515001679&dcmNo=2309862&eleId=70&offset=1158105&length=331345&dtd=dart3.xsd	부채와자본총계	1,194,772	1,658,107	1,070,771	944,899	
+차이나그레이트	http://dart.fss.or.kr/report/viewer.do?rcpNo=20090515001679&dcmNo=2309862&eleId=70&offset=1158105&length=331345&dtd=dart3.xsd	자산총계	497,147	496,479	500,797	-	
+차이나그레이트	http://dart.fss.or.kr/report/viewer.do?rcpNo=20090515001679&dcmNo=2309862&eleId=70&offset=1158105&length=331345&dtd=dart3.xsd	부채총계	-	-	-	-	
+차이나그레이트	http://dart.fss.or.kr/report/viewer.do?rcpNo=20090515001679&dcmNo=2309862&eleId=70&offset=1158105&length=331345&dtd=dart3.xsd	자본총계	497,147	496,479	500,797	-	
+차이나그레이트	http://dart.fss.or.kr/report/viewer.do?rcpNo=20090515001679&dcmNo=2309862&eleId=70&offset=1158105&length=331345&dtd=dart3.xsd	부채와자본총계	497,147	496,479	500,797	-	
+차이나그레이트	http://dart.fss.or.kr/report/viewer.do?rcpNo=20090515001679&dcmNo=2309862&eleId=70&offset=1158105&length=331345&dtd=dart3.xsd	자산총계	91,520	91,397	92,192	-	
+차이나그레이트	http://dart.fss.or.kr/report/viewer.do?rcpNo=20090515001679&dcmNo=2309862&eleId=70&offset=1158105&length=331345&dtd=dart3.xsd	부채총계	-	-	-	-	
+차이나그레이트	http://dart.fss.or.kr/report/viewer.do?rcpNo=20090515001679&dcmNo=2309862&eleId=70&offset=1158105&length=331345&dtd=dart3.xsd	자본총계	91,520	91,397	92,192	-	
+차이나그레이트	http://dart.fss.or.kr/report/viewer.do?rcpNo=20090515001679&dcmNo=2309862&eleId=70&offset=1158105&length=331345&dtd=dart3.xsd	부채와자본총계	91,520	91,397	92,192	-	
+차이나그레이트	http://dart.fss.or.kr/report/viewer.do?rcpNo=20090515001679&dcmNo=2309862&eleId=70&offset=1158105&length=331345&dtd=dart3.xsd	자산총계	542,867	1,053,052	652,392	-	
+차이나그레이트	http://dart.fss.or.kr/report/viewer.do?rcpNo=20090515001679&dcmNo=2309862&eleId=70&offset=1158105&length=331345&dtd=dart3.xsd	부채총계	225,771	760,705	171,954	-	
+차이나그레이트	http://dart.fss.or.kr/report/viewer.do?rcpNo=20090515001679&dcmNo=2309862&eleId=70&offset=1158105&length=331345&dtd=dart3.xsd	자본총계	317,096	292,347	480,438	-	
+차이나그레이트	http://dart.fss.or.kr/report/viewer.do?rcpNo=20090515001679&dcmNo=2309862&eleId=70&offset=1158105&length=331345&dtd=dart3.xsd	부채와자본총계	542,867	1,053,052	652,392	-	
+차이나그레이트	http://dart.fss.or.kr/report/viewer.do?rcpNo=20090515001679&dcmNo=2309862&eleId=70&offset=1158105&length=331345&dtd=dart3.xsd	자산총계	99,936	193,856	120,099	-	
+차이나그레이트	http://dart.fss.or.kr/report/viewer.do?rcpNo=20090515001679&dcmNo=2309862&eleId=70&offset=1158105&length=331345&dtd=dart3.xsd	부채총계	41,562	140,038	31,655	-	
+차이나그레이트	http://dart.fss.or.kr/report/viewer.do?rcpNo=20090515001679&dcmNo=2309862&eleId=70&offset=1158105&length=331345&dtd=dart3.xsd	자본총계	58,374	53,818	88,444	-	
+차이나그레이트	http://dart.fss.or.kr/report/viewer.do?rcpNo=20090515001679&dcmNo=2309862&eleId=70&offset=1158105&length=331345&dtd=dart3.xsd	부채와자본총계	99,936	193,856	120,099	-	
+차이나그레이트	http://dart.fss.or.kr/report/viewer.do?rcpNo=20090515001679&dcmNo=2309862&eleId=70&offset=1158105&length=331345&dtd=dart3.xsd	자산총계	706,334,305	463,518,977	379,093,073	224,096,706	
+차이나그레이트	http://dart.fss.or.kr/report/viewer.do?rcpNo=20090515001679&dcmNo=2309862&eleId=70&offset=1158105&length=331345&dtd=dart3.xsd	자본총계	336,935,192	251,696,636	127,503,207	133,886,959	
+차이나그레이트	http://dart.fss.or.kr/report/viewer.do?rcpNo=20090515001679&dcmNo=2309862&eleId=70&offset=1158105&length=331345&dtd=dart3.xsd	부채총계	369,399,113	211,822,341	251,589,866	90,209,747	
+차이나그레이트	http://dart.fss.or.kr/report/viewer.do?rcpNo=20090515001679&dcmNo=2309862&eleId=70&offset=1158105&length=331345&dtd=dart3.xsd	자본과부채총계	706,334,305	463,518,977	379,093,073	224,096,706	
+차이나그레이트	http://dart.fss.or.kr/report/viewer.do?rcpNo=20090515001679&dcmNo=2309862&eleId=70&offset=1158105&length=331345&dtd=dart3.xsd	자산총계	130,029,082	85,329,208	69,787,244	41,253,963	
+차이나그레이트	http://dart.fss.or.kr/report/viewer.do?rcpNo=20090515001679&dcmNo=2309862&eleId=70&offset=1158105&length=331345&dtd=dart3.xsd	자본총계	62,026,399	46,334,834	23,472,065	24,647,250	
+차이나그레이트	http://dart.fss.or.kr/report/viewer.do?rcpNo=20090515001679&dcmNo=2309862&eleId=70&offset=1158105&length=331345&dtd=dart3.xsd	부채총계	68,002,683	38,994,375	46,315,178	16,606,712	
+차이나그레이트	http://dart.fss.or.kr/report/viewer.do?rcpNo=20090515001679&dcmNo=2309862&eleId=70&offset=1158105&length=331345&dtd=dart3.xsd	자본과부채총계	130,029,082	85,329,208	69,787,244	41,253,963	
+차이나그레이트	http://dart.fss.or.kr/report/viewer.do?rcpNo=20090515001679&dcmNo=2309862&eleId=70&offset=1158105&length=331345&dtd=dart3.xsd	연결당기순이익	85,238,556	122,662,001	85,973,869	44,697,601	
+차이나그레이트	http://dart.fss.or.kr/report/viewer.do?rcpNo=20090515001679&dcmNo=2309862&eleId=70&offset=1158105&length=331345&dtd=dart3.xsd	연결당기순이익	15,691,566	22,580,848	15,826,930	8,228,381	
+차이나그레이트	http://dart.fss.or.kr/report/viewer.do?rcpNo=20090515001679&dcmNo=2309862&eleId=70&offset=1158105&length=331345&dtd=dart3.xsd	자산 총계	706,334,305	463,518,977	379,093,073	224,096,706	
+차이나그레이트	http://dart.fss.or.kr/report/viewer.do?rcpNo=20090515001679&dcmNo=2309862&eleId=70&offset=1158105&length=331345&dtd=dart3.xsd	자본총계	336,935,192	251,696,636	127,503,207	133,886,959	
+차이나그레이트	http://dart.fss.or.kr/report/viewer.do?rcpNo=20090515001679&dcmNo=2309862&eleId=70&offset=1158105&length=331345&dtd=dart3.xsd	부채총계	369,399,113	211,822,341	251,589,866	90,209,747	
+차이나그레이트	http://dart.fss.or.kr/report/viewer.do?rcpNo=20090515001679&dcmNo=2309862&eleId=70&offset=1158105&length=331345&dtd=dart3.xsd	자본과부채 총계	706,334,305	463,518,977	379,093,073	224,096,706	
+차이나그레이트	http://dart.fss.or.kr/report/viewer.do?rcpNo=20090515001679&dcmNo=2309862&eleId=70&offset=1158105&length=331345&dtd=dart3.xsd	자산 총계	130,029,082	85,329,208	69,787,244	41,253,963	
+차이나그레이트	http://dart.fss.or.kr/report/viewer.do?rcpNo=20090515001679&dcmNo=2309862&eleId=70&offset=1158105&length=331345&dtd=dart3.xsd	자본총계	62,026,399	46,334,834	23,472,065	24,647,250	
+차이나그레이트	http://dart.fss.or.kr/report/viewer.do?rcpNo=20090515001679&dcmNo=2309862&eleId=70&offset=1158105&length=331345&dtd=dart3.xsd	부채총계	68,002,683	38,994,375	46,315,178	16,606,712	
+차이나그레이트	http://dart.fss.or.kr/report/viewer.do?rcpNo=20090515001679&dcmNo=2309862&eleId=70&offset=1158105&length=331345&dtd=dart3.xsd	자본과부채 총계	130,029,082	85,329,208	69,787,244	41,253,963	
+차이나그레이트	http://dart.fss.or.kr/report/viewer.do?rcpNo=20090515001679&dcmNo=2309862&eleId=70&offset=1158105&length=331345&dtd=dart3.xsd	외부매출액	678,199,168	95,829,066	88,721	774,116,955	
+차이나그레이트	http://dart.fss.or.kr/report/viewer.do?rcpNo=20090515001679&dcmNo=2309862&eleId=70&offset=1158105&length=331345&dtd=dart3.xsd	자산총계	513,690,263	-	192,644,042	706,334,305	
+차이나그레이트	http://dart.fss.or.kr/report/viewer.do?rcpNo=20090515001679&dcmNo=2309862&eleId=70&offset=1158105&length=331345&dtd=dart3.xsd	부채총계	288,131,092	1,360,082	79,907,939	369,399,113	
+차이나그레이트	http://dart.fss.or.kr/report/viewer.do?rcpNo=20090515001679&dcmNo=2309862&eleId=70&offset=1158105&length=331345&dtd=dart3.xsd	외부매출액	124,849,685	17,641,173	16,333	142,507,190	
+차이나그레이트	http://dart.fss.or.kr/report/viewer.do?rcpNo=20090515001679&dcmNo=2309862&eleId=70&offset=1158105&length=331345&dtd=dart3.xsd	자산총계	94,565,241	-	35,463,842	130,029,082	
+차이나그레이트	http://dart.fss.or.kr/report/viewer.do?rcpNo=20090515001679&dcmNo=2309862&eleId=70&offset=1158105&length=331345&dtd=dart3.xsd	부채총계	53,042,053	250,377	14,710,252	68,002,683	
+차이나그레이트	http://dart.fss.or.kr/report/viewer.do?rcpNo=20090515001679&dcmNo=2309862&eleId=70&offset=1158105&length=331345&dtd=dart3.xsd	외부매출액	981,066,472	138,445,492	126,978	1,119,638,942	
+차이나그레이트	http://dart.fss.or.kr/report/viewer.do?rcpNo=20090515001679&dcmNo=2309862&eleId=70&offset=1158105&length=331345&dtd=dart3.xsd	자산총계	321,354,433	-	142,164,544	463,518,977	
+차이나그레이트	http://dart.fss.or.kr/report/viewer.do?rcpNo=20090515001679&dcmNo=2309862&eleId=70&offset=1158105&length=331345&dtd=dart3.xsd	부채총계	145,259,612	433,043	66,129,686	211,822,341	
+차이나그레이트	http://dart.fss.or.kr/report/viewer.do?rcpNo=20090515001679&dcmNo=2309862&eleId=70&offset=1158105&length=331345&dtd=dart3.xsd	외부매출액	180,604,527	25,486,431	23,375	206,114,333	
+차이나그레이트	http://dart.fss.or.kr/report/viewer.do?rcpNo=20090515001679&dcmNo=2309862&eleId=70&offset=1158105&length=331345&dtd=dart3.xsd	자산총계	59,158,138	-	26,171,071	85,329,208	
+차이나그레이트	http://dart.fss.or.kr/report/viewer.do?rcpNo=20090515001679&dcmNo=2309862&eleId=70&offset=1158105&length=331345&dtd=dart3.xsd	부채총계	26,740,842	79,719	12,173,814	38,994,375	
+차이나그레이트	http://dart.fss.or.kr/report/viewer.do?rcpNo=20090515001679&dcmNo=2309862&eleId=70&offset=1158105&length=331345&dtd=dart3.xsd	외부매출액	630,625,350	79,866,010	-	710,491,360	
+차이나그레이트	http://dart.fss.or.kr/report/viewer.do?rcpNo=20090515001679&dcmNo=2309862&eleId=70&offset=1158105&length=331345&dtd=dart3.xsd	자산총계	228,933,382	53,056,903	97,102,788	379,093,073	
+차이나그레이트	http://dart.fss.or.kr/report/viewer.do?rcpNo=20090515001679&dcmNo=2309862&eleId=70&offset=1158105&length=331345&dtd=dart3.xsd	부채총계	161,801,510	19,829,797	69,958,559	251,589,866	
+차이나그레이트	http://dart.fss.or.kr/report/viewer.do?rcpNo=20090515001679&dcmNo=2309862&eleId=70&offset=1158105&length=331345&dtd=dart3.xsd	외부매출액	116,091,821	14,702,534	-	130,794,354	
+차이나그레이트	http://dart.fss.or.kr/report/viewer.do?rcpNo=20090515001679&dcmNo=2309862&eleId=70&offset=1158105&length=331345&dtd=dart3.xsd	자산총계	42,144,346	9,767,245	17,875,652	69,787,244	
+차이나그레이트	http://dart.fss.or.kr/report/viewer.do?rcpNo=20090515001679&dcmNo=2309862&eleId=70&offset=1158105&length=331345&dtd=dart3.xsd	부채총계	29,786,040	3,650,467	12,878,671	46,315,178	
+차이나그레이트	http://dart.fss.or.kr/report/viewer.do?rcpNo=20090515001679&dcmNo=2309862&eleId=70&offset=1158105&length=331345&dtd=dart3.xsd	외부매출액	319,829,909	41,012,588	-	360,842,497	
+차이나그레이트	http://dart.fss.or.kr/report/viewer.do?rcpNo=20090515001679&dcmNo=2309862&eleId=70&offset=1158105&length=331345&dtd=dart3.xsd	자산총계	115,463,237	28,364,419	80,269,050	224,096,706	
+차이나그레이트	http://dart.fss.or.kr/report/viewer.do?rcpNo=20090515001679&dcmNo=2309862&eleId=70&offset=1158105&length=331345&dtd=dart3.xsd	부채총계	64,369,834	2,006,169	23,833,744	90,209,747	
+차이나그레이트	http://dart.fss.or.kr/report/viewer.do?rcpNo=20090515001679&dcmNo=2309862&eleId=70&offset=1158105&length=331345&dtd=dart3.xsd	외부매출액	58,877,488	7,550,007	-	66,427,495	
+차이나그레이트	http://dart.fss.or.kr/report/viewer.do?rcpNo=20090515001679&dcmNo=2309862&eleId=70&offset=1158105&length=331345&dtd=dart3.xsd	자산총계	21,255,627	5,221,606	14,776,729	41,253,963	
+차이나그레이트	http://dart.fss.or.kr/report/viewer.do?rcpNo=20090515001679&dcmNo=2309862&eleId=70&offset=1158105&length=331345&dtd=dart3.xsd	부채총계	11,849,843	369,316	4,387,554	16,606,712	
+조이맥스	http://dart.fss.or.kr/report/viewer.do?rcpNo=20090521000027&dcmNo=2314861&eleId=67&offset=710028&length=102771&dtd=dart3.xsd	자산총계	37,561	16,343	7,716	4,117	2,951	
+조이맥스	http://dart.fss.or.kr/report/viewer.do?rcpNo=20090521000027&dcmNo=2314861&eleId=67&offset=710028&length=102771&dtd=dart3.xsd	부채총계	7,062	3,287	3,614	3,645	1,299	
+조이맥스	http://dart.fss.or.kr/report/viewer.do?rcpNo=20090521000027&dcmNo=2314861&eleId=67&offset=710028&length=102771&dtd=dart3.xsd	자본총계	30,500	13,056	4,102	472	1,652	
+조이맥스	http://dart.fss.or.kr/report/viewer.do?rcpNo=20090521000027&dcmNo=2314861&eleId=67&offset=710028&length=102771&dtd=dart3.xsd	자산총계	37,561,213,133 	16,343,028,203 	7,715,812,003 	
+조이맥스	http://dart.fss.or.kr/report/viewer.do?rcpNo=20090521000027&dcmNo=2314861&eleId=67&offset=710028&length=102771&dtd=dart3.xsd	부채총계	7,061,650,482 	3,287,363,597 	3,614,254,373 	
+조이맥스	http://dart.fss.or.kr/report/viewer.do?rcpNo=20090521000027&dcmNo=2314861&eleId=67&offset=710028&length=102771&dtd=dart3.xsd	자 본 총 계	30,499,562,651 	13,055,664,606 	4,101,557,630 	
+조이맥스	http://dart.fss.or.kr/report/viewer.do?rcpNo=20090521000027&dcmNo=2314861&eleId=67&offset=710028&length=102771&dtd=dart3.xsd	부채와 자본총계	37,561,213,133 	16,343,028,203 	7,715,812,003 	
+어보브반도체	http://dart.fss.or.kr/report/viewer.do?rcpNo=20090525000095&dcmNo=2317397&eleId=67&offset=931433&length=136584&dtd=dart3.xsd	자산총계	    26,147,398,525 	    23,989,851,950 	    15,991,018,488 	    12,977,079,657 	
+어보브반도체	http://dart.fss.or.kr/report/viewer.do?rcpNo=20090525000095&dcmNo=2317397&eleId=67&offset=931433&length=136584&dtd=dart3.xsd	부채총계	      9,497,389,964 	      8,169,550,757 	      3,766,324,005 	      5,195,510,452 	
+어보브반도체	http://dart.fss.or.kr/report/viewer.do?rcpNo=20090525000095&dcmNo=2317397&eleId=67&offset=931433&length=136584&dtd=dart3.xsd	자본총계	    16,650,008,561 	    15,820,301,193 	    12,224,694,483 	      7,781,569,205 	
+어보브반도체	http://dart.fss.or.kr/report/viewer.do?rcpNo=20090525000095&dcmNo=2317397&eleId=67&offset=931433&length=136584&dtd=dart3.xsd	[재고자산합계÷기말자산총계×100]	 28.5	31.6	24.6	20.0	<br/>	
+어보브반도체	http://dart.fss.or.kr/report/viewer.do?rcpNo=20090525000095&dcmNo=2317397&eleId=67&offset=931433&length=136584&dtd=dart3.xsd	Ⅰ. 매출액	8,341,696,922 	36,212,293,985 	27,821,821,580 	27,469,429,771 	
+어보브반도체	http://dart.fss.or.kr/report/viewer.do?rcpNo=20090525000095&dcmNo=2317397&eleId=67&offset=931433&length=136584&dtd=dart3.xsd	Ⅴ. 영업이익	709,430,591 	3,205,022,205 	2,519,470,240 	2,720,341,270 	
+어보브반도체	http://dart.fss.or.kr/report/viewer.do?rcpNo=20090525000095&dcmNo=2317397&eleId=67&offset=931433&length=136584&dtd=dart3.xsd	Ⅹ. 당기순이익	862,188,125 	3,628,087,467 	2,432,516,035 	2,144,602,095 	
+어보브반도체	http://dart.fss.or.kr/report/viewer.do?rcpNo=20090525000095&dcmNo=2317397&eleId=67&offset=931433&length=136584&dtd=dart3.xsd	2. 당기순이익	3,628,087,467 	2,432,516,035 	2,144,602,095 	
+어보브반도체	http://dart.fss.or.kr/report/viewer.do?rcpNo=20090525000095&dcmNo=2317397&eleId=67&offset=931433&length=136584&dtd=dart3.xsd	1. 당기순이익	862,188,125 	3,628,087,467 	2,432,516,035 	2,144,602,095 	
+동아지질	http://dart.fss.or.kr/report/viewer.do?rcpNo=20090528000220&dcmNo=2321078&eleId=67&offset=1185271&length=244153&dtd=dart3.xsd	자산총계	123,081,552	107,749,799	93,028,518	82,705,390	86,698,682	
+동아지질	http://dart.fss.or.kr/report/viewer.do?rcpNo=20090528000220&dcmNo=2321078&eleId=67&offset=1185271&length=244153&dtd=dart3.xsd	부채총계	74,581,437	65,342,347	57,561,804	47,190,104	54,181,794	
+동아지질	http://dart.fss.or.kr/report/viewer.do?rcpNo=20090528000220&dcmNo=2321078&eleId=67&offset=1185271&length=244153&dtd=dart3.xsd	자본총계	48,500,115	42,407,452	35,466,714	35,515,286	32,516,888	
+동아지질	http://dart.fss.or.kr/report/viewer.do?rcpNo=20090528000220&dcmNo=2321078&eleId=67&offset=1185271&length=244153&dtd=dart3.xsd	부 채 와 자 본 총 계	123,081,552	107,749,799	93,028,518	
+동아지질	http://dart.fss.or.kr/report/viewer.do?rcpNo=20090528000220&dcmNo=2321078&eleId=67&offset=1185271&length=244153&dtd=dart3.xsd	I. 매출액	263,734,544	246,095,359	158,757,383	
+동아지질	http://dart.fss.or.kr/report/viewer.do?rcpNo=20090528000220&dcmNo=2321078&eleId=67&offset=1185271&length=244153&dtd=dart3.xsd	V. 영업이익	8,483,450	9,653,552	5,347,183	
+동아지질	http://dart.fss.or.kr/report/viewer.do?rcpNo=20090528000220&dcmNo=2321078&eleId=67&offset=1185271&length=244153&dtd=dart3.xsd	X. 당기순이익	6,933,244	7,242,347	4,356,283	
+동아지질	http://dart.fss.or.kr/report/viewer.do?rcpNo=20090528000220&dcmNo=2321078&eleId=67&offset=1185271&length=244153&dtd=dart3.xsd	  2. 당기순이익	6,933,244	7,242,347	4,356,283	
+동아지질	http://dart.fss.or.kr/report/viewer.do?rcpNo=20090528000220&dcmNo=2321078&eleId=67&offset=1185271&length=244153&dtd=dart3.xsd	   1. 당기순이익	6,933,244	7,242,347	4,356,283	
+동아지질	http://dart.fss.or.kr/report/viewer.do?rcpNo=20090528000220&dcmNo=2321078&eleId=67&offset=1185271&length=244153&dtd=dart3.xsd	  당기순이익	-	-	-	-	7,242,347	7,242,347	
+동아지질	http://dart.fss.or.kr/report/viewer.do?rcpNo=20090528000220&dcmNo=2321078&eleId=67&offset=1185271&length=244153&dtd=dart3.xsd	  당기순이익	-	-	-	-	6,933,244	6,933,244	
+한미파슨스	http://dart.fss.or.kr/report/viewer.do?rcpNo=20090605000516&dcmNo=2328559&eleId=67&offset=975374&length=149285&dtd=dart3.xsd	자산총계	       44,455 	       38,290 	       29,434 	       22,073 	       14,319 	       10,864 	
+한미파슨스	http://dart.fss.or.kr/report/viewer.do?rcpNo=20090605000516&dcmNo=2328559&eleId=67&offset=975374&length=149285&dtd=dart3.xsd	부채총계	       20,152 	       15,473 	       13,000 	       11,806 	         2,066 	         4,328 	
+한미파슨스	http://dart.fss.or.kr/report/viewer.do?rcpNo=20090605000516&dcmNo=2328559&eleId=67&offset=975374&length=149285&dtd=dart3.xsd	자본총계	       24,303 	       22,817 	       16,434 	       10,267 	         7,532 	         6,536 	
+한미파슨스	http://dart.fss.or.kr/report/viewer.do?rcpNo=20090605000516&dcmNo=2328559&eleId=67&offset=975374&length=149285&dtd=dart3.xsd	1. 당기순이익	1,676,467,521 	7,271,811,976 	5,463,711,470 	3,575,765,978 	
+대우캐피탈	http://dart.fss.or.kr/report/viewer.do?rcpNo=20090917000168&dcmNo=2410987&eleId=27&offset=257766&length=22989&dtd=dart3.xsd	자산총계	3,944,295	4,600,870	3,658,516	2,326,281	1,799,408	
+대우캐피탈	http://dart.fss.or.kr/report/viewer.do?rcpNo=20090917000168&dcmNo=2410987&eleId=27&offset=257766&length=22989&dtd=dart3.xsd	부채총계	3,283,013	3,994,335	3,049,099	1,837,229	1,377,501	
+대우캐피탈	http://dart.fss.or.kr/report/viewer.do?rcpNo=20090917000168&dcmNo=2410987&eleId=27&offset=257766&length=22989&dtd=dart3.xsd	자본총계	661,282	606,535	609,417	489,052	421,907	
+동일금속	http://dart.fss.or.kr/report/viewer.do?rcpNo=20090619000210&dcmNo=2338233&eleId=27&offset=497916&length=12275&dtd=dart3.xsd	자산총계	50,735,799 	52,703,606 	33,610,350 	23,967,802 	18,755,750 	13,596,499 	
+동일금속	http://dart.fss.or.kr/report/viewer.do?rcpNo=20090619000210&dcmNo=2338233&eleId=27&offset=497916&length=12275&dtd=dart3.xsd	부채총계	16,831,169 	22,101,460 	14,699,563 	11,627,659 	7,139,567 	7,584,267 	
+동일금속	http://dart.fss.or.kr/report/viewer.do?rcpNo=20090619000210&dcmNo=2338233&eleId=27&offset=497916&length=12275&dtd=dart3.xsd	자본총계	33,904,630 	30,602,146 	18,910,787 	12,340,143 	11,616,183 	6,012,232 	
+게임빌	http://dart.fss.or.kr/report/viewer.do?rcpNo=20090619000250&dcmNo=2338348&eleId=27&offset=525213&length=24749&dtd=dart3.xsd	자산총계	    20,181 	18,744 	12,134 	10,450 	     8,723 	
+게임빌	http://dart.fss.or.kr/report/viewer.do?rcpNo=20090619000250&dcmNo=2338348&eleId=27&offset=525213&length=24749&dtd=dart3.xsd	부채총계	      4,008 	4,273 	3,020 	2,332 	     1,796 	
+게임빌	http://dart.fss.or.kr/report/viewer.do?rcpNo=20090619000250&dcmNo=2338348&eleId=27&offset=525213&length=24749&dtd=dart3.xsd	자본총계	    16,173 	14,471 	9,113 	8,118 	     6,927 	
+에스앤더블류	http://dart.fss.or.kr/report/viewer.do?rcpNo=20090624000058&dcmNo=2340867&eleId=27&offset=580253&length=18632&dtd=dart3.xsd	자산총계	　71,785	69,539	40,270	23,959	19,152	
+에스앤더블류	http://dart.fss.or.kr/report/viewer.do?rcpNo=20090624000058&dcmNo=2340867&eleId=27&offset=580253&length=18632&dtd=dart3.xsd	부채총계	　42,187	40,634	13,787	12,517	9,550	
+에스앤더블류	http://dart.fss.or.kr/report/viewer.do?rcpNo=20090624000058&dcmNo=2340867&eleId=27&offset=580253&length=18632&dtd=dart3.xsd	자본총계	　29,598	28,905	26,482	11,442	9,602	
+동국S&C	http://dart.fss.or.kr/report/viewer.do?rcpNo=20090724000004&dcmNo=2365129&eleId=27&offset=737935&length=12070&dtd=dart3.xsd	자산총계	263,393	292,031	176,924	104,047	82,755	
+동국S&C	http://dart.fss.or.kr/report/viewer.do?rcpNo=20090724000004&dcmNo=2365129&eleId=27&offset=737935&length=12070&dtd=dart3.xsd	부채총계	183,548	241,736	139,163	79,914	64,008	
+동국S&C	http://dart.fss.or.kr/report/viewer.do?rcpNo=20090724000004&dcmNo=2365129&eleId=27&offset=737935&length=12070&dtd=dart3.xsd	자본총계	79,845	50,295	37,761	24,133	18,748	
+제넥신	http://dart.fss.or.kr/report/viewer.do?rcpNo=20090811000197&dcmNo=2377489&eleId=27&offset=680121&length=19450&dtd=dart3.xsd	자산총계	15,192	14,714	13,495	6,010	5,312	
+제넥신	http://dart.fss.or.kr/report/viewer.do?rcpNo=20090811000197&dcmNo=2377489&eleId=27&offset=680121&length=19450&dtd=dart3.xsd	부채총계	7,881	7,610	7,779	471	316	
+제넥신	http://dart.fss.or.kr/report/viewer.do?rcpNo=20090811000197&dcmNo=2377489&eleId=27&offset=680121&length=19450&dtd=dart3.xsd	자본총계	7,311	7,104	5,716	5,539	4,996	
+톱텍	http://dart.fss.or.kr/report/viewer.do?rcpNo=20090805000147&dcmNo=2373309&eleId=27&offset=732448&length=13216&dtd=dart3.xsd	자산총계	42,461	33,360 	<span>14,668</span>	13,200 	11,315	
+톱텍	http://dart.fss.or.kr/report/viewer.do?rcpNo=20090805000147&dcmNo=2373309&eleId=27&offset=732448&length=13216&dtd=dart3.xsd	부채총계	24,431	20,191 	6,519 	9,017 	8,306	
+톱텍	http://dart.fss.or.kr/report/viewer.do?rcpNo=20090805000147&dcmNo=2373309&eleId=27&offset=732448&length=13216&dtd=dart3.xsd	자본총계	18,030	13,169 	8,149 	4,183 	3,009	
+톱텍	http://dart.fss.or.kr/report/viewer.do?rcpNo=20090805000147&dcmNo=2373309&eleId=27&offset=732448&length=13216&dtd=dart3.xsd	 매출액	35,194	61,396 	31,865 	22,079 	8,145	
+톱텍	http://dart.fss.or.kr/report/viewer.do?rcpNo=20090805000147&dcmNo=2373309&eleId=27&offset=732448&length=13216&dtd=dart3.xsd	 영업이익(영업손실)	5,782	4,118 	2,211 	1,396 	20	
+톱텍	http://dart.fss.or.kr/report/viewer.do?rcpNo=20090805000147&dcmNo=2373309&eleId=27&offset=732448&length=13216&dtd=dart3.xsd	 당기순이익(당기순손실)	4,828	4,620 	1,932 	1,173 	262	
+디에스케이	http://dart.fss.or.kr/report/viewer.do?rcpNo=20090821000249&dcmNo=2390863&eleId=27&offset=393584&length=25256&dtd=dart3.xsd	자산총계	28,212,393 	18,725,166 	14,603,205 	14,560,091 	14,578,989 	9,098,142 	
+디에스케이	http://dart.fss.or.kr/report/viewer.do?rcpNo=20090821000249&dcmNo=2390863&eleId=27&offset=393584&length=25256&dtd=dart3.xsd	부채총계	15,923,180 	7,939,671 	6,620,577 	9,734,753 	11,749,410 	7,745,700 	
+디에스케이	http://dart.fss.or.kr/report/viewer.do?rcpNo=20090821000249&dcmNo=2390863&eleId=27&offset=393584&length=25256&dtd=dart3.xsd	자본총계	12,289,214 	10,785,495 	7,982,628 	4,825,338 	2,829,580 	1,352,442 	
+모린스	http://dart.fss.or.kr/report/viewer.do?rcpNo=20090914000172&dcmNo=2408320&eleId=29&offset=601269&length=15657&dtd=dart3.xsd	자산총계	40,427 	30,325 	7,983 	5,471 	6,713 	
+모린스	http://dart.fss.or.kr/report/viewer.do?rcpNo=20090914000172&dcmNo=2408320&eleId=29&offset=601269&length=15657&dtd=dart3.xsd	부채총계	5,399 	4,804 	5,134 	4,849 	4,860 	
+모린스	http://dart.fss.or.kr/report/viewer.do?rcpNo=20090914000172&dcmNo=2408320&eleId=29&offset=601269&length=15657&dtd=dart3.xsd	자본총계	35,028 	25,521 	2,849 	622 	1,853 	
+에리트베이직	http://dart.fss.or.kr/report/viewer.do?rcpNo=20090824000224&dcmNo=2391917&eleId=27&offset=464431&length=17627&dtd=dart3.xsd	자산총계	  51,667	    47,202	  56,302	  52,905	       51,171	
+에리트베이직	http://dart.fss.or.kr/report/viewer.do?rcpNo=20090824000224&dcmNo=2391917&eleId=27&offset=464431&length=17627&dtd=dart3.xsd	부채총계	 25,964	  25,860	  38,117	     37,194	       38,765	
+에리트베이직	http://dart.fss.or.kr/report/viewer.do?rcpNo=20090824000224&dcmNo=2391917&eleId=27&offset=464431&length=17627&dtd=dart3.xsd	자본총계	    25,704	     21,342	  18,185	    15,711	  12,406	
+케이엔더블유	http://dart.fss.or.kr/report/viewer.do?rcpNo=20090916000236&dcmNo=2410343&eleId=29&offset=359549&length=17575&dtd=dart3.xsd	자산총계	33,171	28,836	21,573	16,334	6,891	
+케이엔더블유	http://dart.fss.or.kr/report/viewer.do?rcpNo=20090916000236&dcmNo=2410343&eleId=29&offset=359549&length=17575&dtd=dart3.xsd	부채총계	19,370	17,336	13,401	12,646	4,728	
+케이엔더블유	http://dart.fss.or.kr/report/viewer.do?rcpNo=20090916000236&dcmNo=2410343&eleId=29&offset=359549&length=17575&dtd=dart3.xsd	자본총계	13,801	11,500	8,172	3,688	2,163	
+쌍용머티리얼	http://dart.fss.or.kr/report/viewer.do?rcpNo=20090824000271&dcmNo=2392105&eleId=27&offset=648973&length=20360&dtd=dart3.xsd	자산총계	107,141	109,535 	105,850 	108,437 	112,392 	117,036 	
+쌍용머티리얼	http://dart.fss.or.kr/report/viewer.do?rcpNo=20090824000271&dcmNo=2392105&eleId=27&offset=648973&length=20360&dtd=dart3.xsd	부채총계	42,779	46,613 	50,810 	57,444 	61,923 	68,038 	
+쌍용머티리얼	http://dart.fss.or.kr/report/viewer.do?rcpNo=20090824000271&dcmNo=2392105&eleId=27&offset=648973&length=20360&dtd=dart3.xsd	자본총계	64,362	62,922 	55,039 	50,993 	50,469 	48,998 	
+아이앤씨	http://dart.fss.or.kr/report/viewer.do?rcpNo=20090828000501&dcmNo=2395970&eleId=27&offset=595661&length=9243&dtd=dart3.xsd	자산총계	39,276	27,065	18,635	16,573	17,390	
+아이앤씨	http://dart.fss.or.kr/report/viewer.do?rcpNo=20090828000501&dcmNo=2395970&eleId=27&offset=595661&length=9243&dtd=dart3.xsd	부채총계	13,123	13,583	12,431	10,281	10,147	
+아이앤씨	http://dart.fss.or.kr/report/viewer.do?rcpNo=20090828000501&dcmNo=2395970&eleId=27&offset=595661&length=9243&dtd=dart3.xsd	자본총계	26,153	13,482	6,204	6,292	7,243	
+네오위즈벅스	http://dart.fss.or.kr/report/viewer.do?rcpNo=20090911000035&dcmNo=2406796&eleId=29&offset=613936&length=22024&dtd=dart3.xsd	자산총계	28,762	35,099	37,311	6,283	4,381	
+네오위즈벅스	http://dart.fss.or.kr/report/viewer.do?rcpNo=20090911000035&dcmNo=2406796&eleId=29&offset=613936&length=22024&dtd=dart3.xsd	부채총계	13,827	20,207	26,621	2,134	1,380	
+네오위즈벅스	http://dart.fss.or.kr/report/viewer.do?rcpNo=20090911000035&dcmNo=2406796&eleId=29&offset=613936&length=22024&dtd=dart3.xsd	자본총계	14,935	14,892	10,690	4,149	3,001	
+동양생명보험	http://dart.fss.or.kr/report/viewer.do?rcpNo=20090909000219&dcmNo=2405640&eleId=29&offset=1244020&length=57485&dtd=dart3.xsd	자산총계	9,466,415 	9,140,486 	8,010,352 	6,763,930 	5,665,749 	
+동양생명보험	http://dart.fss.or.kr/report/viewer.do?rcpNo=20090909000219&dcmNo=2405640&eleId=29&offset=1244020&length=57485&dtd=dart3.xsd	부채총계	8,748,665 	8,494,067 	7,476,551 	6,328,443 	5,408,028 	
+동양생명보험	http://dart.fss.or.kr/report/viewer.do?rcpNo=20090909000219&dcmNo=2405640&eleId=29&offset=1244020&length=57485&dtd=dart3.xsd	자본총계	717,750 	646,419 	533,801 	435,487 	257,721 	
+동양생명보험	http://dart.fss.or.kr/report/viewer.do?rcpNo=20090909000219&dcmNo=2405640&eleId=29&offset=1244020&length=57485&dtd=dart3.xsd	자산총계	9,152,583 	8,022,158 	6,763,930 	5,665,754 	5,000,814 	
+동양생명보험	http://dart.fss.or.kr/report/viewer.do?rcpNo=20090909000219&dcmNo=2405640&eleId=29&offset=1244020&length=57485&dtd=dart3.xsd	부채총계	8,494,802 	7,478,159 	6,328,443 	5,408,034 	4,811,459 	
+동양생명보험	http://dart.fss.or.kr/report/viewer.do?rcpNo=20090909000219&dcmNo=2405640&eleId=29&offset=1244020&length=57485&dtd=dart3.xsd	자본총계	657,781 	543,999 	435,487 	257,720 	189,355 	
+동양생명보험	http://dart.fss.or.kr/report/viewer.do?rcpNo=20090909000219&dcmNo=2405640&eleId=29&offset=1244020&length=57485&dtd=dart3.xsd	연결총당기순이익	33,760 	81,912 	65,442 	74,647 	66,772 	
+한스바이오메드	http://dart.fss.or.kr/report/viewer.do?rcpNo=20090911000106&dcmNo=2407015&eleId=29&offset=676447&length=19646&dtd=dart3.xsd	자산총계	20,410 	18,492 	16,209 	16,031 	13,210 	
+한스바이오메드	http://dart.fss.or.kr/report/viewer.do?rcpNo=20090911000106&dcmNo=2407015&eleId=29&offset=676447&length=19646&dtd=dart3.xsd	부채총계	3,374 	3,294 	3,055 	4,022 	4,584 	
+한스바이오메드	http://dart.fss.or.kr/report/viewer.do?rcpNo=20090911000106&dcmNo=2407015&eleId=29&offset=676447&length=19646&dtd=dart3.xsd	자본총계	17,036 	15,198 	13,154 	12,009 	8,626 	
+진로	http://dart.fss.or.kr/report/viewer.do?rcpNo=20090917000061&dcmNo=2410586&eleId=29&offset=851334&length=26156&dtd=dart3.xsd	자산총계	1,249,123	1,319,219	1,310,206	1,469,104	2,529,227	
+진로	http://dart.fss.or.kr/report/viewer.do?rcpNo=20090917000061&dcmNo=2410586&eleId=29&offset=851334&length=26156&dtd=dart3.xsd	부채총계	717,665	844,435	1,015,690	1,330,194	1,934,352	
+진로	http://dart.fss.or.kr/report/viewer.do?rcpNo=20090917000061&dcmNo=2410586&eleId=29&offset=851334&length=26156&dtd=dart3.xsd	자본총계	531,458	474,784	294,516	138,909	594,875	
+스틸플라워	http://dart.fss.or.kr/report/viewer.do?rcpNo=20090917000114&dcmNo=2410776&eleId=27&offset=546298&length=30662&dtd=dart3.xsd	자산총계	154,577 	124,545 	62,333 	34,566 	24,834 	
+스틸플라워	http://dart.fss.or.kr/report/viewer.do?rcpNo=20090917000114&dcmNo=2410776&eleId=27&offset=546298&length=30662&dtd=dart3.xsd	부채총계	84,068 	63,358 	43,353 	28,082 	19,479 	
+스틸플라워	http://dart.fss.or.kr/report/viewer.do?rcpNo=20090917000114&dcmNo=2410776&eleId=27&offset=546298&length=30662&dtd=dart3.xsd	자본총계	70,509 	61,187 	18,980 	6,484 	5,355 	
+스틸플라워	http://dart.fss.or.kr/report/viewer.do?rcpNo=20090917000114&dcmNo=2410776&eleId=27&offset=546298&length=30662&dtd=dart3.xsd	자산총계	152,559,320	154,577,090	
+스틸플라워	http://dart.fss.or.kr/report/viewer.do?rcpNo=20090917000114&dcmNo=2410776&eleId=27&offset=546298&length=30662&dtd=dart3.xsd	부채총계	76,986,626	84,068,441	
+스틸플라워	http://dart.fss.or.kr/report/viewer.do?rcpNo=20090917000114&dcmNo=2410776&eleId=27&offset=546298&length=30662&dtd=dart3.xsd	자산총계	124,545,243	129,895,340	
+스틸플라워	http://dart.fss.or.kr/report/viewer.do?rcpNo=20090917000114&dcmNo=2410776&eleId=27&offset=546298&length=30662&dtd=dart3.xsd	부채총계	63,358,003	75,178,334	
+비츠로셀	http://dart.fss.or.kr/report/viewer.do?rcpNo=20090922000106&dcmNo=2413690&eleId=27&offset=686047&length=14772&dtd=dart3.xsd	자산총계	27,911	23,532	23,506	22,890	26,099	
+비츠로셀	http://dart.fss.or.kr/report/viewer.do?rcpNo=20090922000106&dcmNo=2413690&eleId=27&offset=686047&length=14772&dtd=dart3.xsd	부채총계	9,308	7,842	13,863	14,221	10,350	
+비츠로셀	http://dart.fss.or.kr/report/viewer.do?rcpNo=20090922000106&dcmNo=2413690&eleId=27&offset=686047&length=14772&dtd=dart3.xsd	자본총계	18,603	15,690	9,643	8,669	15,748	
+디엠씨	http://dart.fss.or.kr/report/viewer.do?rcpNo=20090924000183&dcmNo=2415528&eleId=27&offset=723191&length=9328&dtd=dart3.xsd	자산총계	69,698	70,158	30,919	12,872	5,343	
+디엠씨	http://dart.fss.or.kr/report/viewer.do?rcpNo=20090924000183&dcmNo=2415528&eleId=27&offset=723191&length=9328&dtd=dart3.xsd	부채총계	50,408	55,309	23,822	7,361	3,698	
+디엠씨	http://dart.fss.or.kr/report/viewer.do?rcpNo=20090924000183&dcmNo=2415528&eleId=27&offset=723191&length=9328&dtd=dart3.xsd	자본총계	19,290	14,849	7,097	5,511	1,645	
+진매트릭스	http://dart.fss.or.kr/report/viewer.do?rcpNo=20091001000183&dcmNo=2421862&eleId=27&offset=624230&length=20238&dtd=dart3.xsd	자산총계	6,766	5,183	4,073	2,775	1,087	
+진매트릭스	http://dart.fss.or.kr/report/viewer.do?rcpNo=20091001000183&dcmNo=2421862&eleId=27&offset=624230&length=20238&dtd=dart3.xsd	부채총계	1,346	432	596	348	190	
+진매트릭스	http://dart.fss.or.kr/report/viewer.do?rcpNo=20091001000183&dcmNo=2421862&eleId=27&offset=624230&length=20238&dtd=dart3.xsd	자본총계	5,420	4,751	3,477	2,427	897	
+동방선기	http://dart.fss.or.kr/report/viewer.do?rcpNo=20091008000363&dcmNo=2426364&eleId=27&offset=614019&length=19324&dtd=dart3.xsd	자산총계	52,149,361,314	47,853,317,052	25,299,874,731	15,902,396,374	11,080,694,999	
+동방선기	http://dart.fss.or.kr/report/viewer.do?rcpNo=20091008000363&dcmNo=2426364&eleId=27&offset=614019&length=19324&dtd=dart3.xsd	부채총계	25,027,782,662	23,369,638,491	15,244,957,608	10,627,945,696	6,845,795,050	
+동방선기	http://dart.fss.or.kr/report/viewer.do?rcpNo=20091008000363&dcmNo=2426364&eleId=27&offset=614019&length=19324&dtd=dart3.xsd	자본총계	27,121,578,652	24,483,678,561	10,054,917,123	5,274,450,678	4,234,899,949	
+SK C&C	http://dart.fss.or.kr/report/viewer.do?rcpNo=20091009000328&dcmNo=2427593&eleId=27&offset=703422&length=25903&dtd=dart3.xsd	자산총계	3,137,755 	2,869,702 	2,192,270 	1,537,755 	1,413,379 	
+SK C&C	http://dart.fss.or.kr/report/viewer.do?rcpNo=20091009000328&dcmNo=2427593&eleId=27&offset=703422&length=25903&dtd=dart3.xsd	부채총계	1,988,749 	1,841,778 	1,354,693 	938,452 	925,509 	
+SK C&C	http://dart.fss.or.kr/report/viewer.do?rcpNo=20091009000328&dcmNo=2427593&eleId=27&offset=703422&length=25903&dtd=dart3.xsd	자본총계	1,149,006 	1,027,924 	837,577 	599,303 	487,870 	
+SK C&C	http://dart.fss.or.kr/report/viewer.do?rcpNo=20091009000328&dcmNo=2427593&eleId=27&offset=703422&length=25903&dtd=dart3.xsd	자산총계	70,782,987	58,338,757	1,551,736	1,426,309	1,047,000	
+SK C&C	http://dart.fss.or.kr/report/viewer.do?rcpNo=20091009000328&dcmNo=2427593&eleId=27&offset=703422&length=25903&dtd=dart3.xsd	부채총계	45,831,355	34,488,230	944,824	930,192	762,293	
+SK C&C	http://dart.fss.or.kr/report/viewer.do?rcpNo=20091009000328&dcmNo=2427593&eleId=27&offset=703422&length=25903&dtd=dart3.xsd	자본총계	24,951,632	23,850,527	606,912	496,117	284,707	
+SK C&C	http://dart.fss.or.kr/report/viewer.do?rcpNo=20091009000328&dcmNo=2427593&eleId=27&offset=703422&length=25903&dtd=dart3.xsd	총당기순이익	1,804,126	248,417	193,417	211,456	157,665	
+이너스텍	http://dart.fss.or.kr/report/viewer.do?rcpNo=20091007000310&dcmNo=2425289&eleId=27&offset=527021&length=33482&dtd=dart3.xsd	자산총계	14,692	13,353	8,504	6,229	5,075	
+이너스텍	http://dart.fss.or.kr/report/viewer.do?rcpNo=20091007000310&dcmNo=2425289&eleId=27&offset=527021&length=33482&dtd=dart3.xsd	부채총계	7,442	7,177	6,492	4,824	3,753	
+이너스텍	http://dart.fss.or.kr/report/viewer.do?rcpNo=20091007000310&dcmNo=2425289&eleId=27&offset=527021&length=33482&dtd=dart3.xsd	자본총계	7,250	6,176	2,012	1,405	1,322	
+지케이엘	http://dart.fss.or.kr/report/viewer.do?rcpNo=20091016000303&dcmNo=2432788&eleId=27&offset=642789&length=17547&dtd=dart3.xsd	자산총계	254,950	230,955	196,595	117,134	25,516	
+지케이엘	http://dart.fss.or.kr/report/viewer.do?rcpNo=20091016000303&dcmNo=2432788&eleId=27&offset=642789&length=17547&dtd=dart3.xsd	부채총계	129,033	132,076	127,922	89,594	1,493	
+지케이엘	http://dart.fss.or.kr/report/viewer.do?rcpNo=20091016000303&dcmNo=2432788&eleId=27&offset=642789&length=17547&dtd=dart3.xsd	자본총계	125,917	98,879	68,673	27,540	24,024	
+강원비앤이	http://dart.fss.or.kr/report/viewer.do?rcpNo=20091016000246&dcmNo=2432622&eleId=27&offset=504803&length=14109&dtd=dart3.xsd	자산총계	25,791	29,220	22,320	13,444	11,932	
+강원비앤이	http://dart.fss.or.kr/report/viewer.do?rcpNo=20091016000246&dcmNo=2432622&eleId=27&offset=504803&length=14109&dtd=dart3.xsd	부채총계	14,573	20,674	15,674	9,314	8,442	
+강원비앤이	http://dart.fss.or.kr/report/viewer.do?rcpNo=20091016000246&dcmNo=2432622&eleId=27&offset=504803&length=14109&dtd=dart3.xsd	자본총계	11,218	8,752	6,646	4,130	3,490	
+이원컴포텍	http://dart.fss.or.kr/report/viewer.do?rcpNo=20091021000208&dcmNo=2435383&eleId=27&offset=431463&length=16881&dtd=dart3.xsd	자산총계	12,392 	12,390 	12,372 	10,902 	10,068 	
+이원컴포텍	http://dart.fss.or.kr/report/viewer.do?rcpNo=20091021000208&dcmNo=2435383&eleId=27&offset=431463&length=16881&dtd=dart3.xsd	부채총계	4,678 	5,040 	6,144 	5,826 	5,882 	
+이원컴포텍	http://dart.fss.or.kr/report/viewer.do?rcpNo=20091021000208&dcmNo=2435383&eleId=27&offset=431463&length=16881&dtd=dart3.xsd	자본총계	7,714 	7,350 	6,228 	5,076 	4,186 	
+중국엔진집단	http://dart.fss.or.kr/report/viewer.do?rcpNo=20091026000282&dcmNo=2438292&eleId=27&offset=648177&length=107990&dtd=dart3.xsd	자산총계 	593,313 	521,457 	455,589 	303,070 	
+중국엔진집단	http://dart.fss.or.kr/report/viewer.do?rcpNo=20091026000282&dcmNo=2438292&eleId=27&offset=648177&length=107990&dtd=dart3.xsd	부채총계 	93,359 	97,623 	100,660 	133,359 	
+중국엔진집단	http://dart.fss.or.kr/report/viewer.do?rcpNo=20091026000282&dcmNo=2438292&eleId=27&offset=648177&length=107990&dtd=dart3.xsd	부채와 자본총계 	593,313 	521,457 	455,589 	303,070 	
+중국엔진집단	http://dart.fss.or.kr/report/viewer.do?rcpNo=20091026000282&dcmNo=2438292&eleId=27&offset=648177&length=107990&dtd=dart3.xsd	연결당기순이익 	76,129 	130,394 	97,458 	66,115 	
+중국엔진집단	http://dart.fss.or.kr/report/viewer.do?rcpNo=20091026000282&dcmNo=2438292&eleId=27&offset=648177&length=107990&dtd=dart3.xsd	자산총계 	111,542,844 	95,995,004	83,869,379 	55,792,156 	
+중국엔진집단	http://dart.fss.or.kr/report/viewer.do?rcpNo=20091026000282&dcmNo=2438292&eleId=27&offset=648177&length=107990&dtd=dart3.xsd	부채총계 	17,551,492 	17,971,383 	18,530,499 	24,550,058 	
+중국엔진집단	http://dart.fss.or.kr/report/viewer.do?rcpNo=20091026000282&dcmNo=2438292&eleId=27&offset=648177&length=107990&dtd=dart3.xsd	부채와 자본총계 	111,542,844 	95,995,004 	83,869,379 	55,792,156 	
+중국엔진집단	http://dart.fss.or.kr/report/viewer.do?rcpNo=20091026000282&dcmNo=2438292&eleId=27&offset=648177&length=107990&dtd=dart3.xsd	연결당기순이익 	14,312,272 	24,004,241 	17,941,043 	12,171,110 	
+중국엔진집단	http://dart.fss.or.kr/report/viewer.do?rcpNo=20091026000282&dcmNo=2438292&eleId=27&offset=648177&length=107990&dtd=dart3.xsd	자산총계 	593,313 	521,457 	455,589 	303,070 	
+중국엔진집단	http://dart.fss.or.kr/report/viewer.do?rcpNo=20091026000282&dcmNo=2438292&eleId=27&offset=648177&length=107990&dtd=dart3.xsd	부채총계 	93,359 	97,623 	100,660 	133,359 	
+중국엔진집단	http://dart.fss.or.kr/report/viewer.do?rcpNo=20091026000282&dcmNo=2438292&eleId=27&offset=648177&length=107990&dtd=dart3.xsd	부채와 자본총계 	593,313 	521,457 	455,589 	303,070 	
+중국엔진집단	http://dart.fss.or.kr/report/viewer.do?rcpNo=20091026000282&dcmNo=2438292&eleId=27&offset=648177&length=107990&dtd=dart3.xsd	연결당기순이익 	76,129 	130,394 	97,458 	66,115 	
+중국엔진집단	http://dart.fss.or.kr/report/viewer.do?rcpNo=20091026000282&dcmNo=2438292&eleId=27&offset=648177&length=107990&dtd=dart3.xsd	자산총계 	111,542,844 	95,995,004	83,869,379 	55,792,156 	
+중국엔진집단	http://dart.fss.or.kr/report/viewer.do?rcpNo=20091026000282&dcmNo=2438292&eleId=27&offset=648177&length=107990&dtd=dart3.xsd	부채총계 	17,551,492 	17,971,383 	18,530,499 	24,550,058 	
+중국엔진집단	http://dart.fss.or.kr/report/viewer.do?rcpNo=20091026000282&dcmNo=2438292&eleId=27&offset=648177&length=107990&dtd=dart3.xsd	부채와 자본총계 	111,542,844 	95,995,004 	83,869,379 	55,792,156 	
+중국엔진집단	http://dart.fss.or.kr/report/viewer.do?rcpNo=20091026000282&dcmNo=2438292&eleId=27&offset=648177&length=107990&dtd=dart3.xsd	연결당기순이익 	14,312,272 	24,004,241 	17,941,043 	12,171,110 	
+중국엔진집단	http://dart.fss.or.kr/report/viewer.do?rcpNo=20091026000282&dcmNo=2438292&eleId=27&offset=648177&length=107990&dtd=dart3.xsd	비유동자산총계	98,394	<br/>	<br/>	<br/>	
+중국엔진집단	http://dart.fss.or.kr/report/viewer.do?rcpNo=20091026000282&dcmNo=2438292&eleId=27&offset=648177&length=107990&dtd=dart3.xsd	유동자산총계	9	<br/>	<br/>	<br/>	
+중국엔진집단	http://dart.fss.or.kr/report/viewer.do?rcpNo=20091026000282&dcmNo=2438292&eleId=27&offset=648177&length=107990&dtd=dart3.xsd	유동부채총계	　	<br/>	<br/>	<br/>	
+중국엔진집단	http://dart.fss.or.kr/report/viewer.do?rcpNo=20091026000282&dcmNo=2438292&eleId=27&offset=648177&length=107990&dtd=dart3.xsd	자산총계 및 유동부채의 차이	96,369	<br/>	<br/>	<br/>	
+중국엔진집단	http://dart.fss.or.kr/report/viewer.do?rcpNo=20091026000282&dcmNo=2438292&eleId=27&offset=648177&length=107990&dtd=dart3.xsd	부채와 자본총계	96,369	<br/>	<br/>	<br/>	
+중국엔진집단	http://dart.fss.or.kr/report/viewer.do?rcpNo=20091026000282&dcmNo=2438292&eleId=27&offset=648177&length=107990&dtd=dart3.xsd	연결당기순이익 	-2,026	<br/>	<br/>	<br/>	
+중국엔진집단	http://dart.fss.or.kr/report/viewer.do?rcpNo=20091026000282&dcmNo=2438292&eleId=27&offset=648177&length=107990&dtd=dart3.xsd	비유동자산총계	98,394	<br/>	<br/>	<br/>	
+중국엔진집단	http://dart.fss.or.kr/report/viewer.do?rcpNo=20091026000282&dcmNo=2438292&eleId=27&offset=648177&length=107990&dtd=dart3.xsd	유동자산총계	9	<br/>	<br/>	<br/>	
+중국엔진집단	http://dart.fss.or.kr/report/viewer.do?rcpNo=20091026000282&dcmNo=2438292&eleId=27&offset=648177&length=107990&dtd=dart3.xsd	유동부채총계	　	<br/>	<br/>	<br/>	
+중국엔진집단	http://dart.fss.or.kr/report/viewer.do?rcpNo=20091026000282&dcmNo=2438292&eleId=27&offset=648177&length=107990&dtd=dart3.xsd	자산총계 및 유동부채의 차이	96,369	<br/>	<br/>	<br/>	
+중국엔진집단	http://dart.fss.or.kr/report/viewer.do?rcpNo=20091026000282&dcmNo=2438292&eleId=27&offset=648177&length=107990&dtd=dart3.xsd	부채와 자본총계	96,369	<br/>	<br/>	<br/>	
+중국엔진집단	http://dart.fss.or.kr/report/viewer.do?rcpNo=20091026000282&dcmNo=2438292&eleId=27&offset=648177&length=107990&dtd=dart3.xsd	연결당기순이익 	- 380,888	<br/>	<br/>	<br/>	
+디오텍	http://dart.fss.or.kr/report/viewer.do?rcpNo=20091102000171&dcmNo=2442649&eleId=27&offset=403560&length=19120&dtd=dart3.xsd	자산총계	10,617	10,333	 7,272	5,326	4,631	
+디오텍	http://dart.fss.or.kr/report/viewer.do?rcpNo=20091102000171&dcmNo=2442649&eleId=27&offset=403560&length=19120&dtd=dart3.xsd	부채총계	3,619	5,507	3,470	2,311	1,909	
+디오텍	http://dart.fss.or.kr/report/viewer.do?rcpNo=20091102000171&dcmNo=2442649&eleId=27&offset=403560&length=19120&dtd=dart3.xsd	자본총계	6,998	4,826	3,802	3,015	2,722	
+한전기술	http://dart.fss.or.kr/report/viewer.do?rcpNo=20091202000091&dcmNo=2467776&eleId=29&offset=686426&length=16752&dtd=dart3.xsd	 자산총계	513,940	450,632	 353,145 	 366,016 	 320,104 	 276,307 	 268,082 	
+한전기술	http://dart.fss.or.kr/report/viewer.do?rcpNo=20091202000091&dcmNo=2467776&eleId=29&offset=686426&length=16752&dtd=dart3.xsd	 부채총계	210,861	166,510	 107,898 	 142,937 	 110,890 	  76,095 	  72,084 	
+한전기술	http://dart.fss.or.kr/report/viewer.do?rcpNo=20091202000091&dcmNo=2467776&eleId=29&offset=686426&length=16752&dtd=dart3.xsd	 자본총계	303,079	284,122	 245,247 	 223,079 	 209,214 	 200,212 	 195,998 	
+한전기술	http://dart.fss.or.kr/report/viewer.do?rcpNo=20091202000091&dcmNo=2467776&eleId=29&offset=686426&length=16752&dtd=dart3.xsd	 매출액	313,295	212,893	 347,292 	 308,833 	 330,707 	 272,401 	 263,345 	
+한전기술	http://dart.fss.or.kr/report/viewer.do?rcpNo=20091202000091&dcmNo=2467776&eleId=29&offset=686426&length=16752&dtd=dart3.xsd	 영업이익	73,552	54,278	  20,112 	  16,352 	  11,824 	   4,083 	  11,854 	
+한전기술	http://dart.fss.or.kr/report/viewer.do?rcpNo=20091202000091&dcmNo=2467776&eleId=29&offset=686426&length=16752&dtd=dart3.xsd	 당기순이익	66,072	47,115	  27,462 	  17,649 	  11,061 	   6,885 	  10,658 	
+현대푸드	http://dart.fss.or.kr/report/viewer.do?rcpNo=20091113000984&dcmNo=2453282&eleId=27&offset=469380&length=20313&dtd=dart3.xsd	자산총계	164,962	93,448	226,900	163,241	180,217	
+현대푸드	http://dart.fss.or.kr/report/viewer.do?rcpNo=20091113000984&dcmNo=2453282&eleId=27&offset=469380&length=20313&dtd=dart3.xsd	부채총계	66,281	57,074	85,010	66,958	85,103	
+현대푸드	http://dart.fss.or.kr/report/viewer.do?rcpNo=20091113000984&dcmNo=2453282&eleId=27&offset=469380&length=20313&dtd=dart3.xsd	자본총계	98,681	36,374	141,890	96,283	95,113	
+멜파스	http://dart.fss.or.kr/report/viewer.do?rcpNo=20091109000258&dcmNo=2447597&eleId=27&offset=502000&length=21028&dtd=dart3.xsd	자산총계	55,996	30,792	19,620	10,338	954	
+멜파스	http://dart.fss.or.kr/report/viewer.do?rcpNo=20091109000258&dcmNo=2447597&eleId=27&offset=502000&length=21028&dtd=dart3.xsd	부채총계	19,123	11,908	2,831	3,335	556	
+멜파스	http://dart.fss.or.kr/report/viewer.do?rcpNo=20091109000258&dcmNo=2447597&eleId=27&offset=502000&length=21028&dtd=dart3.xsd	자본총계	36,873	18,884	16,789	7,003	398	
+위메이드	http://dart.fss.or.kr/report/viewer.do?rcpNo=20091117000179&dcmNo=2457194&eleId=27&offset=682870&length=23720&dtd=dart3.xsd	자산총계	156,995 	108,749 	51,409 	38,272 	51,409 	
+위메이드	http://dart.fss.or.kr/report/viewer.do?rcpNo=20091117000179&dcmNo=2457194&eleId=27&offset=682870&length=23720&dtd=dart3.xsd	부채총계	42,611 	33,416 	32,666 	11,125 	32,666 	
+위메이드	http://dart.fss.or.kr/report/viewer.do?rcpNo=20091117000179&dcmNo=2457194&eleId=27&offset=682870&length=23720&dtd=dart3.xsd	자본총계	114,383 	75,333 	18,744 	27,147 	18,744 	
+위메이드	http://dart.fss.or.kr/report/viewer.do?rcpNo=20091117000179&dcmNo=2457194&eleId=27&offset=682870&length=23720&dtd=dart3.xsd	자산총계	112,168	
+위메이드	http://dart.fss.or.kr/report/viewer.do?rcpNo=20091117000179&dcmNo=2457194&eleId=27&offset=682870&length=23720&dtd=dart3.xsd	부채총계	36,834	
+위메이드	http://dart.fss.or.kr/report/viewer.do?rcpNo=20091117000179&dcmNo=2457194&eleId=27&offset=682870&length=23720&dtd=dart3.xsd	자본총계	75,333	
+위메이드	http://dart.fss.or.kr/report/viewer.do?rcpNo=20091117000179&dcmNo=2457194&eleId=27&offset=682870&length=23720&dtd=dart3.xsd	 매출액	78,860	
+위메이드	http://dart.fss.or.kr/report/viewer.do?rcpNo=20091117000179&dcmNo=2457194&eleId=27&offset=682870&length=23720&dtd=dart3.xsd	 영업이익	30,086	
+위메이드	http://dart.fss.or.kr/report/viewer.do?rcpNo=20091117000179&dcmNo=2457194&eleId=27&offset=682870&length=23720&dtd=dart3.xsd	 당기순이익	24,600	
+ITX시큐리티	http://dart.fss.or.kr/report/viewer.do?rcpNo=20091118000204&dcmNo=2458189&eleId=27&offset=484431&length=32825&dtd=dart3.xsd	자산총계	32,400,820	28,858,800	18,522,468	9,279,399	3,902,940	
+ITX시큐리티	http://dart.fss.or.kr/report/viewer.do?rcpNo=20091118000204&dcmNo=2458189&eleId=27&offset=484431&length=32825&dtd=dart3.xsd	부채총계	15,104,769	17,230,151	11,303,215	8,903,574	3,373,793	
+ITX시큐리티	http://dart.fss.or.kr/report/viewer.do?rcpNo=20091118000204&dcmNo=2458189&eleId=27&offset=484431&length=32825&dtd=dart3.xsd	자본총계	17,296,051	11,628,649	7,219,252	375,826	529,147	
+ITX시큐리티	http://dart.fss.or.kr/report/viewer.do?rcpNo=20091118000204&dcmNo=2458189&eleId=27&offset=484431&length=32825&dtd=dart3.xsd	자산총계	9,473,816	-194,416	9,279,400	
+ITX시큐리티	http://dart.fss.or.kr/report/viewer.do?rcpNo=20091118000204&dcmNo=2458189&eleId=27&offset=484431&length=32825&dtd=dart3.xsd	부채총계	8,750,600	152,974	8,903,574	
+ITX시큐리티	http://dart.fss.or.kr/report/viewer.do?rcpNo=20091118000204&dcmNo=2458189&eleId=27&offset=484431&length=32825&dtd=dart3.xsd	자본총계	723,216	-347,390	375,826	
+동양피엔에프	http://dart.fss.or.kr/report/viewer.do?rcpNo=20091111000091&dcmNo=2449146&eleId=27&offset=596426&length=17829&dtd=dart3.xsd	자산총계	29,874 	28,616 	14,271 	7,541 	
+동양피엔에프	http://dart.fss.or.kr/report/viewer.do?rcpNo=20091111000091&dcmNo=2449146&eleId=27&offset=596426&length=17829&dtd=dart3.xsd	부채총계	11,523 	19,470 	9,694 	4,845 	
+동양피엔에프	http://dart.fss.or.kr/report/viewer.do?rcpNo=20091111000091&dcmNo=2449146&eleId=27&offset=596426&length=17829&dtd=dart3.xsd	자본총계	18,351 	9,146 	4,577 	2,696 	
+KPX생명과학	http://dart.fss.or.kr/report/viewer.do?rcpNo=20091110000083&dcmNo=2448265&eleId=27&offset=583014&length=10001&dtd=dart3.xsd	  매출액	39,162	46,493	34,862	26,353	16,561	
+GSMT	http://dart.fss.or.kr/report/viewer.do?rcpNo=20091113000630&dcmNo=2452448&eleId=27&offset=1026687&length=143953&dtd=dart3.xsd	  자 산 총 계 	533,714	92,914	497,546	91,593	394,778	50,709	282,819	33,647	
+GSMT	http://dart.fss.or.kr/report/viewer.do?rcpNo=20091113000630&dcmNo=2452448&eleId=27&offset=1026687&length=143953&dtd=dart3.xsd	 자본과 부채 총계	493,714	85,951	497,546	91,593	394,778	50,709	282,819	33,647	
+GSMT	http://dart.fss.or.kr/report/viewer.do?rcpNo=20091113000630&dcmNo=2452448&eleId=27&offset=1026687&length=143953&dtd=dart3.xsd	 당기순이익  	54,384	10,449	62,877	10,001	37,513	41,581	10,359	1,242	
+GSMT	http://dart.fss.or.kr/report/viewer.do?rcpNo=20091113000630&dcmNo=2452448&eleId=27&offset=1026687&length=143953&dtd=dart3.xsd	 자본과 부채 총계	533,714 	92,914 	497,546	91,593	394,778	50,709	282,819	33,647	
+GSMT	http://dart.fss.or.kr/report/viewer.do?rcpNo=20091113000630&dcmNo=2452448&eleId=27&offset=1026687&length=143953&dtd=dart3.xsd	 영업이익  	  63,271 	12,156	 67,300 	10,704	 43,881 	5,359	14,056 	1,645	
+GSMT	http://dart.fss.or.kr/report/viewer.do?rcpNo=20091113000630&dcmNo=2452448&eleId=27&offset=1026687&length=143953&dtd=dart3.xsd	 당기순이익  	  54,384 	10,449	62,877 	10,001	37,513 	4,581	10,359 	1,242	
+GSMT	http://dart.fss.or.kr/report/viewer.do?rcpNo=20091113000630&dcmNo=2452448&eleId=27&offset=1026687&length=143953&dtd=dart3.xsd	 당기순이익의	<br/>	<br/>	　	<br/>	　	<br/>	　	<br/>	
+GSMT	http://dart.fss.or.kr/report/viewer.do?rcpNo=20091113000630&dcmNo=2452448&eleId=27&offset=1026687&length=143953&dtd=dart3.xsd	   당기순이익	- 	- 	- 	- 	10,358,769	- 	　-	10,358,769	
+GSMT	http://dart.fss.or.kr/report/viewer.do?rcpNo=20091113000630&dcmNo=2452448&eleId=27&offset=1026687&length=143953&dtd=dart3.xsd	   당기순이익	- 	- 	- 	- 	37,512,531	- 	　-	37,512,531	
+GSMT	http://dart.fss.or.kr/report/viewer.do?rcpNo=20091113000630&dcmNo=2452448&eleId=27&offset=1026687&length=143953&dtd=dart3.xsd	   당기순이익	- 	- 	- 	- 	62,877,493	- 	　-	62,877,493	
+코디에스	http://dart.fss.or.kr/report/viewer.do?rcpNo=20091126000176&dcmNo=2462867&eleId=27&offset=471911&length=24298&dtd=dart3.xsd	자산총계	18,408	16,736	13,803	10,685	9,761	
+코디에스	http://dart.fss.or.kr/report/viewer.do?rcpNo=20091126000176&dcmNo=2462867&eleId=27&offset=471911&length=24298&dtd=dart3.xsd	부채총계	8,135	9,115	7,909	5,310	4,500	
+코디에스	http://dart.fss.or.kr/report/viewer.do?rcpNo=20091126000176&dcmNo=2462867&eleId=27&offset=471911&length=24298&dtd=dart3.xsd	자본총계	10,272	7,621	5,894	5,375	5,261	
+승화엘엠씨	http://dart.fss.or.kr/report/viewer.do?rcpNo=20091130001135&dcmNo=2466207&eleId=27&offset=424545&length=19187&dtd=dart3.xsd	자산총계	19,672	17,869	13,760	8,572	
+승화엘엠씨	http://dart.fss.or.kr/report/viewer.do?rcpNo=20091130001135&dcmNo=2466207&eleId=27&offset=424545&length=19187&dtd=dart3.xsd	부채총계	10,361	10,797	7,013	3,650	
+승화엘엠씨	http://dart.fss.or.kr/report/viewer.do?rcpNo=20091130001135&dcmNo=2466207&eleId=27&offset=424545&length=19187&dtd=dart3.xsd	자본총계	9,311	7,072	6,747	4,922	
+우노	http://dart.fss.or.kr/report/viewer.do?rcpNo=20091201000225&dcmNo=2467227&eleId=27&offset=631539&length=26994&dtd=dart3.xsd	자산총계	22,370	17,738	9,492	6,537	6,008	
+우노	http://dart.fss.or.kr/report/viewer.do?rcpNo=20091201000225&dcmNo=2467227&eleId=27&offset=631539&length=26994&dtd=dart3.xsd	부채총계	4,357	4,665	2,954	1,414	1,337	
+우노	http://dart.fss.or.kr/report/viewer.do?rcpNo=20091201000225&dcmNo=2467227&eleId=27&offset=631539&length=26994&dtd=dart3.xsd	자본총계	18,014	13,072	6,538	5,122	4,671	
+영흥철강	http://dart.fss.or.kr/report/viewer.do?rcpNo=20091210000137&dcmNo=2472975&eleId=27&offset=640264&length=20536&dtd=dart3.xsd	자산총계	91,287	93,481	73,686	65,775	65,394	60,949	
+영흥철강	http://dart.fss.or.kr/report/viewer.do?rcpNo=20091210000137&dcmNo=2472975&eleId=27&offset=640264&length=20536&dtd=dart3.xsd	부채총계	14,814	20,142	15,273	15,343	19,069	19,152	
+영흥철강	http://dart.fss.or.kr/report/viewer.do?rcpNo=20091210000137&dcmNo=2472975&eleId=27&offset=640264&length=20536&dtd=dart3.xsd	자본총계	76,473	73,339	58,413	50,432	46,325	41,797	
+아세아텍	http://dart.fss.or.kr/report/viewer.do?rcpNo=20091210000169&dcmNo=2473060&eleId=27&offset=675528&length=19483&dtd=dart3.xsd	자산총계	65,625	62,191	55,946	44,183	44,620	
+아세아텍	http://dart.fss.or.kr/report/viewer.do?rcpNo=20091210000169&dcmNo=2473060&eleId=27&offset=675528&length=19483&dtd=dart3.xsd	부채총계	25,645	22,583	23,159	17,589	25,736	
+아세아텍	http://dart.fss.or.kr/report/viewer.do?rcpNo=20091210000169&dcmNo=2473060&eleId=27&offset=675528&length=19483&dtd=dart3.xsd	자본총계	39,980	39,608	32,788	26,593	18,884	
+우리넷	http://dart.fss.or.kr/report/viewer.do?rcpNo=20091221000063&dcmNo=2480786&eleId=27&offset=550418&length=21282&dtd=dart3.xsd	자산총계	23,225	21,899	20,570	11,141	5,615	
+우리넷	http://dart.fss.or.kr/report/viewer.do?rcpNo=20091221000063&dcmNo=2480786&eleId=27&offset=550418&length=21282&dtd=dart3.xsd	부채총계	7,849	7,018	7,383	4,418	2,296	
+우리넷	http://dart.fss.or.kr/report/viewer.do?rcpNo=20091221000063&dcmNo=2480786&eleId=27&offset=550418&length=21282&dtd=dart3.xsd	자본총계	15,376	14,881	13,187	6,723	3,319	
+스타플렉스	http://dart.fss.or.kr/report/viewer.do?rcpNo=20091211000114&dcmNo=2473788&eleId=27&offset=547068&length=17236&dtd=dart3.xsd	자산총계	63,165	66,111	58,356	44,927	28,933	
+스타플렉스	http://dart.fss.or.kr/report/viewer.do?rcpNo=20091211000114&dcmNo=2473788&eleId=27&offset=547068&length=17236&dtd=dart3.xsd	부채총계	26,483	37,124	33,571	22,835	11,893	
+스타플렉스	http://dart.fss.or.kr/report/viewer.do?rcpNo=20091211000114&dcmNo=2473788&eleId=27&offset=547068&length=17236&dtd=dart3.xsd	자본총계	36,682	28,987	24,784	22,091	17,040	
+락앤락	http://dart.fss.or.kr/report/viewer.do?rcpNo=20091216000104&dcmNo=2477728&eleId=27&offset=491406&length=51001&dtd=dart3.xsd	자산총계	232,560	187,759	115,824	65,344	9,985	
+락앤락	http://dart.fss.or.kr/report/viewer.do?rcpNo=20091216000104&dcmNo=2477728&eleId=27&offset=491406&length=51001&dtd=dart3.xsd	부채총계	66,674	65,910	38,143	35,940	2,026	
+락앤락	http://dart.fss.or.kr/report/viewer.do?rcpNo=20091216000104&dcmNo=2477728&eleId=27&offset=491406&length=51001&dtd=dart3.xsd	자본총계	165,886	121,849	77,681	29,404	7,959	
+락앤락	http://dart.fss.or.kr/report/viewer.do?rcpNo=20091216000104&dcmNo=2477728&eleId=27&offset=491406&length=51001&dtd=dart3.xsd	자산총계	206,677	126,000	70,169	
+락앤락	http://dart.fss.or.kr/report/viewer.do?rcpNo=20091216000104&dcmNo=2477728&eleId=27&offset=491406&length=51001&dtd=dart3.xsd	부채총계	84,828	48,319	40,765	
+락앤락	http://dart.fss.or.kr/report/viewer.do?rcpNo=20091216000104&dcmNo=2477728&eleId=27&offset=491406&length=51001&dtd=dart3.xsd	자본총계	121,849	77,681	29,404	
+지역난방공사	http://dart.fss.or.kr/report/viewer.do?rcpNo=20091124000176&dcmNo=2461654&eleId=27&offset=1090438&length=24042&dtd=dart3.xsd	자산총계	   3,102,676 	2,382,898 	1,998,533 	1,749,614 	1,374,685 	
+지역난방공사	http://dart.fss.or.kr/report/viewer.do?rcpNo=20091124000176&dcmNo=2461654&eleId=27&offset=1090438&length=24042&dtd=dart3.xsd	부채총계	   2,303,796 	1,666,963 	1,279,359 	1,042,133 	699,134 	
+지역난방공사	http://dart.fss.or.kr/report/viewer.do?rcpNo=20091124000176&dcmNo=2461654&eleId=27&offset=1090438&length=24042&dtd=dart3.xsd	자본총계	       798,880 	715,935 	719,174 	707,481 	675,731 	
+지역난방공사	http://dart.fss.or.kr/report/viewer.do?rcpNo=20091124000176&dcmNo=2461654&eleId=27&offset=1090438&length=24042&dtd=dart3.xsd	자산총계	2,635,070 	<span>2,158,695</span>	1,896,832 	1,511,693 	
+지역난방공사	http://dart.fss.or.kr/report/viewer.do?rcpNo=20091124000176&dcmNo=2461654&eleId=27&offset=1090438&length=24042&dtd=dart3.xsd	부채총계	1,897,742 	<span>1,415,895 </span>	1,167,093 	819,192 	
+지역난방공사	http://dart.fss.or.kr/report/viewer.do?rcpNo=20091124000176&dcmNo=2461654&eleId=27&offset=1090438&length=24042&dtd=dart3.xsd	자본총계	<span style="font-weight:normal;">737,328</span>	<span style="font-weight:normal;">742,800 </span>	729,739 	692,501 	
+지역난방공사	http://dart.fss.or.kr/report/viewer.do?rcpNo=20091124000176&dcmNo=2461654&eleId=27&offset=1090438&length=24042&dtd=dart3.xsd	연결당기순이익	<span style="font-weight:normal;">6,863</span>	16,334 	32,247 	28,746 	
+에이치디시에스	http://dart.fss.or.kr/report/viewer.do?rcpNo=20091222000213&dcmNo=2482158&eleId=27&offset=524701&length=24800&dtd=dart3.xsd	자산총계	76,962	71,716	67,011	41,766	28,399	16,884	
+에이치디시에스	http://dart.fss.or.kr/report/viewer.do?rcpNo=20091222000213&dcmNo=2482158&eleId=27&offset=524701&length=24800&dtd=dart3.xsd	부채총계	42,262	36,859	38,400	30,755	21,878	13,725	
+에이치디시에스	http://dart.fss.or.kr/report/viewer.do?rcpNo=20091222000213&dcmNo=2482158&eleId=27&offset=524701&length=24800&dtd=dart3.xsd	자본총계	34,699	34,856	28,610	11,010	6,520	3,158	
+모베이스	http://dart.fss.or.kr/report/viewer.do?rcpNo=20091218000078&dcmNo=2479536&eleId=27&offset=766503&length=32600&dtd=dart3.xsd	자산총계	72,503	61,259	44,554	49,922	33,694	
+모베이스	http://dart.fss.or.kr/report/viewer.do?rcpNo=20091218000078&dcmNo=2479536&eleId=27&offset=766503&length=32600&dtd=dart3.xsd	부채총계	32,872	29,278	22,158	31,065	24,668	
+모베이스	http://dart.fss.or.kr/report/viewer.do?rcpNo=20091218000078&dcmNo=2479536&eleId=27&offset=766503&length=32600&dtd=dart3.xsd	자본총계	39,631	31,981	22,396	18,857	9,026	
+에스이티아이	http://dart.fss.or.kr/report/viewer.do?rcpNo=20091214000269&dcmNo=2475722&eleId=27&offset=707700&length=16983&dtd=dart3.xsd	자산총계	         38,961 	  30,094 	  16,299 	   1,246 	
+에스이티아이	http://dart.fss.or.kr/report/viewer.do?rcpNo=20091214000269&dcmNo=2475722&eleId=27&offset=707700&length=16983&dtd=dart3.xsd	부채총계	         18,019 	  14,607 	  10,127 	        71 	
+에스이티아이	http://dart.fss.or.kr/report/viewer.do?rcpNo=20091214000269&dcmNo=2475722&eleId=27&offset=707700&length=16983&dtd=dart3.xsd	자본총계	         20,942 	  15,487 	   6,171 	   1,175 	
+에스이티아이	http://dart.fss.or.kr/report/viewer.do?rcpNo=20091214000269&dcmNo=2475722&eleId=27&offset=707700&length=16983&dtd=dart3.xsd	 매출액	         64,579 	  70,311 	  12,234 	        77 	
+에스이티아이	http://dart.fss.or.kr/report/viewer.do?rcpNo=20091214000269&dcmNo=2475722&eleId=27&offset=707700&length=16983&dtd=dart3.xsd	 영업이익(영업손실)	          8,093 	  11,123 	   2,050 	(-)497 	
+에스이티아이	http://dart.fss.or.kr/report/viewer.do?rcpNo=20091214000269&dcmNo=2475722&eleId=27&offset=707700&length=16983&dtd=dart3.xsd	 당기순이익(당기순손실)	          6,378 	  10,657 	   2,174 	(-)1,590 	
+차이나하오란	http://dart.fss.or.kr/report/viewer.do?rcpNo=20091214000304&dcmNo=2475863&eleId=27&offset=706833&length=375555&dtd=dart3.xsd	자산총계	489,109,710	451,096,002	515,957,840	501,583,949	507,077,619	
+차이나하오란	http://dart.fss.or.kr/report/viewer.do?rcpNo=20091214000304&dcmNo=2475863&eleId=27&offset=706833&length=375555&dtd=dart3.xsd	부채총계	265,143,682	302,241,743	397,818,355	360,273,005	416,863,271	
+차이나하오란	http://dart.fss.or.kr/report/viewer.do?rcpNo=20091214000304&dcmNo=2475863&eleId=27&offset=706833&length=375555&dtd=dart3.xsd	부채와 자본총계	489,109,710	451,096,002	515,957,840	501,583,949	507,077,619	
+차이나하오란	http://dart.fss.or.kr/report/viewer.do?rcpNo=20091214000304&dcmNo=2475863&eleId=27&offset=706833&length=375555&dtd=dart3.xsd	연결당기순이익	70,753,927	35,458,943	58,889,161	36,789,329	17,403,416	
+차이나하오란	http://dart.fss.or.kr/report/viewer.do?rcpNo=20091214000304&dcmNo=2475863&eleId=27&offset=706833&length=375555&dtd=dart3.xsd	자산총계	85,149,109,414	84,806,048,376	94,982,678,766	92,336,589,171	93,347,918,882	
+차이나하오란	http://dart.fss.or.kr/report/viewer.do?rcpNo=20091214000304&dcmNo=2475863&eleId=27&offset=706833&length=375555&dtd=dart3.xsd	부채총계	46,158,863,599	56,821,447,684	73,234,380,972	66,322,657,490	76,740,359,558	
+차이나하오란	http://dart.fss.or.kr/report/viewer.do?rcpNo=20091214000304&dcmNo=2475863&eleId=27&offset=706833&length=375555&dtd=dart3.xsd	부채와 자본총계	85,149,109,414	84,806,048,376	94,982,678,766	92,336,589,171	93,347,918,882	
+차이나하오란	http://dart.fss.or.kr/report/viewer.do?rcpNo=20091214000304&dcmNo=2475863&eleId=27&offset=706833&length=375555&dtd=dart3.xsd	연결당기순이익	12,317,551,151	6,666,281,284	10,840,905,648	6,772,547,576	3,203,794,851	
+차이나하오란	http://dart.fss.or.kr/report/viewer.do?rcpNo=20091214000304&dcmNo=2475863&eleId=27&offset=706833&length=375555&dtd=dart3.xsd	자산총계	489,109,710	451,096,002	515,957,840	501,583,949	507,077,619	
+차이나하오란	http://dart.fss.or.kr/report/viewer.do?rcpNo=20091214000304&dcmNo=2475863&eleId=27&offset=706833&length=375555&dtd=dart3.xsd	부채총계	265,143,682	302,241,743	397,818,355	360,273,005	416,863,271	
+차이나하오란	http://dart.fss.or.kr/report/viewer.do?rcpNo=20091214000304&dcmNo=2475863&eleId=27&offset=706833&length=375555&dtd=dart3.xsd	부채와 자본총계	489,109,710	451,096,002	515,957,840	501,583,949	507,077,619	
+차이나하오란	http://dart.fss.or.kr/report/viewer.do?rcpNo=20091214000304&dcmNo=2475863&eleId=27&offset=706833&length=375555&dtd=dart3.xsd	연결당기순이익	70,753,927	35,458,943	58,889,161	36,789,329	17,403,416	
+차이나하오란	http://dart.fss.or.kr/report/viewer.do?rcpNo=20091214000304&dcmNo=2475863&eleId=27&offset=706833&length=375555&dtd=dart3.xsd	자산총계	85,149,109,414	84,806,048,376	94,982,678,766	92,336,589,171	93,347,918,882	
+차이나하오란	http://dart.fss.or.kr/report/viewer.do?rcpNo=20091214000304&dcmNo=2475863&eleId=27&offset=706833&length=375555&dtd=dart3.xsd	부채총계	46,158,863,599	56,821,447,684	73,234,380,972	66,322,657,490	76,740,359,558	
+차이나하오란	http://dart.fss.or.kr/report/viewer.do?rcpNo=20091214000304&dcmNo=2475863&eleId=27&offset=706833&length=375555&dtd=dart3.xsd	부채와 자본총계	85,149,109,414	84,806,048,376	94,982,678,766	92,336,589,171	93,347,918,882	
+차이나하오란	http://dart.fss.or.kr/report/viewer.do?rcpNo=20091214000304&dcmNo=2475863&eleId=27&offset=706833&length=375555&dtd=dart3.xsd	연결당기순이익	12,317,551,151	6,666,281,284	10,840,905,648	6,772,547,576	3,203,794,851	
+차이나하오란	http://dart.fss.or.kr/report/viewer.do?rcpNo=20091214000304&dcmNo=2475863&eleId=27&offset=706833&length=375555&dtd=dart3.xsd	자산총계	39,938,806	7,251,689,006	
+차이나하오란	http://dart.fss.or.kr/report/viewer.do?rcpNo=20091214000304&dcmNo=2475863&eleId=27&offset=706833&length=375555&dtd=dart3.xsd	자본총계	39,938,806	7,251,689,006	
+차이나하오란	http://dart.fss.or.kr/report/viewer.do?rcpNo=20091214000304&dcmNo=2475863&eleId=27&offset=706833&length=375555&dtd=dart3.xsd	부채와 자본총계	39,938,806	7,251,689,006	
+차이나하오란	http://dart.fss.or.kr/report/viewer.do?rcpNo=20091214000304&dcmNo=2475863&eleId=27&offset=706833&length=375555&dtd=dart3.xsd	자산총계	88,370	84,927	82,178	10	
+차이나하오란	http://dart.fss.or.kr/report/viewer.do?rcpNo=20091214000304&dcmNo=2475863&eleId=27&offset=706833&length=375555&dtd=dart3.xsd	부채총계	78,106	72,996	71,541	10	
+차이나하오란	http://dart.fss.or.kr/report/viewer.do?rcpNo=20091214000304&dcmNo=2475863&eleId=27&offset=706833&length=375555&dtd=dart3.xsd	자본총계	10,265	11,930	10,637	-1	
+차이나하오란	http://dart.fss.or.kr/report/viewer.do?rcpNo=20091214000304&dcmNo=2475863&eleId=27&offset=706833&length=375555&dtd=dart3.xsd	부채 및 자본 총계	88,370	84,927	82,178	10	
+차이나하오란	http://dart.fss.or.kr/report/viewer.do?rcpNo=20091214000304&dcmNo=2475863&eleId=27&offset=706833&length=375555&dtd=dart3.xsd	자산총계	16,613,560	15,634,211	15,128,148	1,841	
+차이나하오란	http://dart.fss.or.kr/report/viewer.do?rcpNo=20091214000304&dcmNo=2475863&eleId=27&offset=706833&length=375555&dtd=dart3.xsd	부채총계	14,683,928	13,437,834	13,169,983	1,841	
+차이나하오란	http://dart.fss.or.kr/report/viewer.do?rcpNo=20091214000304&dcmNo=2475863&eleId=27&offset=706833&length=375555&dtd=dart3.xsd	자본총계	1,929,820	2,196,194	1,958,165	-184	
+차이나하오란	http://dart.fss.or.kr/report/viewer.do?rcpNo=20091214000304&dcmNo=2475863&eleId=27&offset=706833&length=375555&dtd=dart3.xsd	부채 및 자본 총계	16,613,560	15,634,211	15,128,148	1,841	
+차이나하오란	http://dart.fss.or.kr/report/viewer.do?rcpNo=20091214000304&dcmNo=2475863&eleId=27&offset=706833&length=375555&dtd=dart3.xsd	유동자산총계	261,978	372,967	293,713	264,129	
+차이나하오란	http://dart.fss.or.kr/report/viewer.do?rcpNo=20091214000304&dcmNo=2475863&eleId=27&offset=706833&length=375555&dtd=dart3.xsd	비유동자산총계	216,463	191,738	247,806	242,939	
+차이나하오란	http://dart.fss.or.kr/report/viewer.do?rcpNo=20091214000304&dcmNo=2475863&eleId=27&offset=706833&length=375555&dtd=dart3.xsd	자산총계	478,442	564,705	541,518	507,067	
+차이나하오란	http://dart.fss.or.kr/report/viewer.do?rcpNo=20091214000304&dcmNo=2475863&eleId=27&offset=706833&length=375555&dtd=dart3.xsd	유동부채총계	243,052	329,516	266,187	366,254	
+차이나하오란	http://dart.fss.or.kr/report/viewer.do?rcpNo=20091214000304&dcmNo=2475863&eleId=27&offset=706833&length=375555&dtd=dart3.xsd	비유동부채총계	35,713	58,490	64,000	50,599	
+차이나하오란	http://dart.fss.or.kr/report/viewer.do?rcpNo=20091214000304&dcmNo=2475863&eleId=27&offset=706833&length=375555&dtd=dart3.xsd	부채총계	278,765	388,006	330,187	416,853	
+차이나하오란	http://dart.fss.or.kr/report/viewer.do?rcpNo=20091214000304&dcmNo=2475863&eleId=27&offset=706833&length=375555&dtd=dart3.xsd	자본총계	199,677	176,699	211,331	90,213	
+차이나하오란	http://dart.fss.or.kr/report/viewer.do?rcpNo=20091214000304&dcmNo=2475863&eleId=27&offset=706833&length=375555&dtd=dart3.xsd	부채 및 자본 총계	478,442	564,705	541,518	507,067	
+차이나하오란	http://dart.fss.or.kr/report/viewer.do?rcpNo=20091214000304&dcmNo=2475863&eleId=27&offset=706833&length=375555&dtd=dart3.xsd	유동자산총계	49,251,903	68,659,567	54,069,542	48,623,485	
+차이나하오란	http://dart.fss.or.kr/report/viewer.do?rcpNo=20091214000304&dcmNo=2475863&eleId=27&offset=706833&length=375555&dtd=dart3.xsd	비유동자산총계	40,695,131	35,296,962	45,618,597	44,722,550	
+차이나하오란	http://dart.fss.or.kr/report/viewer.do?rcpNo=20091214000304&dcmNo=2475863&eleId=27&offset=706833&length=375555&dtd=dart3.xsd	자산총계	89,947,096	103,956,543	99,688,049	93,345,964	
+차이나하오란	http://dart.fss.or.kr/report/viewer.do?rcpNo=20091214000304&dcmNo=2475863&eleId=27&offset=706833&length=375555&dtd=dart3.xsd	유동부채총계	45,693,763	60,660,668	49,002,376	67,423,733	
+차이나하오란	http://dart.fss.or.kr/report/viewer.do?rcpNo=20091214000304&dcmNo=2475863&eleId=27&offset=706833&length=375555&dtd=dart3.xsd	비유동부채총계	6,714,028	10,767,424	11,781,760	9,314,770	
+차이나하오란	http://dart.fss.or.kr/report/viewer.do?rcpNo=20091214000304&dcmNo=2475863&eleId=27&offset=706833&length=375555&dtd=dart3.xsd	부채총계	52,407,820	71,428,025	60,784,125	76,738,469	
+차이나하오란	http://dart.fss.or.kr/report/viewer.do?rcpNo=20091214000304&dcmNo=2475863&eleId=27&offset=706833&length=375555&dtd=dart3.xsd	자본총계	37,539,276	32,528,519	38,903,924	16,607,311	
+차이나하오란	http://dart.fss.or.kr/report/viewer.do?rcpNo=20091214000304&dcmNo=2475863&eleId=27&offset=706833&length=375555&dtd=dart3.xsd	부채 및 자본 총계	89,947,096	103,956,543	99,688,049	93,345,964	
+차이나하오란	http://dart.fss.or.kr/report/viewer.do?rcpNo=20091214000304&dcmNo=2475863&eleId=27&offset=706833&length=375555&dtd=dart3.xsd	유동자산총계	90,257	46,398	21,178	<br/>	
+차이나하오란	http://dart.fss.or.kr/report/viewer.do?rcpNo=20091214000304&dcmNo=2475863&eleId=27&offset=706833&length=375555&dtd=dart3.xsd	비유동자산총계	1,154	1,189	239	<br/>	
+차이나하오란	http://dart.fss.or.kr/report/viewer.do?rcpNo=20091214000304&dcmNo=2475863&eleId=27&offset=706833&length=375555&dtd=dart3.xsd	자산총계	91,411	47,586	21,417	<br/>	
+차이나하오란	http://dart.fss.or.kr/report/viewer.do?rcpNo=20091214000304&dcmNo=2475863&eleId=27&offset=706833&length=375555&dtd=dart3.xsd	유동부채총계	     16,498 	        26,500 	      10,613 	<br/>	
+차이나하오란	http://dart.fss.or.kr/report/viewer.do?rcpNo=20091214000304&dcmNo=2475863&eleId=27&offset=706833&length=375555&dtd=dart3.xsd	비유동부채총계	<br/>	<br/>	<br/>	<br/>	
+차이나하오란	http://dart.fss.or.kr/report/viewer.do?rcpNo=20091214000304&dcmNo=2475863&eleId=27&offset=706833&length=375555&dtd=dart3.xsd	부채총계	16,498	26,500	10,613	<br/>	
+차이나하오란	http://dart.fss.or.kr/report/viewer.do?rcpNo=20091214000304&dcmNo=2475863&eleId=27&offset=706833&length=375555&dtd=dart3.xsd	자본총계	74,913	21,086	10,804	<br/>	
+차이나하오란	http://dart.fss.or.kr/report/viewer.do?rcpNo=20091214000304&dcmNo=2475863&eleId=27&offset=706833&length=375555&dtd=dart3.xsd	부채 및 자본 총계	91,411	47,586	21,417	<br/>	
+차이나하오란	http://dart.fss.or.kr/report/viewer.do?rcpNo=20091214000304&dcmNo=2475863&eleId=27&offset=706833&length=375555&dtd=dart3.xsd	유동자산총계	 16,968,230 	  8,541,408 	   3,898,658 	<br/>	
+차이나하오란	http://dart.fss.or.kr/report/viewer.do?rcpNo=20091214000304&dcmNo=2475863&eleId=27&offset=706833&length=375555&dtd=dart3.xsd	비유동자산총계	  216,945 	  218,834 	  43,998 	<br/>	
+차이나하오란	http://dart.fss.or.kr/report/viewer.do?rcpNo=20091214000304&dcmNo=2475863&eleId=27&offset=706833&length=375555&dtd=dart3.xsd	자산총계	 17,185,268 	  8,760,107 	  3,942,656 	<br/>	
+차이나하오란	http://dart.fss.or.kr/report/viewer.do?rcpNo=20091214000304&dcmNo=2475863&eleId=27&offset=706833&length=375555&dtd=dart3.xsd	유동부채총계	 3,101,568 	  4,878,459 	   1,953,821 	<br/>	
+차이나하오란	http://dart.fss.or.kr/report/viewer.do?rcpNo=20091214000304&dcmNo=2475863&eleId=27&offset=706833&length=375555&dtd=dart3.xsd	비유동부채총계	<br/>	<br/>	<br/>	<br/>	
+차이나하오란	http://dart.fss.or.kr/report/viewer.do?rcpNo=20091214000304&dcmNo=2475863&eleId=27&offset=706833&length=375555&dtd=dart3.xsd	부채총계	   3,101,624 	   4,878,385 	  1,953,747 	<br/>	
+차이나하오란	http://dart.fss.or.kr/report/viewer.do?rcpNo=20091214000304&dcmNo=2475863&eleId=27&offset=706833&length=375555&dtd=dart3.xsd	자본총계	    14,083,644 	    3,881,722 	   1,988,908 	<br/>	
+차이나하오란	http://dart.fss.or.kr/report/viewer.do?rcpNo=20091214000304&dcmNo=2475863&eleId=27&offset=706833&length=375555&dtd=dart3.xsd	부채 및 자본 총계	  17,185,268 	  8,760,107 	   3,942,656 	<br/>	
+차이나하오란	http://dart.fss.or.kr/report/viewer.do?rcpNo=20091214000304&dcmNo=2475863&eleId=27&offset=706833&length=375555&dtd=dart3.xsd	Profit for the year (당기순이익)	　	　	-0.61	-0.61	
+차이나하오란	http://dart.fss.or.kr/report/viewer.do?rcpNo=20091214000304&dcmNo=2475863&eleId=27&offset=706833&length=375555&dtd=dart3.xsd	Profit for the year (당기순이익)	　	　	630	630	
+차이나하오란	http://dart.fss.or.kr/report/viewer.do?rcpNo=20091214000304&dcmNo=2475863&eleId=27&offset=706833&length=375555&dtd=dart3.xsd	Profit for the year (당기순이익)	　	　	1,294	1,294	
+차이나하오란	http://dart.fss.or.kr/report/viewer.do?rcpNo=20091214000304&dcmNo=2475863&eleId=27&offset=706833&length=375555&dtd=dart3.xsd	Profit for the period(당기순이익)	　	　	-1,666	-1,666	
+차이나하오란	http://dart.fss.or.kr/report/viewer.do?rcpNo=20091214000304&dcmNo=2475863&eleId=27&offset=706833&length=375555&dtd=dart3.xsd	Profit for the year (당기순이익)	0	0	-112	-112	
+차이나하오란	http://dart.fss.or.kr/report/viewer.do?rcpNo=20091214000304&dcmNo=2475863&eleId=27&offset=706833&length=375555&dtd=dart3.xsd	Profit for the year (당기순이익)	0	0	115,977	115,977	
+차이나하오란	http://dart.fss.or.kr/report/viewer.do?rcpNo=20091214000304&dcmNo=2475863&eleId=27&offset=706833&length=375555&dtd=dart3.xsd	Profit for the year (당기순이익)	0	0	238,212	238,212	
+차이나하오란	http://dart.fss.or.kr/report/viewer.do?rcpNo=20091214000304&dcmNo=2475863&eleId=27&offset=706833&length=375555&dtd=dart3.xsd	Profit for the period(당기순이익)	0	0	-306,694	-306,694	
+차이나하오란	http://dart.fss.or.kr/report/viewer.do?rcpNo=20091214000304&dcmNo=2475863&eleId=27&offset=706833&length=375555&dtd=dart3.xsd	Profit for the year (당기순이익)	　	　	17,404	17,404	
+차이나하오란	http://dart.fss.or.kr/report/viewer.do?rcpNo=20091214000304&dcmNo=2475863&eleId=27&offset=706833&length=375555&dtd=dart3.xsd	Profit for the year (당기순이익)	　	　	35,355	35,355	
+차이나하오란	http://dart.fss.or.kr/report/viewer.do?rcpNo=20091214000304&dcmNo=2475863&eleId=27&offset=706833&length=375555&dtd=dart3.xsd	Profit for the year (당기순이익)	　	　	47,689	47,689	
+차이나하오란	http://dart.fss.or.kr/report/viewer.do?rcpNo=20091214000304&dcmNo=2475863&eleId=27&offset=706833&length=375555&dtd=dart3.xsd	Profit for the period(당기순이익)	　	　	22,978	22,978	
+차이나하오란	http://dart.fss.or.kr/report/viewer.do?rcpNo=20091214000304&dcmNo=2475863&eleId=27&offset=706833&length=375555&dtd=dart3.xsd	Profit for the year (당기순이익)	　	　	3,203,907	3,203,907	
+차이나하오란	http://dart.fss.or.kr/report/viewer.do?rcpNo=20091214000304&dcmNo=2475863&eleId=27&offset=706833&length=375555&dtd=dart3.xsd	Profit for the year (당기순이익)	　	　	6,508,547	6,508,547	
+차이나하오란	http://dart.fss.or.kr/report/viewer.do?rcpNo=20091214000304&dcmNo=2475863&eleId=27&offset=706833&length=375555&dtd=dart3.xsd	Profit for the year (당기순이익)	　	　	8,779,064	8,779,064	
+차이나하오란	http://dart.fss.or.kr/report/viewer.do?rcpNo=20091214000304&dcmNo=2475863&eleId=27&offset=706833&length=375555&dtd=dart3.xsd	Profit for the period(당기순이익)	　	　	4,230,071	4,230,071	
+차이나하오란	http://dart.fss.or.kr/report/viewer.do?rcpNo=20091214000304&dcmNo=2475863&eleId=27&offset=706833&length=375555&dtd=dart3.xsd	Profit for the year (당기순이익)	　	　	-	-	
+차이나하오란	http://dart.fss.or.kr/report/viewer.do?rcpNo=20091214000304&dcmNo=2475863&eleId=27&offset=706833&length=375555&dtd=dart3.xsd	Profit for the year (당기순이익)	　	　	804	804	
+차이나하오란	http://dart.fss.or.kr/report/viewer.do?rcpNo=20091214000304&dcmNo=2475863&eleId=27&offset=706833&length=375555&dtd=dart3.xsd	Profit for the year (당기순이익)	　	　	10,282	10,282	
+차이나하오란	http://dart.fss.or.kr/report/viewer.do?rcpNo=20091214000304&dcmNo=2475863&eleId=27&offset=706833&length=375555&dtd=dart3.xsd	Profit for the period(당기순이익)	　	　	13,827	13,827	
+차이나하오란	http://dart.fss.or.kr/report/viewer.do?rcpNo=20091214000304&dcmNo=2475863&eleId=27&offset=706833&length=375555&dtd=dart3.xsd	Profit for the year (당기순이익)	　	　	148,008	148,008	
+차이나하오란	http://dart.fss.or.kr/report/viewer.do?rcpNo=20091214000304&dcmNo=2475863&eleId=27&offset=706833&length=375555&dtd=dart3.xsd	Profit for the year (당기순이익)	　	　	1,892,813	1,892,813	
+차이나하오란	http://dart.fss.or.kr/report/viewer.do?rcpNo=20091214000304&dcmNo=2475863&eleId=27&offset=706833&length=375555&dtd=dart3.xsd	Profit for the period(당기순이익)	0	0	2,545,412	2,545,412	
+하이소닉	http://dart.fss.or.kr/report/viewer.do?rcpNo=20091222000244&dcmNo=2482272&eleId=27&offset=530380&length=27856&dtd=dart3.xsd	자산총계	24,851	18,617	11,308	12,939	8,417	
+하이소닉	http://dart.fss.or.kr/report/viewer.do?rcpNo=20091222000244&dcmNo=2482272&eleId=27&offset=530380&length=27856&dtd=dart3.xsd	부채총계	9,167	9,665	9,269	11,080	8,840	
+하이소닉	http://dart.fss.or.kr/report/viewer.do?rcpNo=20091222000244&dcmNo=2482272&eleId=27&offset=530380&length=27856&dtd=dart3.xsd	자본총계	15,684	8,952	2,039	1,859	(423)	
+인포바인	http://dart.fss.or.kr/report/viewer.do?rcpNo=20091224000105&dcmNo=2483847&eleId=27&offset=380080&length=25926&dtd=dart3.xsd	자산총계	16,116	10,742	5,898	3,233	3,389	
+인포바인	http://dart.fss.or.kr/report/viewer.do?rcpNo=20091224000105&dcmNo=2483847&eleId=27&offset=380080&length=25926&dtd=dart3.xsd	부채총계	3,285	2,790	1,565	974	1,341	
+인포바인	http://dart.fss.or.kr/report/viewer.do?rcpNo=20091224000105&dcmNo=2483847&eleId=27&offset=380080&length=25926&dtd=dart3.xsd	자본총계	12,831	7,952	4,333	2,259	2,048	
+이미지스	http://dart.fss.or.kr/report/viewer.do?rcpNo=20091222000202&dcmNo=2482115&eleId=27&offset=559603&length=27203&dtd=dart3.xsd	자산총계	2,514,903	4,436,477	5,105,997	9,008,716	12,326,038	
+이미지스	http://dart.fss.or.kr/report/viewer.do?rcpNo=20091222000202&dcmNo=2482115&eleId=27&offset=559603&length=27203&dtd=dart3.xsd	부채총계	537,742	635,898	445,882	1,211,260	995,541	
+이미지스	http://dart.fss.or.kr/report/viewer.do?rcpNo=20091222000202&dcmNo=2482115&eleId=27&offset=559603&length=27203&dtd=dart3.xsd	자본총계	1,977,160	3,800,579	4,660,115	7,797,456	11,330,497	
+대한생명	http://dart.fss.or.kr/report/viewer.do?rcpNo=20100211000276&dcmNo=2521561&eleId=27&offset=1388512&length=28280&dtd=dart3.xsd	자산총계	56,517,090	52,596,923	49,495,140	45,159,412	40,467,939	36,798,301	
+대한생명	http://dart.fss.or.kr/report/viewer.do?rcpNo=20100211000276&dcmNo=2521561&eleId=27&offset=1388512&length=28280&dtd=dart3.xsd	부채총계	52,386,700	48,995,728	45,850,145	41,704,938	37,354,566	33,958,798	
+대한생명	http://dart.fss.or.kr/report/viewer.do?rcpNo=20100211000276&dcmNo=2521561&eleId=27&offset=1388512&length=28280&dtd=dart3.xsd	자본총계	4,130,390	3,601,195	3,644,995	3,454,474	3,113,374	2,839,503	
+대한생명	http://dart.fss.or.kr/report/viewer.do?rcpNo=20100211000276&dcmNo=2521561&eleId=27&offset=1388512&length=28280&dtd=dart3.xsd	자산총계	54,191,876	50,912,166	46,380,062	41,597,710	37,859,490	
+대한생명	http://dart.fss.or.kr/report/viewer.do?rcpNo=20100211000276&dcmNo=2521561&eleId=27&offset=1388512&length=28280&dtd=dart3.xsd	부채총계	50,533,886	47,206,458	42,888,637	38,465,325	34,997,856	
+대한생명	http://dart.fss.or.kr/report/viewer.do?rcpNo=20100211000276&dcmNo=2521561&eleId=27&offset=1388512&length=28280&dtd=dart3.xsd	자본총계	3,657,991	3,705,708	3,491,425	3,132,386	2,861,634	
+디지탈아리아	http://dart.fss.or.kr/report/viewer.do?rcpNo=20100222000129&dcmNo=2528975&eleId=27&offset=559552&length=28985&dtd=dart3.xsd	자산총계	21,074,666	16,007,518	11,686,084	9,115,850	4,169,599	
+디지탈아리아	http://dart.fss.or.kr/report/viewer.do?rcpNo=20100222000129&dcmNo=2528975&eleId=27&offset=559552&length=28985&dtd=dart3.xsd	부채총계	6,289,277	3,544,600	1,174,401	1,403,343	1,417,696	
+디지탈아리아	http://dart.fss.or.kr/report/viewer.do?rcpNo=20100222000129&dcmNo=2528975&eleId=27&offset=559552&length=28985&dtd=dart3.xsd	자본총계	14,785,389	12,462,918	10,511,683	7,712,507	2,751,903	
+차이나킹	http://dart.fss.or.kr/report/viewer.do?rcpNo=20100226001000&dcmNo=2536938&eleId=27&offset=566747&length=48377&dtd=dart3.xsd	자산총계	534,572	440,669	397,890	232,989	
+차이나킹	http://dart.fss.or.kr/report/viewer.do?rcpNo=20100226001000&dcmNo=2536938&eleId=27&offset=566747&length=48377&dtd=dart3.xsd	자본총계	380,462	294,249	114,392	32,742	
+차이나킹	http://dart.fss.or.kr/report/viewer.do?rcpNo=20100226001000&dcmNo=2536938&eleId=27&offset=566747&length=48377&dtd=dart3.xsd	부채총계	154,110	146,420	283,498	200,247	
+차이나킹	http://dart.fss.or.kr/report/viewer.do?rcpNo=20100226001000&dcmNo=2536938&eleId=27&offset=566747&length=48377&dtd=dart3.xsd	자산총계	91,443,886	75,380,839	68,063,063	39,855,098	
+차이나킹	http://dart.fss.or.kr/report/viewer.do?rcpNo=20100226001000&dcmNo=2536938&eleId=27&offset=566747&length=48377&dtd=dart3.xsd	자본총계	65,081,830	50,334,234	19,567,896	5,600,847	
+차이나킹	http://dart.fss.or.kr/report/viewer.do?rcpNo=20100226001000&dcmNo=2536938&eleId=27&offset=566747&length=48377&dtd=dart3.xsd	부채총계	26,362,057	25,046,605	48,495,168	34,254,252	
+케이씨에스	http://dart.fss.or.kr/report/viewer.do?rcpNo=20100311000920&dcmNo=2551454&eleId=27&offset=1004401&length=37887&dtd=dart3.xsd	자산총계	18,921	15,163	17,860	9,762	9,531	
+케이씨에스	http://dart.fss.or.kr/report/viewer.do?rcpNo=20100311000920&dcmNo=2551454&eleId=27&offset=1004401&length=37887&dtd=dart3.xsd	부채총계	7,551	4,863	8,421	3,759	3,983	
+케이씨에스	http://dart.fss.or.kr/report/viewer.do?rcpNo=20100311000920&dcmNo=2551454&eleId=27&offset=1004401&length=37887&dtd=dart3.xsd	자본총계	11,370	10,300	9,439	6,003	5,548	
+케이씨에스	http://dart.fss.or.kr/report/viewer.do?rcpNo=20100311000920&dcmNo=2551454&eleId=27&offset=1004401&length=37887&dtd=dart3.xsd	자산총계	￦        1,886,090 	부의영업권	￦         590,272 	
+뉴프라이드	http://dart.fss.or.kr/report/viewer.do?rcpNo=20100317000132&dcmNo=2559113&eleId=27&offset=442028&length=15745&dtd=dart3.xsd	자산총계	23,091,146	27,356,426	19,474,542	
+뉴프라이드	http://dart.fss.or.kr/report/viewer.do?rcpNo=20100317000132&dcmNo=2559113&eleId=27&offset=442028&length=15745&dtd=dart3.xsd	부채총계	13,338,336	22,293,578	15,406,592	
+뉴프라이드	http://dart.fss.or.kr/report/viewer.do?rcpNo=20100317000132&dcmNo=2559113&eleId=27&offset=442028&length=15745&dtd=dart3.xsd	자본총계	9,752,810	5,062,848	4,067,950	
+뉴프라이드	http://dart.fss.or.kr/report/viewer.do?rcpNo=20100317000132&dcmNo=2559113&eleId=27&offset=442028&length=15745&dtd=dart3.xsd	자산총계	26,961	34,401	24,489	
+뉴프라이드	http://dart.fss.or.kr/report/viewer.do?rcpNo=20100317000132&dcmNo=2559113&eleId=27&offset=442028&length=15745&dtd=dart3.xsd	부채총계	15,574	28,034	19,374	
+뉴프라이드	http://dart.fss.or.kr/report/viewer.do?rcpNo=20100317000132&dcmNo=2559113&eleId=27&offset=442028&length=15745&dtd=dart3.xsd	자본총계	11,387	6,367	5,115	
+동아체육용품	http://dart.fss.or.kr/report/viewer.do?rcpNo=20100319000763&dcmNo=2565144&eleId=27&offset=713232&length=46561&dtd=dart3.xsd	자산총계	345,128,369	403,826,073	344,073,323	104,858,867	
+동아체육용품	http://dart.fss.or.kr/report/viewer.do?rcpNo=20100319000763&dcmNo=2565144&eleId=27&offset=713232&length=46561&dtd=dart3.xsd	부채총계	133,890,808	255,635,821	243,629,446	92,730,066	
+동아체육용품	http://dart.fss.or.kr/report/viewer.do?rcpNo=20100319000763&dcmNo=2565144&eleId=27&offset=713232&length=46561&dtd=dart3.xsd	자본총계	211,237,561	148,190,252	100,443,877	12,128,801	
+동아체육용품	http://dart.fss.or.kr/report/viewer.do?rcpNo=20100319000763&dcmNo=2565144&eleId=27&offset=713232&length=46561&dtd=dart3.xsd	자산총계	59,037,658,801	69,078,488,047	58,857,182,632	17,937,157,789	
+동아체육용품	http://dart.fss.or.kr/report/viewer.do?rcpNo=20100319000763&dcmNo=2565144&eleId=27&offset=713232&length=46561&dtd=dart3.xsd	부채총계	22,903,361,616	43,729,063,540	41,675,253,033	15,862,405,090	
+동아체육용품	http://dart.fss.or.kr/report/viewer.do?rcpNo=20100319000763&dcmNo=2565144&eleId=27&offset=713232&length=46561&dtd=dart3.xsd	자본총계	36,134,297,185	25,349,424,507	17,181,929,600	2,074,752,699	
+삼성생명	http://dart.fss.or.kr/report/viewer.do?rcpNo=20100331001531&dcmNo=2590785&eleId=27&offset=1366088&length=31052&dtd=dart3.xsd	자산총계	130,732,089	121,667,478	116,363,261	108,168,604	99,251,733	
+삼성생명	http://dart.fss.or.kr/report/viewer.do?rcpNo=20100331001531&dcmNo=2590785&eleId=27&offset=1366088&length=31052&dtd=dart3.xsd	부채총계	119,881,381	114,236,961	106,999,088	99,414,219	91,001,846	
+삼성생명	http://dart.fss.or.kr/report/viewer.do?rcpNo=20100331001531&dcmNo=2590785&eleId=27&offset=1366088&length=31052&dtd=dart3.xsd	자본총계	10,850,708	7,430,517	9,364,173	8,754,385	8,249,887	
+삼성생명	http://dart.fss.or.kr/report/viewer.do?rcpNo=20100331001531&dcmNo=2590785&eleId=27&offset=1366088&length=31052&dtd=dart3.xsd	자산총계	121,778,582	116,414,760	108,214,387	99,297,012	90,630,242	
+삼성생명	http://dart.fss.or.kr/report/viewer.do?rcpNo=20100331001531&dcmNo=2590785&eleId=27&offset=1366088&length=31052&dtd=dart3.xsd	부채총계	114,283,558	107,017,296	99,429,665	91,019,085	82,358,489	
+삼성생명	http://dart.fss.or.kr/report/viewer.do?rcpNo=20100331001531&dcmNo=2590785&eleId=27&offset=1366088&length=31052&dtd=dart3.xsd	자본총계	7,495,024	9,397,464	8,784,722	8,277,927	8,271,753	
+삼성생명	http://dart.fss.or.kr/report/viewer.do?rcpNo=20100331001531&dcmNo=2590785&eleId=27&offset=1366088&length=31052&dtd=dart3.xsd	연결당기순이익	113,990	719,003	518,356	626,964	580,186	
+만도	http://dart.fss.or.kr/report/viewer.do?rcpNo=20100416000329&dcmNo=2633313&eleId=27&offset=871733&length=26149&dtd=dart3.xsd	자산총계	1,709,520 	1,572,831 	1,438,001 	1,410,525 	1,374,622 	
+만도	http://dart.fss.or.kr/report/viewer.do?rcpNo=20100416000329&dcmNo=2633313&eleId=27&offset=871733&length=26149&dtd=dart3.xsd	부채총계	837,905 	799,863 	868,736 	914,905 	886,230 	
+만도	http://dart.fss.or.kr/report/viewer.do?rcpNo=20100416000329&dcmNo=2633313&eleId=27&offset=871733&length=26149&dtd=dart3.xsd	자본총계	871,615 	772,968 	569,264 	495,620 	488,392 	
+만도	http://dart.fss.or.kr/report/viewer.do?rcpNo=20100416000329&dcmNo=2633313&eleId=27&offset=871733&length=26149&dtd=dart3.xsd	 매출액	1,512,520 	1,574,800 	1,674,378 	1,582,265 	1,626,850 	
+만도	http://dart.fss.or.kr/report/viewer.do?rcpNo=20100416000329&dcmNo=2633313&eleId=27&offset=871733&length=26149&dtd=dart3.xsd	 영업이익	68,589 	24,829 	68,737 	86,973 	159,518 	
+만도	http://dart.fss.or.kr/report/viewer.do?rcpNo=20100416000329&dcmNo=2633313&eleId=27&offset=871733&length=26149&dtd=dart3.xsd	 당기순이익	107,413 	41,273 	121,977 	82,868 	130,822 	
+만도	http://dart.fss.or.kr/report/viewer.do?rcpNo=20100416000329&dcmNo=2633313&eleId=27&offset=871733&length=26149&dtd=dart3.xsd	자산총계	2,213,938 	2,026,582 	1,748,912 	1,648,485 	1,517,218 	
+만도	http://dart.fss.or.kr/report/viewer.do?rcpNo=20100416000329&dcmNo=2633313&eleId=27&offset=871733&length=26149&dtd=dart3.xsd	부채총계	1,323,058 	1,246,917 	1,172,776 	1,142,703 	1,024,545 	
+만도	http://dart.fss.or.kr/report/viewer.do?rcpNo=20100416000329&dcmNo=2633313&eleId=27&offset=871733&length=26149&dtd=dart3.xsd	자본총계	890,880 	779,665 	576,136 	505,782 	492,673 	
+만도	http://dart.fss.or.kr/report/viewer.do?rcpNo=20100416000329&dcmNo=2633313&eleId=27&offset=871733&length=26149&dtd=dart3.xsd	 매출액	2,727,080 	2,425,210 	2,222,615 	1,866,019 	1,805,027 	
+만도	http://dart.fss.or.kr/report/viewer.do?rcpNo=20100416000329&dcmNo=2633313&eleId=27&offset=871733&length=26149&dtd=dart3.xsd	 영업이익	176,837 	63,722 	112,182 	94,180 	162,429 	
+만도	http://dart.fss.or.kr/report/viewer.do?rcpNo=20100416000329&dcmNo=2633313&eleId=27&offset=871733&length=26149&dtd=dart3.xsd	 당기순이익	109,096 	39,915 	118,563 	83,662 	136,443 	
+모바일리더	http://dart.fss.or.kr/report/viewer.do?rcpNo=20100416000110&dcmNo=2632613&eleId=27&offset=410741&length=21518&dtd=dart3.xsd	자산총계	14,766	10,765	8,405	3,800	2,813	
+모바일리더	http://dart.fss.or.kr/report/viewer.do?rcpNo=20100416000110&dcmNo=2632613&eleId=27&offset=410741&length=21518&dtd=dart3.xsd	부채총계	1,456	901	1,051	489	329	
+모바일리더	http://dart.fss.or.kr/report/viewer.do?rcpNo=20100416000110&dcmNo=2632613&eleId=27&offset=410741&length=21518&dtd=dart3.xsd	자본총계	13,310	9,864	7,354	3,311	2,484	
+인피니트헬스케어	http://dart.fss.or.kr/report/viewer.do?rcpNo=20100419000341&dcmNo=2634396&eleId=27&offset=866741&length=20192&dtd=dart3.xsd	자산총계	50,295,409,239	   45,635,334,351 	   44,612,301,199 	
+인피니트헬스케어	http://dart.fss.or.kr/report/viewer.do?rcpNo=20100419000341&dcmNo=2634396&eleId=27&offset=866741&length=20192&dtd=dart3.xsd	부채총계	20,301,851,797	   19,447,863,149 	   21,696,224,818 	
+투비소프트	http://dart.fss.or.kr/report/viewer.do?rcpNo=20100421000203&dcmNo=2635925&eleId=27&offset=354500&length=23429&dtd=dart3.xsd	자산총계	13,062	12,510	9,217	7,897	4,162	
+투비소프트	http://dart.fss.or.kr/report/viewer.do?rcpNo=20100421000203&dcmNo=2635925&eleId=27&offset=354500&length=23429&dtd=dart3.xsd	부채총계	3,587	5,178	3,478	2,644	1,660	
+투비소프트	http://dart.fss.or.kr/report/viewer.do?rcpNo=20100421000203&dcmNo=2635925&eleId=27&offset=354500&length=23429&dtd=dart3.xsd	자본총계	9,475	7,332	5,739	5,253	2,502	
+실리콘웍스	http://dart.fss.or.kr/report/viewer.do?rcpNo=20100423000768&dcmNo=2639830&eleId=27&offset=566419&length=25243&dtd=dart3.xsd	자산총계	140,757	116,562	76,728	37,128	
+실리콘웍스	http://dart.fss.or.kr/report/viewer.do?rcpNo=20100423000768&dcmNo=2639830&eleId=27&offset=566419&length=25243&dtd=dart3.xsd	부채총계	36,229	23,934	24,550	13,542	
+실리콘웍스	http://dart.fss.or.kr/report/viewer.do?rcpNo=20100423000768&dcmNo=2639830&eleId=27&offset=566419&length=25243&dtd=dart3.xsd	자본총계	104,528	92,628	52,178	23,586	
+솔라시아	http://dart.fss.or.kr/report/viewer.do?rcpNo=20100428000410&dcmNo=2644819&eleId=27&offset=387964&length=23811&dtd=dart3.xsd	자산총계	11,449,619 	10,338,622 	7,698,843 	4,798,210 	5,482,280 	
+솔라시아	http://dart.fss.or.kr/report/viewer.do?rcpNo=20100428000410&dcmNo=2644819&eleId=27&offset=387964&length=23811&dtd=dart3.xsd	부채총계	4,068,992 	3,128,946	2,486,197 	2,834,016 	3,244,576 	
+솔라시아	http://dart.fss.or.kr/report/viewer.do?rcpNo=20100428000410&dcmNo=2644819&eleId=27&offset=387964&length=23811&dtd=dart3.xsd	자본총계	7,380,627 	7,209,676 	5,212,646 	1,964,194 	2,237,704 	
+이연제약	http://dart.fss.or.kr/report/viewer.do?rcpNo=20100507000382&dcmNo=2660375&eleId=27&offset=956951&length=39194&dtd=dart3.xsd	자산총계	81,914	65,269	54,334	41,107	33,902	
+이연제약	http://dart.fss.or.kr/report/viewer.do?rcpNo=20100507000382&dcmNo=2660375&eleId=27&offset=956951&length=39194&dtd=dart3.xsd	부채총계	22,154	22,638	18,459	16,932	16,379	
+이연제약	http://dart.fss.or.kr/report/viewer.do?rcpNo=20100507000382&dcmNo=2660375&eleId=27&offset=956951&length=39194&dtd=dart3.xsd	자본총계	59,760	42,631	35,875	24,175	17,523	
+이연제약	http://dart.fss.or.kr/report/viewer.do?rcpNo=20100507000382&dcmNo=2660375&eleId=27&offset=956951&length=39194&dtd=dart3.xsd	 매출액 	95,187	72,933	55,734	41,219	31,785	
+이연제약	http://dart.fss.or.kr/report/viewer.do?rcpNo=20100507000382&dcmNo=2660375&eleId=27&offset=956951&length=39194&dtd=dart3.xsd	 영업이익 	20,674	13,215	9,810	9,879	7,374	
+이연제약	http://dart.fss.or.kr/report/viewer.do?rcpNo=20100507000382&dcmNo=2660375&eleId=27&offset=956951&length=39194&dtd=dart3.xsd	 당기순이익 	16,288	7,839	6,554	6,637	5,327	
+케이엔디티	http://dart.fss.or.kr/report/viewer.do?rcpNo=20100507001218&dcmNo=2662110&eleId=27&offset=968319&length=30593&dtd=dart3.xsd	자산총계	22,032,974	19,557,706	 14,844,411 	 10,524,312 	 7,961,474 	
+케이엔디티	http://dart.fss.or.kr/report/viewer.do?rcpNo=20100507001218&dcmNo=2662110&eleId=27&offset=968319&length=30593&dtd=dart3.xsd	부채총계	7,549,412	9,368,122	 6,239,928 	 6,537,484 	 4,757,299 	
+케이엔디티	http://dart.fss.or.kr/report/viewer.do?rcpNo=20100507001218&dcmNo=2662110&eleId=27&offset=968319&length=30593&dtd=dart3.xsd	자본총계	14,483,561	10,189,585	 8,604,483 	 3,986,828 	 3,204,175 	
+케이엔디티	http://dart.fss.or.kr/report/viewer.do?rcpNo=20100507001218&dcmNo=2662110&eleId=27&offset=968319&length=30593&dtd=dart3.xsd	자산총계	2,116,921 	2,334,018 	
+케이엔디티	http://dart.fss.or.kr/report/viewer.do?rcpNo=20100507001218&dcmNo=2662110&eleId=27&offset=968319&length=30593&dtd=dart3.xsd	부채총계	4,864,432 	3,775,431 	
+케이엔디티	http://dart.fss.or.kr/report/viewer.do?rcpNo=20100507001218&dcmNo=2662110&eleId=27&offset=968319&length=30593&dtd=dart3.xsd	자본총계	(2,747,511)	(1,441,413)	
+케이엔디티	http://dart.fss.or.kr/report/viewer.do?rcpNo=20100507001218&dcmNo=2662110&eleId=27&offset=968319&length=30593&dtd=dart3.xsd	부채 및 자본총계	2,116,921 	2,334,018 	
+유비벨록스	http://dart.fss.or.kr/report/viewer.do?rcpNo=20100507000850&dcmNo=2661316&eleId=27&offset=500794&length=37886&dtd=dart3.xsd	자산총계	33,005	16,410	12,650	8,899	5,117	
+유비벨록스	http://dart.fss.or.kr/report/viewer.do?rcpNo=20100507000850&dcmNo=2661316&eleId=27&offset=500794&length=37886&dtd=dart3.xsd	부채총계	12,046	6,089	4,436	3,550	3,105	
+유비벨록스	http://dart.fss.or.kr/report/viewer.do?rcpNo=20100507000850&dcmNo=2661316&eleId=27&offset=500794&length=37886&dtd=dart3.xsd	자본총계	20,959	10,321	8,214	5,350	2,012	
+처음앤씨	http://dart.fss.or.kr/report/viewer.do?rcpNo=20100520000203&dcmNo=2687220&eleId=27&offset=461028&length=20225&dtd=dart3.xsd	자산총계	11,074	10,456	7,033	4,632	330	
+처음앤씨	http://dart.fss.or.kr/report/viewer.do?rcpNo=20100520000203&dcmNo=2687220&eleId=27&offset=461028&length=20225&dtd=dart3.xsd	부채총계	587	784	581	334	-	
+처음앤씨	http://dart.fss.or.kr/report/viewer.do?rcpNo=20100520000203&dcmNo=2687220&eleId=27&offset=461028&length=20225&dtd=dart3.xsd	자본총계	10,487	9,672	6,451	4,298	330	
+웅진에너지	http://dart.fss.or.kr/report/viewer.do?rcpNo=20100518000334&dcmNo=2685665&eleId=27&offset=693076&length=22289&dtd=dart3.xsd	자산총계	222,321,227,485	218,208,054,393	176,478,234,988	55,828,061,475	10,998,729,455	
+웅진에너지	http://dart.fss.or.kr/report/viewer.do?rcpNo=20100518000334&dcmNo=2685665&eleId=27&offset=693076&length=22289&dtd=dart3.xsd	부채총계	115,330,080,583	121,312,630,864	123,557,314,430	49,493,745,078	2,755,060,693	
+웅진에너지	http://dart.fss.or.kr/report/viewer.do?rcpNo=20100518000334&dcmNo=2685665&eleId=27&offset=693076&length=22289&dtd=dart3.xsd	자본총계	106,991,146,902	96,895,423,529	52,920,920,558	6,334,316,397	8,243,668,762	
+에스디시스템	http://dart.fss.or.kr/report/viewer.do?rcpNo=20100611000118&dcmNo=2702625&eleId=27&offset=550918&length=28566&dtd=dart3.xsd	자산총계	25,849,265	   24,924,752 	   19,922,280 	   20,529,291 	
+에스디시스템	http://dart.fss.or.kr/report/viewer.do?rcpNo=20100611000118&dcmNo=2702625&eleId=27&offset=550918&length=28566&dtd=dart3.xsd	부채총계	4,492,310	     4,611,013 	     5,179,102 	   10,398,302 	
+에스디시스템	http://dart.fss.or.kr/report/viewer.do?rcpNo=20100611000118&dcmNo=2702625&eleId=27&offset=550918&length=28566&dtd=dart3.xsd	자본총계	21,356,955	   20,313,739 	   14,743,178 	   10,130,989 	
+크루셜텍	http://dart.fss.or.kr/report/viewer.do?rcpNo=20100611000378&dcmNo=2703423&eleId=27&offset=584791&length=21918&dtd=dart3.xsd	자 산 총 계	40,895,271	18,074,950	6,708,195	8,154,538	4,903,035	
+크루셜텍	http://dart.fss.or.kr/report/viewer.do?rcpNo=20100611000378&dcmNo=2703423&eleId=27&offset=584791&length=21918&dtd=dart3.xsd	부 채 총 계	24,610,758	11,347,232	4,005,109	4,300,190	2,016,573	
+크루셜텍	http://dart.fss.or.kr/report/viewer.do?rcpNo=20100611000378&dcmNo=2703423&eleId=27&offset=584791&length=21918&dtd=dart3.xsd	자 본 총 계	16,284,513	6,727,718	2,703,086	3,854,348	2,886,462	
+웨이포트	http://dart.fss.or.kr/report/viewer.do?rcpNo=20100611000297&dcmNo=2703163&eleId=27&offset=1098595&length=58539&dtd=dart3.xsd	자산총계	616,048	592,781	473,496	393,428	
+웨이포트	http://dart.fss.or.kr/report/viewer.do?rcpNo=20100611000297&dcmNo=2703163&eleId=27&offset=1098595&length=58539&dtd=dart3.xsd	부채총계	461,865	484,326	424,576	370,255	
+웨이포트	http://dart.fss.or.kr/report/viewer.do?rcpNo=20100611000297&dcmNo=2703163&eleId=27&offset=1098595&length=58539&dtd=dart3.xsd	자본총계	154,183	108,455	48,920	23,173	
+웨이포트	http://dart.fss.or.kr/report/viewer.do?rcpNo=20100611000297&dcmNo=2703163&eleId=27&offset=1098595&length=58539&dtd=dart3.xsd	자산총계 	102,054,512	101,401,118	80,996,226	67,299,794	
+웨이포트	http://dart.fss.or.kr/report/viewer.do?rcpNo=20100611000297&dcmNo=2703163&eleId=27&offset=1098595&length=58539&dtd=dart3.xsd	부채총계 	76,512,556	82,848,806	72,627,971	63,335,820	
+웨이포트	http://dart.fss.or.kr/report/viewer.do?rcpNo=20100611000297&dcmNo=2703163&eleId=27&offset=1098595&length=58539&dtd=dart3.xsd	자본총계 	25,541,956	18,552,312	8,368,255	3,963,973	
+우진	http://dart.fss.or.kr/report/viewer.do?rcpNo=20100615000211&dcmNo=2705061&eleId=27&offset=629590&length=36593&dtd=dart3.xsd	자산총계	59,668	60,703	39,698	39,136	32,204	
+우진	http://dart.fss.or.kr/report/viewer.do?rcpNo=20100615000211&dcmNo=2705061&eleId=27&offset=629590&length=36593&dtd=dart3.xsd	부채총계	10,606	13,291	16,464	11,045	8,060	
+우진	http://dart.fss.or.kr/report/viewer.do?rcpNo=20100615000211&dcmNo=2705061&eleId=27&offset=629590&length=36593&dtd=dart3.xsd	자본총계	49,062	47,412	23,234	28,091	24,143	
+우진	http://dart.fss.or.kr/report/viewer.do?rcpNo=20100615000211&dcmNo=2705061&eleId=27&offset=629590&length=36593&dtd=dart3.xsd	자본총계	47,412,033	23,234,222	415,832	28,090,961	234,416	2,4143,440	77,012	
+우진	http://dart.fss.or.kr/report/viewer.do?rcpNo=20100615000211&dcmNo=2705061&eleId=27&offset=629590&length=36593&dtd=dart3.xsd	부채총계	13,291,055	16,464,021	131,134	11,044,699	643,459	8,060,215	450,345	
+하이텍팜	http://dart.fss.or.kr/report/viewer.do?rcpNo=20100621000189&dcmNo=2708336&eleId=27&offset=999406&length=23992&dtd=dart3.xsd	자산총계	38,636	35,545	24,336	19,972	14,801	10,195	
+하이텍팜	http://dart.fss.or.kr/report/viewer.do?rcpNo=20100621000189&dcmNo=2708336&eleId=27&offset=999406&length=23992&dtd=dart3.xsd	부채총계	12,580	13,559	11,771	12,105	8,370	4,789	
+하이텍팜	http://dart.fss.or.kr/report/viewer.do?rcpNo=20100621000189&dcmNo=2708336&eleId=27&offset=999406&length=23992&dtd=dart3.xsd	자본총계	26,056	21,986	12,566	7,868	6,431	5,406	
+인터로조	http://dart.fss.or.kr/report/viewer.do?rcpNo=20100615000246&dcmNo=2705188&eleId=27&offset=467942&length=19776&dtd=dart3.xsd	자산총계	22,813	21,316	14,739	12,166	
+인터로조	http://dart.fss.or.kr/report/viewer.do?rcpNo=20100615000246&dcmNo=2705188&eleId=27&offset=467942&length=19776&dtd=dart3.xsd	부채총계	6,122	6,278	5,992	6,799	
+인터로조	http://dart.fss.or.kr/report/viewer.do?rcpNo=20100615000246&dcmNo=2705188&eleId=27&offset=467942&length=19776&dtd=dart3.xsd	자본총계	16,691	15,039	8,747	5,367	
+아이마켓코리아	http://dart.fss.or.kr/report/viewer.do?rcpNo=20100621000205&dcmNo=2708398&eleId=27&offset=644676&length=11337&dtd=dart3.xsd	자산총계	433,690	347,396	271,208	368,868	714,430	533,883	
+아이마켓코리아	http://dart.fss.or.kr/report/viewer.do?rcpNo=20100621000205&dcmNo=2708398&eleId=27&offset=644676&length=11337&dtd=dart3.xsd	부채총계	330,647	249,620	193,189	302,769	660,946	493,076	
+아이마켓코리아	http://dart.fss.or.kr/report/viewer.do?rcpNo=20100621000205&dcmNo=2708398&eleId=27&offset=644676&length=11337&dtd=dart3.xsd	자본총계	103,043	97,777	78,019	66,099	53,484	40,807	
+이글루시큐리티	http://dart.fss.or.kr/report/viewer.do?rcpNo=20100614000241&dcmNo=2704190&eleId=27&offset=606929&length=21819&dtd=dart3.xsd	자산총계	20,895	17,624	13,996	11,603	9,771	
+이글루시큐리티	http://dart.fss.or.kr/report/viewer.do?rcpNo=20100614000241&dcmNo=2704190&eleId=27&offset=606929&length=21819&dtd=dart3.xsd	부채총계	5,806	6,416	5,100	4,745	3,739	
+이글루시큐리티	http://dart.fss.or.kr/report/viewer.do?rcpNo=20100614000241&dcmNo=2704190&eleId=27&offset=606929&length=21819&dtd=dart3.xsd	자본총계	15,090	11,209	8,896	6,858	6,032	
+엠에스오토텍	http://dart.fss.or.kr/report/viewer.do?rcpNo=20100624000171&dcmNo=2710583&eleId=27&offset=579133&length=40609&dtd=dart3.xsd	자산총계	100,590	91,297	98,652	78,667	69,939	
+엠에스오토텍	http://dart.fss.or.kr/report/viewer.do?rcpNo=20100624000171&dcmNo=2710583&eleId=27&offset=579133&length=40609&dtd=dart3.xsd	부채총계	61,648	52,907	67,604	58,964	51,738	
+엠에스오토텍	http://dart.fss.or.kr/report/viewer.do?rcpNo=20100624000171&dcmNo=2710583&eleId=27&offset=579133&length=40609&dtd=dart3.xsd	자본총계	38,942	38,389	31,048	19,703	18,201	
+엠에스오토텍	http://dart.fss.or.kr/report/viewer.do?rcpNo=20100624000171&dcmNo=2710583&eleId=27&offset=579133&length=40609&dtd=dart3.xsd	자산총계	270,825	289,677	228,932	160,932	150,967	
+엠에스오토텍	http://dart.fss.or.kr/report/viewer.do?rcpNo=20100624000171&dcmNo=2710583&eleId=27&offset=579133&length=40609&dtd=dart3.xsd	부채총계	216,295	248,125	198,222	134,488	123,842	
+엠에스오토텍	http://dart.fss.or.kr/report/viewer.do?rcpNo=20100624000171&dcmNo=2710583&eleId=27&offset=579133&length=40609&dtd=dart3.xsd	자본총계	54,530	41,552	30,709	26,445	27,125	
+엠에스오토텍	http://dart.fss.or.kr/report/viewer.do?rcpNo=20100624000171&dcmNo=2710583&eleId=27&offset=579133&length=40609&dtd=dart3.xsd	자산총계	51,807,791	(727,205)	51,080,586	
+엠에스오토텍	http://dart.fss.or.kr/report/viewer.do?rcpNo=20100624000171&dcmNo=2710583&eleId=27&offset=579133&length=40609&dtd=dart3.xsd	부채총계	40,726,866	905,329	41,632,195	
+도화	http://dart.fss.or.kr/report/viewer.do?rcpNo=20100629000214&dcmNo=2713840&eleId=27&offset=408984&length=45614&dtd=dart3.xsd	자산총계	312,412 	286,128 	159,270 	132,055 	105,601 	93,242 	
+도화	http://dart.fss.or.kr/report/viewer.do?rcpNo=20100629000214&dcmNo=2713840&eleId=27&offset=408984&length=45614&dtd=dart3.xsd	부채총계	165,254 	144,044 	43,736 	38,217 	30,970 	34,442 	
+도화	http://dart.fss.or.kr/report/viewer.do?rcpNo=20100629000214&dcmNo=2713840&eleId=27&offset=408984&length=45614&dtd=dart3.xsd	자본총계	147,158 	142,084 	115,534 	93,838 	74,630 	58,801 	
+씨젠	http://dart.fss.or.kr/report/viewer.do?rcpNo=20100803000201&dcmNo=2739836&eleId=27&offset=653223&length=96595&dtd=dart3.xsd	자 산 총 계	18,538	14,657	5,400	4,144	3,174	
+씨젠	http://dart.fss.or.kr/report/viewer.do?rcpNo=20100803000201&dcmNo=2739836&eleId=27&offset=653223&length=96595&dtd=dart3.xsd	부 채 총 계	8,050	8,014	7,984	6,523	6,141	
+씨젠	http://dart.fss.or.kr/report/viewer.do?rcpNo=20100803000201&dcmNo=2739836&eleId=27&offset=653223&length=96595&dtd=dart3.xsd	자본총계	10,488	6,643	(2,584)	(2,379)	(2,967)	
